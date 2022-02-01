@@ -1,0 +1,11 @@
+site_name: 'nextjs template'
+
+nav:
+  - Eslint: eslint.md
+  - Github workflows: githubWorkflows.md
+  - Prettier: prettier.md
+  - Typescript: typescript.md
+  - About template: index.md
+
+plugins:
+  - techdocs-core

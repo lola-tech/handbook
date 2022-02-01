@@ -1,0 +1,80 @@
+name: Build application
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run-ci:
+    name: Build dockerfile and push to AWS ECR
+    runs-on: ubuntu-latest
+
+    steps:
+      # clone the code repo
+    - name: Checkout
+      uses: actions/checkout@v2
+
+      # creating .env file that is going to have the variables used for yarn build
+    - name: Set env vars
+      run: |
+        # #takes value from github secrets
+        # echo "SECRET_ENV_VAR=${{ secrets.SECRET_ENV_VAR }}" > .env
+        # #value in plain-text
+        # echo "NOT_SO_SECRET_ENV_VAR=prod" >> .env
+
+    #   # login to AWS
+    # - name: Configure AWS credentials
+    #   uses: aws-actions/configure-aws-credentials@v1
+    #   with:
+    #     aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+    #     aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    #     aws-region: eu-west-1
+
+    #   # login to ECR so we can push the image to the image registry
+    # - name: Login to Amazon ECR
+    #   id: login-ecr
+    #   uses: aws-actions/amazon-ecr-login@v1
+
+    #   # create ECR repository before bulilding
+    # - uses: int128/create-ecr-repository-action@v1
+    #   id: ecr
+    #   with:
+    #     repository: repositoryname
+
+    #   # creating artifact that in the root of the repository
+    # - name: Create artifact
+    #   run: |
+    #     touch artifact.tar.gz
+    #     tar --exclude=artifact.tar.gz --exclude=.git -zcvf artifact.tar.gz .
+    #
+    # - name: Build and push the image to ECR
+    #   id: docker_build
+    #   uses: docker/build-push-action@v2
+    #   with:
+    #     # set to true to push to ECR
+    #     push: true
+    #     context: .
+    #     tags: |
+    #       ${{ steps.login-ecr.outputs.registry }}/repositoryname:${{ github.sha }}
+
+    # deployment steps to be done here -- this depends on the infrastructure chosen, so have fun
+
+    # - name: Log out of Amazon ECR
+    #   if: always()
+    #   run: docker logout ${{ steps.login-ecr.outputs.registry }}
+
+    # #slack notifications need a Slack Incoming Webhook Integration created in slack
+    # - name: Slack Notify
+    #   uses: edge/simple-slack-notify@master
+    #   if: always()
+    #   env:
+    #     SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+    #   with:
+    #     status: ${{ job.status }}
+    #     success_text: '*App ${env.GITHUB_WORKFLOW}* workflow passed successfully'
+    #     failure_text: '*App ${env.GITHUB_WORKFLOW}* workflow failed'
+    #     cancelled_text: '*App ${env.GITHUB_WORKFLOW}* workflow was cancelled'
+    #     fields: |
+    #       [{ "title": "Repository", "value": "${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}"},
+    #         { "title": "Action URL", "value": "${env.GITHUB_SERVER_URL}/${env.GITHUB_REPOSITORY}/actions/runs/${env.GITHUB_RUN_ID}"}]

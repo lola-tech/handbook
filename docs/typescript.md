@@ -1,0 +1,1 @@
+The TypeScript version used in this project is ```v4.4.4```.

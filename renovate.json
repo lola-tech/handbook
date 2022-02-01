@@ -1,0 +1,9 @@
+{
+  "extends": ["config:base"],
+  "automerge": true,
+  "semanticCommits": true,
+  "dependencyDashboard": true,
+  "stabilityDays": 3,
+  "prCreation": "not-pending",
+  "labels": ["type: dependencies"]
+}
