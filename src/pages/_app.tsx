@@ -2,6 +2,7 @@ import { AppProps } from 'next/app';
 import { ChakraProvider } from '@chakra-ui/react';
 import theme from '../theme';
 import Layout from '../components/Layout';
+import '@fontsource/inter/400.css';
 
 export default function MyApp({ Component, pageProps }: AppProps) {
   return (

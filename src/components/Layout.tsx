@@ -10,8 +10,13 @@ type Props = {
 const Layout = ({ children, props }: Props) => (
   <>
     <Head>
-      <title>Lola Tech: Handbook</title>
-      <meta name="description" content={"Lola Tech's company handbook"} />
+      <title>Lola Tech&apos;s Handbook</title>
+      <meta
+        name="description"
+        content={
+          "Lola Tech's Handbook - all the practical details about working at Lola Tech"
+        }
+      />
       <Favicon />
     </Head>
     {children}

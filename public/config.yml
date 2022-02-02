@@ -1,0 +1,31 @@
+backend:
+  name: github
+  repo: lola-tech/handbook
+  branch: main
+  base_url: 'https://handbook-lola-tech.vercel.app'
+  auth_endpoint: api/begin
+  commit_messages:
+    create: 'feat: add {{collection}} {{slug}}'
+    update: 'fix: update {{collection}} {{slug}}'
+    delete: 'fix: remove {{collection}} {{slug}}'
+    uploadMedia: 'feat: add media {{path}}'
+    deleteMedia: 'fix: remove media {{path}}'
+local_backend: true
+publish_mode: editorial_workflow
+site_url: 'https://handbook-lola-tech.vercel.app'
+logo_url: 'https://handbook-lola-tech.vercel.app/logoText.svg'
+media_folder: /public/images
+public_folder: /images
+collections:
+  - name: pages
+    label: Pages
+    delete: false
+    files:
+      - label: Handbook
+        name: handbook
+        file: content/index.md
+
+        editor:
+          preview: false
+        fields:
+          - { label: 'Body', name: 'body', widget: 'markdown' }

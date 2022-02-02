@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "handbook"
-  description: "Lola Tech's company handbook "
+  name: 'handbook'
+  description: "Lola Tech's handbook "
   annotations:
     github.com/project-slug: lola-tech/handbook
     backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: experimental
-  owner: "developer-portal-team"
+  owner: 'developer-portal-team'

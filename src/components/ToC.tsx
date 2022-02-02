@@ -1,29 +1,27 @@
-export interface TOCItem {
+import { List, ListItem, Link } from '@chakra-ui/react';
+
+export interface ToCItem {
   value: string;
   data: { id: string };
-  children: TOCItem[];
+  children: ToCItem[];
+  depth: number;
 }
 
-function renderItems(items: TOCItem[]) {
+function renderItems(items: ToCItem[]) {
   return (
-    <ol>
+    <List ms={4}>
       {items.map((item) => (
-        <li key={item.data.id}>
-          <a href={`#${item.data.id}`}>{item.value}</a>
+        <ListItem key={item.data.id}>
+          <Link href={`#${item.data.id}`}>{item.value}</Link>
           {item.children && renderItems(item.children)}
-        </li>
+        </ListItem>
       ))}
-    </ol>
+    </List>
   );
 }
 
-function ToC({ anchors }: { anchors: TOCItem[] }) {
-  return (
-    <details>
-      <summary>Table of Contents</summary>
-      {renderItems(anchors)}
-    </details>
-  );
+function ToC({ anchors }: { anchors: ToCItem[] }) {
+  return <nav>{renderItems(anchors)}</nav>;
 }
 
 export default ToC;

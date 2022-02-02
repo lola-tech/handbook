@@ -1,4 +1,4 @@
-# Lola Tech Company Handbook
+# Lola Tech's Handbook
 
 The essential resource for everyone who works at Lola Tech.
 
