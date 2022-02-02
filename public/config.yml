@@ -3,7 +3,7 @@ backend:
   repo: lola-tech/handbook
   branch: main
   base_url: 'https://handbook-lola-tech.vercel.app'
-  auth_endpoint: api/begin
+  auth_endpoint: api/auth
   commit_messages:
     create: 'feat: add {{collection}} {{slug}}'
     update: 'fix: update {{collection}} {{slug}}'
