@@ -4,13 +4,15 @@ import { serialize } from 'next-mdx-remote/serialize';
 import { MDXRemote, MDXRemoteSerializeResult } from 'next-mdx-remote';
 import slug from 'remark-slug';
 import autolink from 'remark-autolink-headings';
-import components from '../components/MDXComponents';
-import { Heading } from '@chakra-ui/react';
-import ToC, { ToCItem } from '../components/ToC';
+import Head from 'next/head';
 import { unified } from 'unified';
 import markdown from 'remark-parse';
 import extractToc from 'remark-extract-toc';
 import imageSize from 'rehype-img-size';
+import components from '../components/MDXComponents';
+import ToC, { ToCItem } from '../components/ToC';
+import Favicon from '../components/Favicon';
+import '@picocss/pico/css/pico.css';
 interface Props {
   content: MDXRemoteSerializeResult;
   toc: ToCItem[];
@@ -19,11 +21,32 @@ interface Props {
 export default function Index({ content, toc }: Props) {
   return (
     <>
-      <Heading as="h1" size="3xl">
-        Lola Tech&apos;s Handbook
-      </Heading>
-      <ToC anchors={toc} />
-      <MDXRemote {...content} components={components} />
+      <Head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Lola Tech&apos;s Handbook</title>
+        <meta
+          name="description"
+          content={
+            "Lola Tech's Handbook - all the practical details about working at Lola Tech"
+          }
+        />
+        <Favicon />
+      </Head>
+      <header className="container">
+        <hgroup>
+          <h1>Lola Tech&apos;s Handbook</h1>
+          <h2>everything you need to know about working at Lola</h2>
+        </hgroup>
+      </header>
+      <main className="container">
+        <details>
+          <summary>Table of Contents</summary>
+          <ToC anchors={toc} />
+        </details>
+
+        <MDXRemote {...content} components={components} />
+      </main>
+      <footer className="container"></footer>
     </>
   );
 }

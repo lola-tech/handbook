@@ -1,5 +1,3 @@
-import { List, ListItem, Link } from '@chakra-ui/react';
-
 export interface ToCItem {
   value: string;
   data: { id: string };
@@ -9,19 +7,19 @@ export interface ToCItem {
 
 function renderItems(items: ToCItem[]) {
   return (
-    <List ms={4}>
+    <ul>
       {items.map((item) => (
-        <ListItem key={item.data.id}>
-          <Link href={`#${item.data.id}`}>{item.value}</Link>
+        <li key={item.data.id}>
+          <a href={`#${item.data.id}`}>{item.value}</a>
           {item.children && renderItems(item.children)}
-        </ListItem>
+        </li>
       ))}
-    </List>
+    </ul>
   );
 }
 
 function ToC({ anchors }: { anchors: ToCItem[] }) {
-  return <nav>{renderItems(anchors)}</nav>;
+  return <aside>{renderItems(anchors)}</aside>;
 }
 
 export default ToC;
