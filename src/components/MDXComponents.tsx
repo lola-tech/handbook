@@ -1,4 +1,11 @@
-import { ChakraProps, Heading, chakra } from '@chakra-ui/react';
+import {
+  ChakraProps,
+  Heading,
+  chakra,
+  UnorderedList,
+  OrderedList,
+  ListItem,
+} from '@chakra-ui/react';
 import NextImage, { ImageProps } from 'next/image';
 
 const Image = chakra(NextImage, {
@@ -39,6 +46,15 @@ const components = {
     return (
       <Image layout="responsive" loading="lazy" {...props} alt={props.alt} />
     );
+  },
+  ul: function ul(props: ChakraProps) {
+    return <UnorderedList {...props} />;
+  },
+  ol: function ol(props: ChakraProps) {
+    return <OrderedList {...props} />;
+  },
+  li: function li(props: ChakraProps) {
+    return <ListItem {...props} />;
   },
 };
 
