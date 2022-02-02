@@ -1,14 +1,16 @@
+import Head from 'next/head';
+// Gubbins for fetching and wrangling our Markdown content
 import { promises as fsps } from 'fs';
 import path from 'path';
 import { serialize } from 'next-mdx-remote/serialize';
 import { MDXRemote, MDXRemoteSerializeResult } from 'next-mdx-remote';
 import slug from 'remark-slug';
 import autolink from 'remark-autolink-headings';
-import Head from 'next/head';
 import { unified } from 'unified';
 import markdown from 'remark-parse';
 import extractToc from 'remark-extract-toc';
 import imageSize from 'rehype-img-size';
+// Stuff to render it!
 import components from '../components/MDXComponents';
 import ToC, { ToCItem } from '../components/ToC';
 import Favicon from '../components/Favicon';
@@ -52,22 +54,33 @@ export default function Index({ content, toc }: Props) {
 }
 
 export const getStaticProps = async () => {
-  // Grab our markdown file
+  // Grab our markdown file - it gets written by the CMS and committed - which triggers a deployment
   const source = await fsps.readFile(
     path.join(process.cwd(), 'content', 'index.md'),
   );
 
-  // Process it directly to extract data for the table of contents
+  /**
+   * Process it directly to extract data for the table of contents
+   *
+   * This is a bit fiddly :-(
+   * We parse the markdown and then pass it through a couple of remark plugins
+   * `slug` parses out each heading element and generates a slug
+   * `extractToc` builds an object of data reperesenting nested heading levels
+   */
   const extractor = unified()
     .use(markdown)
     .use(slug)
-    .use(extractToc, { keys: ['data'] });
+    .use(extractToc, { keys: ['data'] }); // the second argument gets the slug and adds it to the toc data
   const node = extractor.parse(source);
   const toc = extractor.runSync(node);
 
-  // Prepare the markdown for handoff to mdx-remote
-  // Use some remark plugins to:
-  //  - slug and link the headings
+  /**
+   * Prepare the markdown for handoff to mdx-remote
+   *
+   *   Use some remark plugins to:
+   *   - slug and link the headings
+   *   - add height and width to img elements for the benefit of next/image
+   */
   const mdxSource = await serialize(source.toString(), {
     mdxOptions: {
       remarkPlugins: [slug, autolink],

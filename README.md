@@ -8,7 +8,11 @@ While our handbook is viewable by the public, you need to work at Lola Tech to s
 
 ## Development
 
-We render our handbook with next.js from MDX sources. This is totally overkill. Most of the heavylifting is currently to do with generating a useful table of contents, and enabling the use of `next/image` from inside markdown.
+We render our handbook with next.js from MDX sources. This is totally overkill. Most of the heavy lifting is currently to do with generating a useful table of contents, and enabling the use of `next/image` from inside markdown.
+
+Currently styling is handled by [pico.css](https://picocss.com/) and as many emojii as we can think of.
+
+The CMS is the amazing [NetlifyCMS](netlifycms.org) - check it out - it stores content in github and uses PRs for editorial workflow 💖
 
 ### Quickstart
 
