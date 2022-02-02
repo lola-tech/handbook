@@ -1,29 +1,22 @@
 {
-  "name": "typescript-nextjs-starter",
-  "description": "A TypeScript starter for Next.js that includes all you need to build amazing projects",
+  "name": "lola-handbook",
+  "description": "Lola Tech Company Handbook",
   "version": "1.0.0",
   "private": true,
-  "author": "João Pedro Schmitz <hey@joaopedro.dev> (@jpedroschmitz)",
   "license": "MIT",
-  "keywords": [
-    "nextjs",
-    "starter",
-    "typescript"
-  ],
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start",
     "type-check": "tsc",
-    "lint": "eslint --ignore-path .gitignore \"src/**/*.+(ts|js|tsx)\"",
+    "lint": "next lint",
     "format": "prettier --ignore-path .gitignore \"src/**/*.+(ts|js|tsx)\" --write",
-    "postinstall": "husky install",
-    "commit": "cz"
+    "postinstall": "husky install"
   },
   "lint-staged": {
     "./src/**/*.{ts,js,jsx,tsx}": [
-      "yarn lint --fix",
-      "yarn format"
+      "next lint",
+      "prettier --write"
     ]
   },
   "dependencies": {
@@ -32,20 +25,25 @@
     "@emotion/styled": "11.6.0",
     "framer-motion": "5.3.0",
     "next": "12.0.3",
+    "next-mdx-remote": "3.0.8",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "remark-autolink-headings": "7.0.1",
+    "remark-extract-toc": "1.1.0",
+    "remark-parse": "10.0.1",
+    "remark-slug": "7.0.1",
+    "unified": "10.1.1"
   },
   "devDependencies": {
     "@babel/core": "7.16.0",
     "@commitlint/cli": "14.1.0",
     "@commitlint/config-conventional": "14.1.0",
+    "@types/mdx-js__react": "1.5.5",
     "@types/node": "16.11.7",
     "@types/react": "17.0.34",
     "@types/react-dom": "17.0.11",
     "@typescript-eslint/eslint-plugin": "5.3.1",
     "@typescript-eslint/parser": "5.3.1",
-    "commitizen": "4.2.4",
-    "cz-conventional-changelog": "3.3.0",
     "eslint": "7",
     "eslint-config-airbnb": "19.0.0",
     "eslint-config-next": "12.0.4",
@@ -58,10 +56,5 @@
     "lint-staged": "12.0.2",
     "prettier": "2.4.1",
     "typescript": "4.4.4"
-  },
-  "config": {
-    "commitizen": {
-      "path": "cz-conventional-changelog"
-    }
   }
 }
