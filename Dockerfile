@@ -1,5 +1,5 @@
 #starting from the latest stable version at the time, can be changed accordingly
-FROM node:16.13.1
+FROM node:16.13.2
 
 WORKDIR /opt/app-root/src
 
