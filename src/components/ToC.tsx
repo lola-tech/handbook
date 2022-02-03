@@ -7,7 +7,7 @@ export interface ToCItem {
 
 function renderItems(items: ToCItem[]) {
   return (
-    <ul>
+    <ul style={{ marginInlineStart: '1rem' }}>
       {items.map((item) => (
         <li key={item.data.id}>
           <a href={`#${item.data.id}`}>{item.value}</a>
@@ -19,7 +19,11 @@ function renderItems(items: ToCItem[]) {
 }
 
 function ToC({ anchors }: { anchors: ToCItem[] }) {
-  return <aside>{renderItems(anchors)}</aside>;
+  return (
+    <aside>
+      <nav>{renderItems(anchors)}</nav>
+    </aside>
+  );
 }
 
 export default ToC;
