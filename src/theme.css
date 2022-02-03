@@ -7,6 +7,7 @@
   --primary-focus: rgba(216, 27, 96, 0.125);
   --primary-inverse: #fff;
   --muted-color: #3b4146;
+  --h2-color: #d81b60;
 }
 
 /* Pink Dark scheme (Auto) */
@@ -18,6 +19,7 @@
     --primary-focus: rgba(216, 27, 96, 0.25);
     --primary-inverse: #fff;
     --muted-color: #3b4146;
+    --h2-color: #d81b60;
   }
 }
 
@@ -29,6 +31,7 @@
   --primary-focus: rgba(216, 27, 96, 0.25);
   --primary-inverse: #fff;
   --muted-color: #3b4146;
+  --h2-color: #d81b60;
 }
 
 /* Pink (Common styles) */
