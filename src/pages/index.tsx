@@ -14,7 +14,6 @@ import imageSize from 'rehype-img-size';
 import components from '../components/MDXComponents';
 import ToC, { ToCItem } from '../components/ToC';
 import Favicon from '../components/Favicon';
-import '@picocss/pico/css/pico.css';
 interface Props {
   content: MDXRemoteSerializeResult;
   toc: ToCItem[];
