@@ -38,3 +38,7 @@
   --switch-color: var(--primary-inverse);
   --switch-checked-background-color: var(--primary);
 }
+
+html {
+  scroll-behavior: smooth;
+}
