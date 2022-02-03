@@ -9,4 +9,4 @@ metadata:
 spec:
   type: website
   lifecycle: experimental
-  owner: 'developer-portal-team'
+  owner: 'workers'
