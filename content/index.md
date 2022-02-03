@@ -1,6 +1,6 @@
 ## Welcome
 
-## ❤️ Support
+## Support
 
 ### 🕸️ The Mesh
 
@@ -36,15 +36,13 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
 
 ***CoPs*** are encouraged to conduct some of their activity in public as part of the "[Lola Tech & Friends](https://www.meetup.com/lola-tech-and-friends/)" meetup group.
 
-### Hiring
+### 👋 Hiring
 
-#### Hiring Timeline
+#### ⌛ Hiring Timeline
 
-#### Interview Guidelines
+#### 👩‍❤️‍👩 Interview Guidelines
 
-### On-boarding
-
-#### On-boarding Timeline
+#### 🐣 On-boarding Timeline
 
 ## Practicalities
 
@@ -54,11 +52,11 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
 
 ### 🏠 Working from Home
 
-### Equipment
+### 🛠️ Equipment
 
 ### 🧰 Tools and Services
 
-### Acceptable Use Policy
+### 📋 Acceptable Use Policy
 
 ### Not Working
 
@@ -72,7 +70,7 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
 
 #### 🪦 Compassionate Leave
 
-## 📋 Formal Processes
+## Formal Processes
 
 ### 🗯️ Complaints & Grievances
 
