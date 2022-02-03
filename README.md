@@ -13,6 +13,7 @@ We render our handbook with next.js from MDX sources. This is totally overkill. 
 Currently styling is handled by [pico.css](https://picocss.com/) and as many emojii as we can think of.
 
 The CMS is the amazing [NetlifyCMS](netlifycms.org) - check it out - it stores content in github and uses PRs for editorial workflow 💖
+It runs in production, and on preview branches, where it is connected to a Github OAuth application (which you can manage [here](https://github.com/organizations/lola-tech/settings/applications/1823057)). If you want to try it out locally you can do that too, by running `yarn localcms` alongside `yarn dev`.
 
 ### Quickstart
 
