@@ -119,7 +119,7 @@ export const getStaticProps = async () => {
   return { props: { content: mdxSource, toc } };
 };
 
-export const options = {
+export const config = {
   // So, this is cool. Use it on any next.js page to remove all clientside js from the output.
   // Of course you only want to do this on super-static views like this one - but the page will be super-fast now.
   unstable_runtimeJS: false,
