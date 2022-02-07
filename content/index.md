@@ -190,9 +190,17 @@ When you are sick, please let your scrum master know asap and log your absence i
 
 If you are unwell for more than a week you might need to get a medical certificate stating the reason for the absence, so you can qualify for sick pay. 
 
-Clinical appointments: Advise your scrum master about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them any details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule. 
+Clinical appointments: Let your scrum master know about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule. 
 
 #### 👶 Parental Leave
+
+Becoming a parent is one of the most important moments in your life, whether it be by giving birth, surrogacy or adoption. We want to support you as best we can at this crucial time for you and your family
+
+If you are becoming a parent (again), let us when when the little one is expected . We will ask about your intention to take parental leave although we realise that this may change later on.
+
+If you or your partner are pregnant, you are entitled to take paid time off work to attend ante-natal appointments. 
+
+
 
 #### 🗺️ Sabbaticals
 
