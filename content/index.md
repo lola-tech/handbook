@@ -230,17 +230,15 @@ You can take ten days of bereavement leave for the death of a spouse or partner,
 
 Time off for dependants:
 
-All employees are entitled to a reasonable amount of unpaid time off during working hours in order to take action which is necessary: 
+All employees are entitled to a reasonable amount of paid time off during working hours in order to take action which is necessary: 
 
 * To provide assistance if a dependant falls ill, gives birth or is injured;
 * To make arrangements to care for an ill or injured dependant;
 * As a result of the death of a dependant;
-*  Due to unexpected disruption or termination of arrangements for the care of a dependant; or
+* Due to unexpected disruption or termination of arrangements for the care of a dependant; or
 * To deal with an incident involving a child of the employee which occurs unexpectedly during school time.
 
 The company requires you to give the reason of your absence as soon as is reasonably practical and to indicate how long you expect to be absent. A “dependant” is the partner, child or parent of the employee or any person who lives in the same household of the employee, who reasonably relies on the employee for assistance or to make arrangements for their care.
-
-
 
 ## Formal Processes
 
