@@ -200,7 +200,25 @@ If you are becoming a parent (again), let us when when the little one is expecte
 
 If you or your partner are pregnant, you are entitled to take paid time off work to attend ante-natal appointments. 
 
+You should notify your Team Lead verbally (then follow up in writing) at least 15 weeks before you intend to start taking your maternity, paternity or adoption leave. You are required to provide the following information in writing to the Company:
 
+* The date the child is expected to be (or was) born or adopted.
+* How much leave you wish to take.
+* When you want your leave to start.
+
+In the case of an adopted child, your notice should also specify the date on which the adopter was notified of having been matched with the child.
+
+In the case of multiple births from the same pregnancy, only one period of leave is available.
+
+The earliest date that maternity pay can start is from the 11th week before the week your baby is due and the latest from the day following the birth.
+
+Paternity Leave can start on any day of the week on or following the child’s birth or placement for adoption, but it must be completed either within 56 days of the actual date of childbirth or adoption or, if the child is born early, within the period from the actual date of childbirth up to 56 days after the first day of the expected week of childbirth.
+
+Adoption leave can start on the day the child is placed with you for adoption (whether this is earlier or later than expected) or on a date that is up to 14 days before the expected date of placement.
+
+You can change your mind about the date you wish to start your leave but you must give us 28 days’ notice of the change.
+
+Throughout the parental (and adoption) leave you are entitled to all your non-pay related contractual benefits.
 
 #### 🗺️ Sabbaticals
 
