@@ -198,9 +198,9 @@ Clinical appointments: Advise your scrum master about medical appointments (for 
 
 #### 🪦 Compassionate Leave
 
-In the event of critical illness or death of a member of your immediate family, the company will be generous in its considerations of special leave. 
+In the event of critical illness or death of a member of your immediate family, the company will be generous in its considerations of special leave. Let your scrum master or advocate know your plans as soon as you can so they can arrange to cover your absence.
 
-The company may grant an additional extended period of leave on a case by case basis. The company may be willing to grant unpaid leave in some circumstances.
+You can take ten days of bereavement leave for the death of a spouse or partner, child or child-in-law, parent or parent-in-law, or sibling or sibling-in-law. You can take three days of bereavement leave for the death of a grandparent, niece or nephew, cousin, or close friend. These caps are not to say you must return to work after so many days; you can use any of your available vacation time if you find you need more time off after bereavement leave. And if you know you'll be away from work for much longer than outlined above, please talk to your advocate to discuss that special case.
 
 Time off for dependants:
 
