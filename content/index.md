@@ -186,7 +186,11 @@ If you leave the company you are expected to use any untaken holiday during your
 
 #### 🤒 Sick Leave
 
-When you are sick, please let your scrum master know asap and log your absence in [CharlieHR](https://lolatech.charliehr.com/)
+When you are sick, please let your scrum master know asap and log your absence in [CharlieHR](https://lolatech.charliehr.com/). Let us know if you need help.
+
+If you are unwell for more than a week you might need to get a medical certificate stating the reason for the absence, so you can qualify for sick pay. 
+
+Clinical appointments: Advise your scrum master about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them any details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule. 
 
 #### 👶 Parental Leave
 
