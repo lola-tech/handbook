@@ -172,15 +172,29 @@ Whilst working from home, it helps to use your Slack status to show when you are
 
 ### Not Working
 
+Any absence should be requested and tracked in [CharlieHR](https://lolatech.charliehr.com/)
+
 #### 🏖️ Holidays
 
+Your annual holiday entitlement is stated in your contract of employment and runs from January 1 - December 31. You should arrange your holidays in advance by requesting them in [CharlieHR](https://lolatech.charliehr.com/).
+
+Every effort will be made to accommodate your individual holiday wishes. As a general rule you should request holiday at least one month in advance per week holiday. 
+
+You can carry over maximum 10 unused holidays on the condition it is used within the first 3 months of the new holiday year.
+
+If you leave the company you are expected to use any untaken holiday during your notice period. If that is not possible and/or you still have unused holidays by your final day, you will be entitled to pay in lieu. Similarly, if you have taken more holidays than you have accrued you will be required to repay the company. Any sums owing will normally be deducted from your final salary payment. 
+
 #### 🤒 Sick Leave
+
+When you are sick, please let your scrum master know asap and log your absence in [CharlieHR](https://lolatech.charliehr.com/)
 
 #### 👶 Parental Leave
 
 #### 🗺️ Sabbaticals
 
 #### 🪦 Compassionate Leave
+
+
 
 ## Formal Processes
 
