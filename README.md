@@ -8,7 +8,7 @@ While our handbook is viewable by the public, you need to work at Lola Tech to s
 
 ## Development
 
-We render our handbook with next.js from MDX sources. This is totally overkill. Most of the heavy lifting is currently to do with generating a useful table of contents, and enabling the use of `next/image` from inside markdown.
+We render our handbook with next.js from MDX sources. This is totally overkill. Most of the heavy lifting is currently to do with generating a useful table of contents, and enabling the use of `next/image` from inside markdown. We pay back many of the worst excesses of using this stack for a single page of straighforward HTML by using an experimental next.js config to omit client-side javasctript on a page-by-page basis.
 
 Currently styling is handled by [pico.css](https://picocss.com/) and as many emojii as we can think of.
 
