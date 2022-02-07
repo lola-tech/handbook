@@ -64,6 +64,48 @@ How to be a good buddy - Suggested timeline:
 
 #### 🧙‍♀️ Mentors
 
+The Mentoring system at Lola Tech helps everyone to work with a trusted advisor. Mentors in Lola Tech exist to nurture, support and inspire. "Mentoring is a learning relationship between an experienced person and someone who wants to grow."
+
+Everyone is encouraged to find a mentor. You can either pick someone yourself from the pool of mentor candidates, or ask the Lola Tech matchmaking service to assign you someone.
+
+A mentor - mentee relationship is designed to last for a period of 3 months. After this timeframe, there is a chance to renew.
+
+The suggested time commitment is 1 hour per mentee per 2 weeks. Meetings should be scheduled as far in advance as possible, and take precedence over other work commitments whenever possible.
+
+Matchmaking:
+The mentor should be someone with substantial experience in the field the mentee wants to grow in
+
+Suggested intro meeting:
+
+* Share backgrounds to get to know each other
+* Discuss what each want to get out of this
+* Talk about topics, interests, areas to grow
+* Agree on cadence (suggest every fortnight)
+* Mentee sends out invite for next meet
+
+Suggested subsequent meeting:
+
+* Key things that happened since last time
+* Discuss a challenge that you're facing or a topic that needs attention
+* Mentee sends out invite for next meet
+
+Guidance for mentors:
+
+* Suggest limiting the number of mentees to 3 at any time
+* You may suggest activities for your mentee to take on between sessions, do this sparingly and be respectful of their time. It is not a mentor's role to set or mark homework.
+* Take a look at the collection of mentoring resources (link) and consider seeking a mentor of your own, especially if this is new to you.
+* Try to learn something from your mentee
+
+Guidance for mentees:
+
+It is for you to set the agenda, with the guidance of your mentor. Be sure to arrive at each session with a topic in mind for discussion.
+
+Reading list:
+
+How to apply to be a mentor:
+
+
+
 #### 👩‍🌾 Scrum Masters
 
 #### 🙋 Advocates
