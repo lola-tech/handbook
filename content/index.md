@@ -160,7 +160,7 @@ Our offices are open and you are very welcome to work there.
 
 When you work from home, you should aim to have a quiet spot wherever possible, so that you can have video calls with a minimum of interruption or distraction. 
 
-If your child is sick, it is unlikely that you can get any work done from home. You should consider whether you should take a holiday (unpaid leave is also possible) or make up the time later in the day or the week. We expect honesty and transparency and in return we offer flexibility. 
+If your child is sick, it is unlikely that you can get much work done from home. You should consider whether you should take a holiday (unpaid leave is also possible) or make up the time later in the day or the week. We expect honesty and transparency and in return we offer flexibility. 
 
 Whilst working from home, it helps to use your Slack status to show when you are away from your desk. If in doubt, always over communicate.
 
