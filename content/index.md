@@ -8,13 +8,15 @@ The Lola Tech mesh framework is set up to make every staff member feel welcome, 
 
 #### 🤝 Buddies
 
-The Buddies system at Lola Tech helps new colleagues find their feet swiftly and make new connections. It plays an important role in maintaining a happy workplace.
+The Buddies system at Lola Tech helps new colleagues find their feet swiftly and make new connections. It plays an important role in feeling safe and looked after, and maintaining a happy workplace. #buddies
+
+A buddy provides a friendly face from day one, a place to ask "stupid" questions (spoiler: there aren't any), and helps make joining Lola Tech a great experience.
 
 When someone first joins the company they are assigned a Buddy from the existing pool of volunteers. There's no magic to the selection process here but there's a preference for pairings which cross Team and CoP boundaries but which connect folk at comparable stages in their careers.
 
 After that it is just a matter of following the timeline set out below and keeping to the Buddies Contract:
 
-*  Buddies relationship at Lola Tech is reciprocal. 
+* Buddies relationship at Lola Tech is reciprocal. 
 * An initial Buddy partnership is designed to last for one month. We hope after this time you've got to know each other well enough to continue your relationship.
 * Both participants agree to make time for the activities and to take action if something interferes. 
 * Scheduled buddy meetings take precedence over other work activities. 
@@ -35,6 +37,30 @@ How to be a good buddy - Suggested timeline:
   * Make sure you have a slack DM between you so there's an easy open channel
   * Ensure you take them, with anyone else who wants to come, for lunch at your favourite spot. Expense this!
   * Book in a time to chat the next day to discuss anything that's on their mind
+* Second day:
+
+  * Have a check in to talk about any questions
+  * Make a point of introducing them to two people
+* Third day:
+
+  * Book in a short session near the end of their first week. Put it in the calendar. Make it repeat weekly for the next 3 weeks
+* End of first week
+
+  * Use the end of week session to focus on practical issues. Commuting, timekeeping, equipment, facilities, expense arrangements etc.
+  * Share a favourite tip or trick for making the best of life at Lola Tech
+* End of second week
+
+  * Use the end of week session to chat about what you each did at work in the last week
+* End of third week
+
+  * Use the end of week session to talk about what still remains mysterious about Lola Tech. Take actions to resolve the mysteries
+* End of fourth week
+
+  * Use the end of week session to prepare for a review of the first month with the buddy coordinator (currently Inge)
+  * Book Buddy coordinator meeting
+* After a month
+
+  * Book a short meeting with you, your buddy, and the buddy coordinator to give feedback about how the onboarding went in the first month.
 
 #### 🧙‍♀️ Mentors
 
