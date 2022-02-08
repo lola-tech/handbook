@@ -6,7 +6,7 @@
 
 The Lola Tech mesh framework is set up to make every staff member feel welcome, supported and encouraged by assigning the following roles:
 
-#### 🤝 Buddies
+### 🤝 Buddies
 
 The Buddies system at Lola Tech helps new colleagues find their feet swiftly and make new connections. It plays an important role in feeling safe and looked after, and maintaining a happy workplace. #buddies
 
@@ -62,7 +62,7 @@ How to be a good buddy - Suggested timeline:
 
   * Book a short meeting with you, your buddy, and the buddy coordinator to give feedback about how the onboarding went in the first month.
 
-#### 🧙‍♀️ Mentors
+### 🧙‍♀️ Mentors
 
 The Mentoring system at Lola Tech helps everyone to work with a trusted advisor. Mentors in Lola Tech exist to nurture, support and inspire. "Mentoring is a learning relationship between an experienced person and someone who wants to grow."
 
@@ -104,11 +104,11 @@ Reading list:
 
 How to apply to be a mentor:
 
-#### 👩‍🌾 Scrum Masters
+### 👩‍🌾 Scrum Masters
 
-#### 🙋 Advocates
+### 🙋 Advocates
 
-#### 🧑‍🤝‍🧑 Communities of Practice
+### 🧑‍🤝‍🧑 Communities of Practice
 
 Lola Tech's Communities of Practice (***CoPs***) are semi-formal groups dedicated to improving our skills and practice in specific areas.
 
@@ -132,7 +132,7 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
 
 ***CoPs*** are encouraged to conduct some of their activity in public as part of the "[Lola Tech & Friends](https://www.meetup.com/lola-tech-and-friends/)" meetup group.
 
-### 👋 Hiring
+## 👋 Hiring
 
 #### ⌛ Hiring Timeline
 
@@ -179,11 +179,11 @@ It is not the company's intention to police your appearance in any way. The avat
 
 ### 📋 Acceptable Use Policy
 
-### Not Working
+## Not Working
 
 Any absence should be requested and tracked in [CharlieHR](https://lolatech.charliehr.com/)
 
-#### 🏖️ Holidays
+### 🏖️ Holidays
 
 Your annual holiday entitlement is stated in your contract of employment and runs from January 1 - December 31. You should arrange your holidays in advance by requesting them in [CharlieHR](https://lolatech.charliehr.com/).
 
@@ -193,7 +193,7 @@ You can carry over maximum 10 unused holidays on the condition it is used within
 
 If you leave the company you are expected to use any untaken holiday during your notice period. If that is not possible and/or you still have unused holidays by your final day, you will be entitled to pay in lieu. Similarly, if you have taken more holidays than you have accrued you will be required to repay the company. Any sums owing will normally be deducted from your final salary payment. 
 
-#### 🤒 Sick Leave
+### 🤒 Sick Leave
 
 When you are sick, please let your scrum master know asap and log your absence in [CharlieHR](https://lolatech.charliehr.com/). Let us know if you need help.
 
@@ -201,7 +201,7 @@ If you are unwell for more than a week you might need to get a medical certifica
 
 Clinical appointments: Let your scrum master know about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule. 
 
-#### 👶 Parental Leave
+### 👶 Parental Leave
 
 Becoming a parent is one of the most important moments in your life, whether it be by giving birth, surrogacy or adoption. We want to support you as best we can at this crucial time for you and your family
 
@@ -229,6 +229,19 @@ You can change your mind about the date you wish to start your leave but you mus
 
 Throughout the parental (and adoption) leave you are entitled to all your non-pay related contractual benefits.
 
+#### Parental pay (formerly paternity pay)
+
+We provide 2 weeks paternity pay at full pay. 
+
+Parental pay applies 
+
+* on the birth of a child where you are either the biological parent or mother's partner and expect to have some responsibility for the child's upbringing.
+* Where an adoption agency places a child with you or your partner for fostering or adoption and you expect to have main responsibility (possibly with your partner) for the child's upbringing.
+
+#### Maternity pay
+
+Maternity pay is paid to (future) parents who are pregnant. In Romania, the government covers up to 24 months of fully paid maternity leave. 
+
 #### 🗺️ Sabbaticals
 
 #### 🪦 Compassionate Leave
@@ -253,7 +266,61 @@ The company requires you to give the reason of your absence as soon as is reason
 
 ### 🗯️ Complaints & Grievances
 
+We encourage an open and honest relationship between the company and its team and we hope that we can resolve any grievance by early discussion with your advocate or other management.
+
+If the informal approach has not been successful, the following process applies.
+
 ### 🚨 Disciplinary Process
+
+If there is a complaint against you at work, the company will establish the facts surrounding this and no disciplinary action will be taken until the matter has been investigated. If it is not serious, the company will discuss the matter with you suggesting areas for improvement.
+
+If the complaint is serious, the company has the right to suspend you on full pay while they investigate. Suspension during investigation is not a disciplinary action or a prejudgement of the issue. The period of suspension shall be reasonably decided by the company. If the company considers that it is necessary to invoke a formal procedure they will supply a comprehensive written description of the full procedure that will be followed. This can be obtained from management at any time.
+
+**Disciplinary actions -** If there is a breach of company policies and disciplinary action is needed, it consists of 4 stages:
+
+**Stage 1 - Oral warning** – If it is a minor breach you will be given a formal oral warning and informed of the consequences and, if appropriate, any improvement required from you and the time frame.
+
+**Stage 2 - Written Warning** – if it is a serious breach or a repetition of a minor breach, you will be given a written warning setting out the precise nature of the offence and future consequences. If appropriate, it will specify any improvement and the time frame required from you.
+
+**Stage 3 - Final Written Warning -** If you fail to improve following a written warning or if the offence, is not gross misconduct although is serious enough in the company's view to warrant a final warning, you will be given a written final warning. This will set out the precise nature of the offence, state that any recurrence may lead to dismissal and specify, if appropriate, the nature of the improvement and the time frame required from you.\
+**Stage 4 - Dismissal** - In the case of gross misconduct, or if all previous stages of the warning procedure have been exhausted, the employee will normally be dismissed. The company reserves the right, where reasonable, not to dismiss, but to impose other disciplinary action including (but without limitation) demotion, transfer to another department, loss of seniority, loss of right to a pay increment or bonus or suspension with or without pay.
+
+In relation to gross misconduct, such dismissal shall be without notice or payment in lieu of notice.
+
+**Breaches -** The following are examples of breaches of company policy, which could lead to formal disciplinary action.
+
+**Minor breaches**: poor job performance or minor breach of your contract of employment or company's policies and procedures.\
+**Serious breaches**: abusive behaviour; unauthorised absenteeism; a serious breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.\
+**Gross misconduct**: negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the use for personal ends of confidential information obtained in the course of the Employee's employment; falsification of records; conviction of a criminal charge; intoxication during hours of work resulting from the consumption of alcohol or illegal drugs; or possession of illegal drugs at work.
+
+###  Whistleblowing policy
+
+Lola Tech is committed to the highest standards of transparency, integrity and accountability.
+
+An important aspect of accountability and transparency is enabling employees to voice concerns in a responsible and effective manner. Where an individual discovers information which they believe shows serious wrongdoing within the organisation then this information should be disclosed internally without fear of reprisal.
+
+These concerns could include but are not limited to:
+
+* Breach of computer security, confidentiality and data protection;
+* Software piracy or other use of unauthorised material;
+* Breach of the company’s own copyright and intellectual property;
+* Terms and Conditions of Employment;
+* Negative or destructive behaviour, poor attendance, lateness, absenteeism, sickness, impaired work performance;
+* Use of or supply of any illegal or controlled drugs at work;
+* Failure to comply with a legal obligation;
+* Dangers to Health & Safety of the work environment;
+* Improper conduct or unethical behaviour;
+* Attempts to conceal any of these.
+
+We will treat all such disclosures in a confidential and sensitive manner. The identity of the employee making the allegation may be kept confidential so long as it does not hinder any investigation.
+
+#### Procedure for making a disclosure
+
+On receipt of a complaint, the member of the company who receives and takes note of the complaint, must pass this information as soon as is reasonably possible as follows:
+
+* Complaints of misconduct or impropriety will be investigated by the management team unless the complaint is against one of the members of the management team or is in any way related to their actions. In such cases, the complaint should be passed to the CEO (Inge) or Business Owner (Luke) for referral.
+* In the case of a complaint, which is any way connected with but not against the management team, the CEO will nominate an external party to act as the alternative investigating officer.
+* The complainant has the right to bypass the line management structure and take their complaint direct to the CEO or to the Business Owner. They can refer the complaint back to management if they feel that the management without any conflict of interest can more appropriately investigate the complaint.
 
 ### 💰 Compensation
 
