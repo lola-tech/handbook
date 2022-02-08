@@ -173,6 +173,22 @@ Wherever you're physically located while working you will be making frequent use
 
 It is not the company's intention to police your appearance in any way. The avatar you provide need not be a direct representation, though consistency across platforms is helpful to all. There are many occasions when it is sensible and reasonable to keep your camera off and a break from seeing ourselves is often welcome but visibility, even when you are not the speaker, supports a communicative, welcoming and human workplace.
 
+### Personal Appearance
+
+We do not have a dress code and encourage you to wear what you like. We expect an acceptable level of hygiene and cleanliness. If you're going to have contact with clients or are representing the company at an event, wear appropriate business clothes.
+
+### Personal Details
+
+Keep change of address, emergency contact or next of kin up to date in CharlieHR.
+
+### **Drugs & Alcohol**
+
+Use of or supply of any illegal or controlled drugs at work is not permitted and will lead to dismissal.
+
+Consuming alcohol on company premises is only permitted under special circumstances and with permission.
+
+If you are prescribed medication that may have a detrimental effect on work performance, inform your advocate so consideration can be given to temporary, reasonable adjustments to responsibilities at work.
+
 ### 🛠️ Equipment
 
 ### 🧰 Tools and Services
