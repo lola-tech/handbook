@@ -293,7 +293,7 @@ In relation to gross misconduct, such dismissal shall be without notice or payme
 **Serious breaches**: abusive behaviour; unauthorised absenteeism; a serious breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.\
 **Gross misconduct**: negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the use for personal ends of confidential information obtained in the course of the Employee's employment; falsification of records; conviction of a criminal charge; intoxication during hours of work resulting from the consumption of alcohol or illegal drugs; or possession of illegal drugs at work.
 
-###  Whistleblowing policy
+### Whistleblowing policy
 
 Lola Tech is committed to the highest standards of transparency, integrity and accountability.
 
@@ -325,3 +325,49 @@ On receipt of a complaint, the member of the company who receives and takes note
 ### 💰 Compensation
 
 ### 🧳 Travel & Expenses
+
+All travel expenses should be agreed with your advocate or senior managers before booking. The most economic means of travel should be chosen, where practical. Travel between your home and place of work or travel for your own purpose will not be treated as a company travel expense.
+
+**Trains**
+
+We will reimburse the cost of **standard class travel** on submission of a receipt. First class travel must be pre-authorised.
+
+**Taxis**
+
+Please use public transport where available, unless previously agreed, or it is cost effective due to a significant saving of journey time and you obtain a receipt. When using Uber, use the company account.
+
+**Car**
+
+The company is aware of its responsibilities and liabilities when you are driving a car on company business. If you own the car, you are responsible to ensure it is roadworthy and your vehicle insurance includes ‘driving on business travel’. If the car is a hire vehicle, please check that you are covered by correct insurance for the country you are in.
+
+You are expected to uphold the law and never drive while over the legal alcohol limit or under the influence of drugs. The company makes cost-efficient car services like Uber or other cabs available to employees for instances like this.
+
+Seek authorisation **before** using your car for business travels. You may claim a mileage allowance and parking on proof of mileage and parking receipts.
+
+Penalty fares / fines for parking or driving offences will not be reimbursed, other than at our discretion or in exceptional circumstances.
+
+**Air Travel**
+
+When a trip is required you should agree this with your manager. Tahlecion or Ciprian will book flights for you.  As a rule we will choose the cheapest fare from an airport within reasonable distance from you. Exceptions should be pre-authorised.
+
+**Accommodation and other overnight travel expenses**
+
+If you are required to be away overnight, accommodation arrangements will be made for you, including any car hire. No upgrade of car is allowed unless by prior approval. We will reimburse reasonable out-of-pocket expenses for meals, please keep both card and till receipts.
+
+**Entertaining Clients**
+
+You may entertain actual or prospective clients when you have approval and an appropriate budget that has been agreed in advance. Receipts must be submitted with your claim.
+
+**Other Expenses**
+
+Purchase of computer or office equipment, phone or internet costs must be authorised before purchase and a receipt must be submitted.
+
+**Claiming expenses**
+
+To claim travel expenses please use the company's Expensify app.
+
+* Add a copy of the receipt for each amount. If a receipt has 2 parts i.e. the credit card and an item list, you must include both sections in your claim.
+* On your Expensify claim, mark all of your expenses Zero VAT.
+* If you travel to USA including through the UK, mark your expenses 'International Travel'.
+* If you travel for a conference, mark ALL related expenses as 'Conference', including food and hotel.
+* If you travel within Europe for any other reason than conference, mark your expenses 'Travel Europe'
