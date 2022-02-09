@@ -31,7 +31,7 @@
     "next-mdx-remote": "3.0.8",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "rehype-img-size": "0.0.2",
+    "rehype-img-size": "1.0.1",
     "remark-autolink-headings": "7.0.1",
     "remark-extract-toc": "1.1.0",
     "remark-parse": "10.0.1",
