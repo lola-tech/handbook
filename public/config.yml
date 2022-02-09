@@ -12,6 +12,7 @@ backend:
     deleteMedia: 'fix: remove media {{path}}'
   squash_merges: true
 local_backend: true
+publish_mode: editorial_workflow
 site_url: 'https://handbook-lola-tech.vercel.app'
 logo_url: 'https://handbook-lola-tech.vercel.app/logoText.svg'
 media_folder: /public/images
