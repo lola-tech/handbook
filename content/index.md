@@ -243,6 +243,8 @@ You should notify the company at least 15 weeks before you intend to start takin
 
 🚧🚧🚧  Inge rewrite this waffle
 
+
+
 The earliest date that maternity pay can start is from the 11th week before the week your baby is due and the latest from the day following the birth.
 
 Paternity Leave can start on any day of the week on or following the child’s birth or placement for adoption, but it must be completed either within 56 days of the actual date of childbirth or adoption or, if the child is born early, within the period from the actual date of childbirth up to 56 days after the first day of the expected week of childbirth.
