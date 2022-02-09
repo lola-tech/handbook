@@ -243,8 +243,6 @@ You should notify the company at least 15 weeks before you intend to start takin
 
 🚧🚧🚧  Inge rewrite this waffle
 
-
-
 The earliest date that maternity pay can start is from the 11th week before the week your baby is due and the latest from the day following the birth.
 
 Paternity Leave can start on any day of the week on or following the child’s birth or placement for adoption, but it must be completed either within 56 days of the actual date of childbirth or adoption or, if the child is born early, within the period from the actual date of childbirth up to 56 days after the first day of the expected week of childbirth.
@@ -289,13 +287,36 @@ The company requires you to give the reason of your absence as soon as is reason
 
 ## Formal Processes
 
-### 🗯️ Complaints & Grievances
+Lola Tech is committed to the highest standards of transparency, integrity and accountability.
 
-We encourage an open and honest relationship between the company and its team and we hope that we can resolve any grievance by early discussion with your advocate or other management.
+### 🗯️ When you need a change from the company
 
-If the informal approach has not been successful, the following process applies.
+We encourage an open and honest relationship between the company and its team and we hope that we can resolve any grievance by early discussion with your advocate or other management. When this is not resolved in your opinion, you should address the complaint to whoever you believe best suited from the management team. They will respond with a timeline for action within 24h. 
 
-### 🚨 Disciplinary Process
+#### Whistleblowing policy
+
+An important aspect of accountability and transparency is enabling employees to voice concerns in a responsible and effective manner. Where an individual discovers information which they believe shows serious wrongdoing within the organisation then this information should be disclosed internally without fear of reprisal.
+
+These concerns could include but are not limited to:
+
+* Breach of computer security, confidentiality and data protection;
+* Software piracy or other use of unauthorised material;
+* Breach of the company’s own copyright and intellectual property;
+* Terms and Conditions of Employment;
+* Negative or destructive behaviour, poor attendance, lateness, absenteeism, sickness, impaired work performance;
+* Use of or supply of any illegal or controlled drugs at work;
+* Failure to comply with a legal obligation;
+* Dangers to Health & Safety of the work environment;
+* Improper conduct or unethical behaviour;
+* Attempts to conceal any of these.
+
+We will treat all such disclosures in a confidential and sensitive manner. The identity of the employee making the allegation may be kept confidential so long as it does not hinder any investigation.
+
+#### Procedure for making a disclosure
+
+All disclosures should be passed to the CEO (Inge) or Business Owner (Luke), whoever is most appropriate in your opinion. They will respond with a timeline for action within 24h.
+
+### 🚨 When the company requires a change from you
 
 If there is a complaint against you at work, the company will establish the facts surrounding this and no disciplinary action will be taken until the matter has been investigated. If it is not serious, the company will discuss the matter with you suggesting areas for improvement.
 
@@ -317,35 +338,6 @@ In relation to gross misconduct, such dismissal shall be without notice or payme
 **Minor breaches**: poor job performance or minor breach of your contract of employment or company's policies and procedures.\
 **Serious breaches**: abusive behaviour; unauthorised absenteeism; a serious breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.\
 **Gross misconduct**: negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the use for personal ends of confidential information obtained in the course of the Employee's employment; falsification of records; conviction of a criminal charge; intoxication during hours of work resulting from the consumption of alcohol or illegal drugs; or possession of illegal drugs at work.
-
-### Whistleblowing policy
-
-Lola Tech is committed to the highest standards of transparency, integrity and accountability.
-
-An important aspect of accountability and transparency is enabling employees to voice concerns in a responsible and effective manner. Where an individual discovers information which they believe shows serious wrongdoing within the organisation then this information should be disclosed internally without fear of reprisal.
-
-These concerns could include but are not limited to:
-
-* Breach of computer security, confidentiality and data protection;
-* Software piracy or other use of unauthorised material;
-* Breach of the company’s own copyright and intellectual property;
-* Terms and Conditions of Employment;
-* Negative or destructive behaviour, poor attendance, lateness, absenteeism, sickness, impaired work performance;
-* Use of or supply of any illegal or controlled drugs at work;
-* Failure to comply with a legal obligation;
-* Dangers to Health & Safety of the work environment;
-* Improper conduct or unethical behaviour;
-* Attempts to conceal any of these.
-
-We will treat all such disclosures in a confidential and sensitive manner. The identity of the employee making the allegation may be kept confidential so long as it does not hinder any investigation.
-
-#### Procedure for making a disclosure
-
-On receipt of a complaint, the member of the company who receives and takes note of the complaint, must pass this information as soon as is reasonably possible as follows:
-
-* Complaints of misconduct or impropriety will be investigated by the management team unless the complaint is against one of the members of the management team or is in any way related to their actions. In such cases, the complaint should be passed to the CEO (Inge) or Business Owner (Luke) for referral.
-* In the case of a complaint, which is any way connected with but not against the management team, the CEO will nominate an external party to act as the alternative investigating officer.
-* The complainant has the right to bypass the line management structure and take their complaint direct to the CEO or to the Business Owner. They can refer the complaint back to management if they feel that the management without any conflict of interest can more appropriately investigate the complaint.
 
 ### 💰 Compensation
 
