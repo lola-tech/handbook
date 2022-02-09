@@ -182,15 +182,13 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
 
 The company runs a flexible schedule regarding working hours. This is so we can service customers who are on different timezones and to ensure everyone can do their job to the best of your ability, and be flexible to cater for personal circumstances and preferences.
 
-Core working hours are 10-4 which means we expect everyone to be working during that period as well as before or after to make up your contracted hours. Any deviation for this should be discussed with your scrum master and/or advocate.
+Core working hours are 10-4 which means we expect everyone to be working during that period as well as before or after to make up your contracted hours. Any deviation for this should be discussed with your scrum master and/or advocate. Your number of working hours per week is stated in your contract.
 
 *Whether you are working from home or from the office, we don't want your scrum master or anyone else to police your working hours; we expect you do that yourself.*
 
 ### 🏢 Working from the Office
 
-Our policy has always been that everyone should be able to work from wherever they are able to do their best work.
-
-Our offices are open and you are very welcome to work there. 
+Our policy has always been that everyone should be able to work from wherever they are able to do their best work. Our offices are open and you are very welcome to work there. 
 
 ### 🏠 Working from Home
 
