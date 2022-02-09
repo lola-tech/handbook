@@ -1,3 +1,7 @@
+## Lola Tech Core Values
+
+
+
 ## Support
 
 ### 🕸️ The Mesh
@@ -335,9 +339,9 @@ In relation to gross misconduct, such dismissal shall be without notice or payme
 
 **Breaches -** The following are examples of breaches of company policy, which could lead to formal disciplinary action.
 
-**Minor breaches**: poor job performance or minor breach of your contract of employment or company's policies and procedures.\
-**Serious breaches**: abusive behaviour; unauthorised absenteeism; a serious breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.\
-**Gross misconduct**: negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the use for personal ends of confidential information obtained in the course of the Employee's employment; falsification of records; conviction of a criminal charge; intoxication during hours of work resulting from the consumption of alcohol or illegal drugs; or possession of illegal drugs at work.
+**Minor breaches**: unintentional breach of the company's policies and procedures. Poor job performance is also classed as a minor breach.\
+**Serious breaches**: abusive behaviour; unauthorised absenteeism; intentional breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.\
+**Gross misconduct**: negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the misuse of confidential information obtained in the course of the employee's employment; falsification of records; conviction of a criminal charge.
 
 ### 💰 Compensation
 
