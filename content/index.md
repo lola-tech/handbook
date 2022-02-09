@@ -1,12 +1,10 @@
-## Welcome
-
 ## Support
 
 ### 🕸️ The Mesh
 
 The Lola Tech mesh framework is set up to make every staff member feel welcome, supported and encouraged by assigning the following roles:
 
-#### 🤝 Buddies
+### 🤝 Buddies
 
 The Buddies system at Lola Tech helps new colleagues find their feet swiftly and make new connections. It plays an important role in feeling safe and looked after, and maintaining a happy workplace. #buddies
 
@@ -62,7 +60,7 @@ How to be a good buddy - Suggested timeline:
 
   * Book a short meeting with you, your buddy, and the buddy coordinator to give feedback about how the onboarding went in the first month.
 
-#### 🧙‍♀️ Mentors
+### 🧙‍♀️ Mentors
 
 The Mentoring system at Lola Tech helps everyone to work with a trusted advisor. Mentors in Lola Tech exist to nurture, support and inspire. "Mentoring is a learning relationship between an experienced person and someone who wants to grow."
 
@@ -104,11 +102,15 @@ Reading list:
 
 How to apply to be a mentor:
 
-#### 👩‍🌾 Scrum Masters
+### 👩‍🌾 Scrum Masters
 
-#### 🙋 Advocates
+🚧🚧🚧 Inge
 
-#### 🧑‍🤝‍🧑 Communities of Practice
+### 🙋 Advocates
+
+🚧🚧🚧  Inge
+
+### 🧑‍🤝‍🧑 Communities of Practice
 
 Lola Tech's Communities of Practice (***CoPs***) are semi-formal groups dedicated to improving our skills and practice in specific areas.
 
@@ -132,13 +134,19 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
 
 ***CoPs*** are encouraged to conduct some of their activity in public as part of the "[Lola Tech & Friends](https://www.meetup.com/lola-tech-and-friends/)" meetup group.
 
-### 👋 Hiring
+## 👋 Hiring
 
 #### ⌛ Hiring Timeline
 
+🚧🚧🚧  *Ciprian to add*
+
 #### 👩‍❤️‍👩 Interview Guidelines
 
+🚧🚧🚧  *VladM to add*
+
 #### 🐣 On-boarding Timeline
+
+🚧🚧🚧  Ciprian to add
 
 ## Practicalities
 
@@ -173,17 +181,35 @@ Wherever you're physically located while working you will be making frequent use
 
 It is not the company's intention to police your appearance in any way. The avatar you provide need not be a direct representation, though consistency across platforms is helpful to all. There are many occasions when it is sensible and reasonable to keep your camera off and a break from seeing ourselves is often welcome but visibility, even when you are not the speaker, supports a communicative, welcoming and human workplace.
 
+### Personal Appearance
+
+We do not have a dress code and encourage you to wear what you like. We expect an acceptable level of hygiene and cleanliness. If you're going to have contact with clients or are representing the company at an event, wear appropriate business clothes.
+
+### Personal Details
+
+Keep any change of address, emergency contact or next of kin up to date in CharlieHR.
+
 ### 🛠️ Equipment
+
+🚧🚧 something about 
+
+* ergonomics
+* screens and laptops
+* Rupert and VladR to flesh out
 
 ### 🧰 Tools and Services
 
+🚧🚧  We use Slack, Zoom, CharlieHR, --> get this from intro email for new starters
+
 ### 📋 Acceptable Use Policy
 
-### Not Working
+🚧🚧  VladR
+
+## Not Working
 
 Any absence should be requested and tracked in [CharlieHR](https://lolatech.charliehr.com/)
 
-#### 🏖️ Holidays
+### 🏖️ Holidays
 
 Your annual holiday entitlement is stated in your contract of employment and runs from January 1 - December 31. You should arrange your holidays in advance by requesting them in [CharlieHR](https://lolatech.charliehr.com/).
 
@@ -191,9 +217,9 @@ Every effort will be made to accommodate your individual holiday wishes. As a ge
 
 You can carry over maximum 10 unused holidays on the condition it is used within the first 3 months of the new holiday year.
 
-If you leave the company you are expected to use any untaken holiday during your notice period. If that is not possible and/or you still have unused holidays by your final day, you will be entitled to pay in lieu. Similarly, if you have taken more holidays than you have accrued you will be required to repay the company. Any sums owing will normally be deducted from your final salary payment. 
+If you leave the company we will balance your remaining holiday (positive or negative) with your final salary payment.  
 
-#### 🤒 Sick Leave
+### 🤒 Sick Leave
 
 When you are sick, please let your scrum master know asap and log your absence in [CharlieHR](https://lolatech.charliehr.com/). Let us know if you need help.
 
@@ -201,23 +227,21 @@ If you are unwell for more than a week you might need to get a medical certifica
 
 Clinical appointments: Let your scrum master know about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule. 
 
-#### 👶 Parental Leave
+### 👶 Parental Leave
 
-Becoming a parent is one of the most important moments in your life, whether it be by giving birth, surrogacy or adoption. We want to support you as best we can at this crucial time for you and your family
+Becoming a parent is one of the most important moments in your life, whether it be by giving birth, surrogacy, adoption, fostering etc. We want to support you as best we can at this crucial time for you and your family. If anything in these parental leave policies causes complexity for your particular personal circumstances, we are open to all and any possibilities.
 
 If you are becoming a parent (again), let us when when the little one is expected . We will ask about your intention to take parental leave although we realise that this may change later on.
 
 If you or your partner are pregnant, you are entitled to take paid time off work to attend ante-natal appointments. 
 
-You should notify your Team Lead verbally (then follow up in writing) at least 15 weeks before you intend to start taking your maternity, paternity or adoption leave. You are required to provide the following information in writing to the Company:
+You should notify the company at least 15 weeks before you intend to start taking your maternity, paternity or adoption leave. Please provide the following:
 
-* The date the child is expected to be (or was) born or adopted.
+* The date the child is expected to arrive
 * How much leave you wish to take.
-* When you want your leave to start.
+* When you intend your leave to start.
 
-In the case of an adopted child, your notice should also specify the date on which the adopter was notified of having been matched with the child.
-
-In the case of multiple births from the same pregnancy, only one period of leave is available.
+🚧🚧🚧  Inge rewrite this waffle
 
 The earliest date that maternity pay can start is from the 11th week before the week your baby is due and the latest from the day following the birth.
 
@@ -229,13 +253,25 @@ You can change your mind about the date you wish to start your leave but you mus
 
 Throughout the parental (and adoption) leave you are entitled to all your non-pay related contractual benefits.
 
+#### Parental pay (formerly paternity pay)
+
+We provide 2 weeks' leave at full pay, which you can take when you see fit. 
+
+Parental pay applies on the arrival of a child where you are either the biological parent or mother's partner
+
+#### Maternity pay
+
+Maternity pay is paid to (future) parents who are pregnant. In Romania, the government covers up to 24 months of fully paid maternity leave. 
+
 #### 🗺️ Sabbaticals
 
-#### 🪦 Compassionate Leave
+🚧🚧🚧  Cipri can you dig it up
 
-In the event of critical illness or death of a member of your immediate family, the company will be generous in its considerations of special leave. Let your scrum master or advocate know your plans as soon as you can so they can arrange to cover your absence.
+#### 🫂 Compassionate Leave
 
-You can take ten days of bereavement leave for the death of a spouse or partner, child or child-in-law, parent or parent-in-law, or sibling or sibling-in-law. You can take three days of bereavement leave for the death of a grandparent, niece or nephew, cousin, or close friend. These caps are not to say you must return to work after so many days; you can use any of your available vacation time if you find you need more time off after bereavement leave. And if you know you'll be away from work for much longer than outlined above, please talk to your advocate to discuss that special case.
+In the event of critical illness or death which affects you, the company will be generous in its considerations of special leave. Let your scrum master or advocate know your plans as soon as you can so they can arrange to cover your absence.
+
+You can take ten days of bereavement leave for the death of a spouse or partner, child or child-in-law, parent or parent-in-law, or sibling or sibling-in-law. You can take three days of bereavement leave for the death of a grandparent, niece or nephew, cousin, or close friend. These caps are not to say you must return to work after so many days; you can use any of your available vacation time if you find you need more time off after bereavement leave. And if you know you'll be away from work for much longer than outlined above, please talk to your advocate to discuss.
 
 Time off for dependants:
 
@@ -253,8 +289,108 @@ The company requires you to give the reason of your absence as soon as is reason
 
 ### 🗯️ Complaints & Grievances
 
+We encourage an open and honest relationship between the company and its team and we hope that we can resolve any grievance by early discussion with your advocate or other management.
+
+If the informal approach has not been successful, the following process applies.
+
 ### 🚨 Disciplinary Process
+
+If there is a complaint against you at work, the company will establish the facts surrounding this and no disciplinary action will be taken until the matter has been investigated. If it is not serious, the company will discuss the matter with you suggesting areas for improvement.
+
+If the complaint is serious, the company has the right to suspend you on full pay while they investigate. Suspension during investigation is not a disciplinary action or a prejudgement of the issue. The period of suspension shall be reasonably decided by the company. If the company considers that it is necessary to invoke a formal procedure they will supply a comprehensive written description of the full procedure that will be followed. This can be obtained from management at any time.
+
+**Disciplinary actions -** If there is a breach of company policies and disciplinary action is needed, it consists of 4 stages:
+
+**Stage 1 - Oral warning** – If it is a minor breach you will be given a formal oral warning and informed of the consequences and, if appropriate, any improvement required from you and the time frame.
+
+**Stage 2 - Written Warning** – if it is a serious breach or a repetition of a minor breach, you will be given a written warning setting out the precise nature of the offence and future consequences. If appropriate, it will specify any improvement and the time frame required from you.
+
+**Stage 3 - Final Written Warning -** If you fail to improve following a written warning or if the offence, is not gross misconduct although is serious enough in the company's view to warrant a final warning, you will be given a written final warning. This will set out the precise nature of the offence, state that any recurrence may lead to dismissal and specify, if appropriate, the nature of the improvement and the time frame required from you.\
+**Stage 4 - Dismissal** - In the case of gross misconduct, or if all previous stages of the warning procedure have been exhausted, the employee will normally be dismissed. The company reserves the right, where reasonable, not to dismiss, but to impose other disciplinary action including (but without limitation) demotion, transfer to another department, loss of seniority, loss of right to a pay increment or bonus or suspension with or without pay.
+
+In relation to gross misconduct, such dismissal shall be without notice or payment in lieu of notice.
+
+**Breaches -** The following are examples of breaches of company policy, which could lead to formal disciplinary action.
+
+**Minor breaches**: poor job performance or minor breach of your contract of employment or company's policies and procedures.\
+**Serious breaches**: abusive behaviour; unauthorised absenteeism; a serious breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.\
+**Gross misconduct**: negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the use for personal ends of confidential information obtained in the course of the Employee's employment; falsification of records; conviction of a criminal charge; intoxication during hours of work resulting from the consumption of alcohol or illegal drugs; or possession of illegal drugs at work.
+
+### Whistleblowing policy
+
+Lola Tech is committed to the highest standards of transparency, integrity and accountability.
+
+An important aspect of accountability and transparency is enabling employees to voice concerns in a responsible and effective manner. Where an individual discovers information which they believe shows serious wrongdoing within the organisation then this information should be disclosed internally without fear of reprisal.
+
+These concerns could include but are not limited to:
+
+* Breach of computer security, confidentiality and data protection;
+* Software piracy or other use of unauthorised material;
+* Breach of the company’s own copyright and intellectual property;
+* Terms and Conditions of Employment;
+* Negative or destructive behaviour, poor attendance, lateness, absenteeism, sickness, impaired work performance;
+* Use of or supply of any illegal or controlled drugs at work;
+* Failure to comply with a legal obligation;
+* Dangers to Health & Safety of the work environment;
+* Improper conduct or unethical behaviour;
+* Attempts to conceal any of these.
+
+We will treat all such disclosures in a confidential and sensitive manner. The identity of the employee making the allegation may be kept confidential so long as it does not hinder any investigation.
+
+#### Procedure for making a disclosure
+
+On receipt of a complaint, the member of the company who receives and takes note of the complaint, must pass this information as soon as is reasonably possible as follows:
+
+* Complaints of misconduct or impropriety will be investigated by the management team unless the complaint is against one of the members of the management team or is in any way related to their actions. In such cases, the complaint should be passed to the CEO (Inge) or Business Owner (Luke) for referral.
+* In the case of a complaint, which is any way connected with but not against the management team, the CEO will nominate an external party to act as the alternative investigating officer.
+* The complainant has the right to bypass the line management structure and take their complaint direct to the CEO or to the Business Owner. They can refer the complaint back to management if they feel that the management without any conflict of interest can more appropriately investigate the complaint.
 
 ### 💰 Compensation
 
 ### 🧳 Travel & Expenses
+
+All travel expenses should be agreed with your advocate or senior managers before booking. The most economic means of travel should be chosen, where practical. Travel between your home and place of work or travel for your own purpose will not be treated as a company travel expense.
+
+**Trains**
+
+We will reimburse the cost of **standard class travel** on submission of a receipt. First class travel must be pre-authorised.
+
+**Taxis**
+
+Please use public transport where available, unless previously agreed, or it is cost effective due to a significant saving of journey time and you obtain a receipt. When using Uber, use the company account.
+
+**Car**
+
+The company is aware of its responsibilities and liabilities when you are driving a car on company business. If you own the car, you are responsible to ensure it is roadworthy and your vehicle insurance includes ‘driving on business travel’. If the car is a hire vehicle, please check that you are covered by correct insurance for the country you are in.
+
+You are expected to uphold the law and never drive while over the legal alcohol limit or under the influence of drugs. The company makes cost-efficient car services like Uber or other cabs available to employees for instances like this.
+
+Seek authorisation **before** using your car for business travels. You may claim a mileage allowance and parking on proof of mileage and parking receipts.
+
+Penalty fares / fines for parking or driving offences will not be reimbursed, other than at our discretion or in exceptional circumstances.
+
+**Air Travel**
+
+When a trip is required you should agree this with your manager. Tahlecion or Ciprian will book flights for you.  As a rule we will choose the cheapest fare from an airport within reasonable distance from you. Exceptions should be pre-authorised.
+
+**Accommodation and other overnight travel expenses**
+
+If you are required to be away overnight, accommodation arrangements will be made for you, including any car hire. No upgrade of car is allowed unless by prior approval. We will reimburse reasonable out-of-pocket expenses for meals, please keep both card and till receipts.
+
+**Entertaining Clients**
+
+You may entertain actual or prospective clients when you have approval and an appropriate budget that has been agreed in advance. Receipts must be submitted with your claim.
+
+**Other Expenses**
+
+Purchase of computer or office equipment, phone or internet costs must be authorised before purchase and a receipt must be submitted.
+
+**Claiming expenses**
+
+To claim travel expenses please use the company's Expensify app.
+
+* Add a copy of the receipt for each amount. If a receipt has 2 parts i.e. the credit card and an item list, you must include both sections in your claim.
+* On your Expensify claim, mark all of your expenses Zero VAT.
+* If you travel to USA including through the UK, mark your expenses 'International Travel'.
+* If you travel for a conference, mark ALL related expenses as 'Conference', including food and hotel.
+* If you travel within Europe for any other reason than conference, mark your expenses 'Travel Europe'
