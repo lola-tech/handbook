@@ -108,11 +108,21 @@ How to apply to be a mentor:
 
 ### 👩‍🌾 Scrum Masters
 
-🚧🚧🚧 Inge
+* A scrum master is responsible for the performance of a team, making sure team members can perform to the best of their ability. 
+* They acknowledge holiday requests in CharlieHR so that they can schedule and adjust project work
+* Scrum masters are usually consulted when advocates review performance
 
-### 🙋 Advocates
+### 🙋 Advocates (formerly known as line managers)
 
-🚧🚧🚧  Inge
+Everyone should have an advocate who officially looks after them. Their main areas of responsibility are:
+
+* Discuss focus and goals
+* Review feedback
+* Highlight needs, career progression, promotions, salary reviews
+* Identify knowledge gaps and arrange training
+* Encourage/ monitor use of the mentor system
+
+
 
 ### 🧑‍🤝‍🧑 Communities of Practice
 
