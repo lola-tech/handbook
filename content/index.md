@@ -269,15 +269,7 @@ You should notify the company at least 15 weeks before you intend to start takin
 * How much leave you wish to take.
 * When you intend your leave to start.
 
-🚧🚧🚧  Inge rewrite this waffle
-
-The earliest date that maternity pay can start is from the 11th week before the week your baby is due and the latest from the day following the birth.
-
-Paternity Leave can start on any day of the week on or following the child’s birth or placement for adoption, but it must be completed either within 56 days of the actual date of childbirth or adoption or, if the child is born early, within the period from the actual date of childbirth up to 56 days after the first day of the expected week of childbirth.
-
-Adoption leave can start on the day the child is placed with you for adoption (whether this is earlier or later than expected) or on a date that is up to 14 days before the expected date of placement.
-
-You can change your mind about the date you wish to start your leave but you must give us 28 days’ notice of the change.
+Because no arrival is the same, we trust you to take the parental leave in the way that is best for your family. 
 
 Throughout the parental (and adoption) leave you are entitled to all your non-pay related contractual benefits.
 
@@ -289,7 +281,7 @@ Parental pay applies on the arrival of a child where you are either the biologic
 
 #### Maternity pay
 
-Maternity pay is paid to (future) parents who are pregnant. In Romania, the government covers up to 24 months of fully paid maternity leave. 
+Maternity pay is paid to (future) parents who are pregnant. In Romania, the government covers up to 24 months of fully paid maternity leave and some restrictions apply to when you can start your leave.
 
 #### 🗺️ Sabbaticals
 
@@ -319,9 +311,11 @@ Lola Tech is committed to the highest standards of transparency, integrity and a
 
 ### 🗯️ When you need a change from the company
 
+#### Grievance
+
 We encourage an open and honest relationship between the company and its team and we hope that we can resolve any grievance by early discussion with your advocate or other management. When this is not resolved in your opinion, you should address the complaint to whoever you believe best suited from the management team. They will respond with a timeline for action within 24h. 
 
-#### Whistleblowing policy
+#### ✋ Whistleblowing policy
 
 An important aspect of accountability and transparency is enabling employees to voice concerns in a responsible and effective manner. Where an individual discovers information which they believe shows serious wrongdoing within the organisation then this information should be disclosed internally without fear of reprisal.
 
@@ -350,18 +344,22 @@ If there is a complaint against you at work, the company will establish the fact
 
 If the complaint is serious, the company has the right to suspend you on full pay while they investigate. Suspension during investigation is not a disciplinary action or a prejudgement of the issue. The period of suspension shall be reasonably decided by the company. If the company considers that it is necessary to invoke a formal procedure they will supply a comprehensive written description of the full procedure that will be followed. This can be obtained from management at any time.
 
-**Disciplinary actions -** If there is a breach of company policies and disciplinary action is needed, it consists of 4 stages:
+**Disciplinary actions**
 
-**Stage 1 - Oral warning** – If it is a minor breach you will be given a formal oral warning and informed of the consequences and, if appropriate, any improvement required from you and the time frame.
+**If** there is a breach of company policies and disciplinary action is needed, it consists of 4 stages:
 
-**Stage 2 - Written Warning** – if it is a serious breach or a repetition of a minor breach, you will be given a written warning setting out the precise nature of the offence and future consequences. If appropriate, it will specify any improvement and the time frame required from you.
+**Stage 1 - Oral warning:** if it is a minor breach you will be given a formal oral warning and informed of the consequences and, if appropriate, any improvement required from you and the time frame.
 
-**Stage 3 - Final Written Warning -** If you fail to improve following a written warning or if the offence, is not gross misconduct although is serious enough in the company's view to warrant a final warning, you will be given a written final warning. This will set out the precise nature of the offence, state that any recurrence may lead to dismissal and specify, if appropriate, the nature of the improvement and the time frame required from you.\
-**Stage 4 - Dismissal** - In the case of gross misconduct, or if all previous stages of the warning procedure have been exhausted, the employee will normally be dismissed. The company reserves the right, where reasonable, not to dismiss, but to impose other disciplinary action including (but without limitation) demotion, transfer to another department, loss of seniority, loss of right to a pay increment or bonus or suspension with or without pay.
+**Stage 2 - Written Warning:** if it is a serious breach or a repetition of a minor breach, you will be given a written warning setting out the precise nature of the offence and future consequences. If appropriate, it will specify any improvement and the time frame required from you.
+
+**Stage 3 - Final Written Warning:** if you fail to improve following a written warning or if the offence, is not gross misconduct although is serious enough in the company's view to warrant a final warning, you will be given a written final warning. This will set out the precise nature of the offence, state that any recurrence may lead to dismissal and specify, if appropriate, the nature of the improvement and the time frame required from you.\
+**Stage 4 - Dismissal:** in the case of gross misconduct, or if all previous stages of the warning procedure have been exhausted, the employee will normally be dismissed. The company reserves the right, where reasonable, not to dismiss, but to impose other disciplinary action including (but without limitation) demotion, transfer to another department, loss of seniority, loss of right to a pay increment or bonus or suspension with or without pay.
 
 In relation to gross misconduct, such dismissal shall be without notice or payment in lieu of notice.
 
-**Breaches -** The following are examples of breaches of company policy, which could lead to formal disciplinary action.
+**Breaches**
+
+The following are examples of breaches of company policy, which could lead to formal disciplinary action.
 
 **Minor breaches**: unintentional breach of the company's policies and procedures. Poor job performance is also classed as a minor breach.\
 **Serious breaches**: abusive behaviour; unauthorised absenteeism; intentional breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.\
@@ -375,7 +373,7 @@ All travel expenses should be agreed with your advocate or senior managers befor
 
 **Trains**
 
-We will reimburse the cost of **standard class travel** on submission of a receipt. First class travel must be pre-authorised.
+We will reimburse the cost of standard class travel on submission of a receipt. First class travel must be pre-authorised.
 
 **Taxis**
 
@@ -393,7 +391,7 @@ Penalty fares / fines for parking or driving offences will not be reimbursed, o
 
 **Air Travel**
 
-When a trip is required you should agree this with your manager. Tahlecion or Ciprian will book flights for you.  As a rule we will choose the cheapest fare from an airport within reasonable distance from you. Exceptions should be pre-authorised.
+When a trip is required you should agree this with your advocate. Tahlecion or Ciprian will book flights for you.  We will aim to get you to your destination from an airport within reasonable distance from you. 
 
 **Accommodation and other overnight travel expenses**
 
