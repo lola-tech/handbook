@@ -1,5 +1,3 @@
-## Welcome
-
 ## Support
 
 ### 🕸️ The Mesh
@@ -106,7 +104,11 @@ How to apply to be a mentor:
 
 ### 👩‍🌾 Scrum Masters
 
+🚧🚧🚧 Inge
+
 ### 🙋 Advocates
+
+🚧🚧🚧  Inge
 
 ### 🧑‍🤝‍🧑 Communities of Practice
 
@@ -136,9 +138,15 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
 
 #### ⌛ Hiring Timeline
 
+🚧🚧🚧  *Ciprian to add*
+
 #### 👩‍❤️‍👩 Interview Guidelines
 
+🚧🚧🚧  *VladM to add*
+
 #### 🐣 On-boarding Timeline
+
+🚧🚧🚧  Ciprian to add
 
 ## Practicalities
 
@@ -179,21 +187,23 @@ We do not have a dress code and encourage you to wear what you like. We expect a
 
 ### Personal Details
 
-Keep change of address, emergency contact or next of kin up to date in CharlieHR.
-
-### **Drugs & Alcohol**
-
-Use of or supply of any illegal or controlled drugs at work is not permitted and will lead to dismissal.
-
-Consuming alcohol on company premises is only permitted under special circumstances and with permission.
-
-If you are prescribed medication that may have a detrimental effect on work performance, inform your advocate so consideration can be given to temporary, reasonable adjustments to responsibilities at work.
+Keep any change of address, emergency contact or next of kin up to date in CharlieHR.
 
 ### 🛠️ Equipment
 
+🚧🚧 something about 
+
+* ergonomics
+* screens and laptops
+* Rupert and VladR to flesh out
+
 ### 🧰 Tools and Services
 
+🚧🚧  We use Slack, Zoom, CharlieHR, --> get this from intro email for new starters
+
 ### 📋 Acceptable Use Policy
+
+🚧🚧  VladR
 
 ## Not Working
 
@@ -207,7 +217,7 @@ Every effort will be made to accommodate your individual holiday wishes. As a ge
 
 You can carry over maximum 10 unused holidays on the condition it is used within the first 3 months of the new holiday year.
 
-If you leave the company you are expected to use any untaken holiday during your notice period. If that is not possible and/or you still have unused holidays by your final day, you will be entitled to pay in lieu. Similarly, if you have taken more holidays than you have accrued you will be required to repay the company. Any sums owing will normally be deducted from your final salary payment. 
+If you leave the company we will balance your remaining holiday (positive or negative) with your final salary payment.  
 
 ### 🤒 Sick Leave
 
@@ -219,21 +229,19 @@ Clinical appointments: Let your scrum master know about medical appointments (fo
 
 ### 👶 Parental Leave
 
-Becoming a parent is one of the most important moments in your life, whether it be by giving birth, surrogacy or adoption. We want to support you as best we can at this crucial time for you and your family
+Becoming a parent is one of the most important moments in your life, whether it be by giving birth, surrogacy, adoption, fostering etc. We want to support you as best we can at this crucial time for you and your family. If anything in these parental leave policies causes complexity for your particular personal circumstances, we are open to all and any possibilities.
 
 If you are becoming a parent (again), let us when when the little one is expected . We will ask about your intention to take parental leave although we realise that this may change later on.
 
 If you or your partner are pregnant, you are entitled to take paid time off work to attend ante-natal appointments. 
 
-You should notify your Team Lead verbally (then follow up in writing) at least 15 weeks before you intend to start taking your maternity, paternity or adoption leave. You are required to provide the following information in writing to the Company:
+You should notify the company at least 15 weeks before you intend to start taking your maternity, paternity or adoption leave. Please provide the following:
 
-* The date the child is expected to be (or was) born or adopted.
+* The date the child is expected to arrive
 * How much leave you wish to take.
-* When you want your leave to start.
+* When you intend your leave to start.
 
-In the case of an adopted child, your notice should also specify the date on which the adopter was notified of having been matched with the child.
-
-In the case of multiple births from the same pregnancy, only one period of leave is available.
+🚧🚧🚧  Inge rewrite this waffle
 
 The earliest date that maternity pay can start is from the 11th week before the week your baby is due and the latest from the day following the birth.
 
@@ -247,12 +255,9 @@ Throughout the parental (and adoption) leave you are entitled to all your non-pa
 
 #### Parental pay (formerly paternity pay)
 
-We provide 2 weeks paternity pay at full pay. 
+We provide 2 weeks' leave at full pay, which you can take when you see fit. 
 
-Parental pay applies 
-
-* on the birth of a child where you are either the biological parent or mother's partner and expect to have some responsibility for the child's upbringing.
-* Where an adoption agency places a child with you or your partner for fostering or adoption and you expect to have main responsibility (possibly with your partner) for the child's upbringing.
+Parental pay applies on the arrival of a child where you are either the biological parent or mother's partner
 
 #### Maternity pay
 
@@ -260,11 +265,13 @@ Maternity pay is paid to (future) parents who are pregnant. In Romania, the gove
 
 #### 🗺️ Sabbaticals
 
-#### 🪦 Compassionate Leave
+🚧🚧🚧  Cipri can you dig it up
 
-In the event of critical illness or death of a member of your immediate family, the company will be generous in its considerations of special leave. Let your scrum master or advocate know your plans as soon as you can so they can arrange to cover your absence.
+#### 🫂 Compassionate Leave
 
-You can take ten days of bereavement leave for the death of a spouse or partner, child or child-in-law, parent or parent-in-law, or sibling or sibling-in-law. You can take three days of bereavement leave for the death of a grandparent, niece or nephew, cousin, or close friend. These caps are not to say you must return to work after so many days; you can use any of your available vacation time if you find you need more time off after bereavement leave. And if you know you'll be away from work for much longer than outlined above, please talk to your advocate to discuss that special case.
+In the event of critical illness or death which affects you, the company will be generous in its considerations of special leave. Let your scrum master or advocate know your plans as soon as you can so they can arrange to cover your absence.
+
+You can take ten days of bereavement leave for the death of a spouse or partner, child or child-in-law, parent or parent-in-law, or sibling or sibling-in-law. You can take three days of bereavement leave for the death of a grandparent, niece or nephew, cousin, or close friend. These caps are not to say you must return to work after so many days; you can use any of your available vacation time if you find you need more time off after bereavement leave. And if you know you'll be away from work for much longer than outlined above, please talk to your advocate to discuss.
 
 Time off for dependants:
 
