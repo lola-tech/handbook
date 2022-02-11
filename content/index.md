@@ -14,8 +14,6 @@ We have written this employee handbook with our core values in mind:
 
 Nothing in this handbook should supersede rules and laws of the country where this is read. 
 
-
-
 ## Support
 
 ### 🕸️ The Mesh
@@ -135,8 +133,6 @@ Everyone should have an advocate who officially looks after them. Their main are
 * Highlight needs, career progression, promotions, salary reviews
 * Identify knowledge gaps and arrange training
 * Encourage/ monitor use of the mentor system
-
-
 
 ### 🧑‍🤝‍🧑 Communities of Practice
 
@@ -364,6 +360,18 @@ The following are examples of breaches of company policy, which could lead to fo
 **Gross misconduct**: negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the misuse of confidential information obtained in the course of the employee's employment; falsification of records; conviction of a criminal charge.
 
 ### 💰 Compensation
+
+Salary reviews happen twice a year (summer and winter).  Pay rises are decided by the management team, approved by the executive team and informed by regular reviews held by advocates. 
+
+Ranges:
+
+L1 - junior:  < €25k/year
+L2 - mid:     €25k-40k/year
+L3 - senior: €40k-60k/year
+L4 - leading (CoP Dir, Tech Lead): €40k+/year
+L5 - mgmt:  €50k+/year
+
+
 
 ### 🧳 Travel & Expenses
 
