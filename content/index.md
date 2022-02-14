@@ -146,7 +146,7 @@ Everyone should have an advocate who officially looks after them. Their main are
 
 Lola Tech's Communities of Practice (**_CoPs_**) are semi-formal groups dedicated to improving our skills and practice in specific areas.
 
-A member of Lola Tech can be part of any number of **_CoPs_**, but it expected that everyone plays an active part in at least one. You can ask around for ideas about which **_CoPs_** might interest you, or you can get an idea by searching slack for channels which start `#cop-`.
+A member of Lola Tech can be part of any number of **_CoPs_**, but it expected that everyone plays an active part in at least one. You can ask around for ideas about which **_CoPs_** might interest you, or you can get an idea by searching slack for channels prefixed with `#cop-`.
 
 **_CoPs_** are self-organising. They centre around a slack channel and conduct activities such as:
 
