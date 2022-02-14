@@ -107,16 +107,14 @@ Guidance for mentors:
 
 * Suggest limiting the number of mentees to 3 at any time
 * You may suggest activities for your mentee to take on between sessions, do this sparingly and be respectful of their time. It is not a mentor's role to set or mark homework.
-* Take a look at the collection of mentoring resources (link) and consider seeking a mentor of your own, especially if this is new to you.
+* Get involved in \`#cop-mentoring\` - this is a skill which you'll need to develop.
 * Try to learn something from your mentee
 
 Guidance for mentees:
 
 It is for you to set the agenda, with the guidance of your mentor. Be sure to arrive at each session with a topic in mind for discussion.
 
-Reading list:
-
-How to apply to be a mentor:
+How to apply to be a mentor: just post a message in \`#cop-mentoring\` indicating your willingness.
 
 ### 👩‍🌾 Scrum Masters
 
@@ -370,8 +368,6 @@ L2 - mid:     €25k-40k/year
 L3 - senior: €40k-60k/year
 L4 - leading (CoP Dir, Tech Lead): €40k+/year
 L5 - mgmt:  €50k+/year
-
-
 
 ### 🧳 Travel & Expenses
 
