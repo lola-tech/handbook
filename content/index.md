@@ -115,16 +115,14 @@ Guidance for mentors:
 
 - Suggest limiting the number of mentees to 3 at any time
 - You may suggest activities for your mentee to take on between sessions, do this sparingly and be respectful of their time. It is not a mentor's role to set or mark homework.
-- Take a look at the collection of mentoring resources (link) and consider seeking a mentor of your own, especially if this is new to you.
+- Get involved in \`#cop-mentoring\` - this is a skill which you'll need to develop.
 - Try to learn something from your mentee
 
 Guidance for mentees:
 
 It is for you to set the agenda, with the guidance of your mentor. Be sure to arrive at each session with a topic in mind for discussion.
 
-Reading list:
-
-How to apply to be a mentor:
+How to apply to be a mentor: just post a message in \`#cop-mentoring\` indicating your willingness.
 
 ### 👩‍🌾 Scrum Masters
 
@@ -368,6 +366,16 @@ The following are examples of breaches of company policy, which could lead to fo
 **Gross misconduct**: negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the misuse of confidential information obtained in the course of the employee's employment; falsification of records; conviction of a criminal charge.
 
 ### 💰 Compensation
+
+Salary reviews happen twice a year (summer and winter).  Pay rises are decided by the management team, approved by the executive team and informed by regular reviews held by advocates. 
+
+Ranges:
+
+L1 - junior:  < €25k/year
+L2 - mid:     €25k-40k/year
+L3 - senior: €40k-60k/year
+L4 - leading (CoP Dir, Tech Lead): €40k+/year
+L5 - mgmt:  €50k+/year
 
 ### 🧳 Travel & Expenses
 
