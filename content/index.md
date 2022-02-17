@@ -12,7 +12,7 @@ We have written this employee handbook with our core values in mind:
 
 **Empathy**: Understanding or feeling what another person is experiencing from within their frame of reference; the capacity to place oneself in another's position
 
-Nothing in this handbook should supersede rules and laws of the country where this is read. 
+Nothing in this handbook should supersede rules and laws of the country where this is read.
 
 ## Support
 
@@ -30,51 +30,59 @@ When someone first joins the company they are assigned a Buddy from the existing
 
 After that it is just a matter of following the timeline set out below and keeping to the Buddies Contract:
 
-* Buddies relationship at Lola Tech is reciprocal. 
-* An initial Buddy partnership is designed to last for one month. We hope after this time you've got to know each other well enough to continue your relationship.
-* Both participants agree to make time for the activities and to take action if something interferes. 
-* Scheduled buddy meetings take precedence over other work activities. 
-* The Buddy relationship is confidential, a buddy shouldn't pass on anything without explicit consent, nor should either party take any action without prior discussion.
+- Buddies relationship at Lola Tech is reciprocal.
+- An initial Buddy partnership is designed to last for one month. We hope after this time you've got to know each other well enough to continue your relationship.
+- Both participants agree to make time for the activities and to take action if something interferes.
+- Scheduled buddy meetings take precedence over other work activities.
+- The Buddy relationship is confidential, a buddy shouldn't pass on anything without explicit consent, nor should either party take any action without prior discussion.
 
 How to be a good buddy - Suggested timeline:
 
-* Before joining:
+- Before joining:
 
-  * Read your new colleague's CV before they join
-  * Have a chat with their interviewer
-  * Prepare a welcome message for them in important_all on their first day
-  * Check that you'll be working on their first day. Take action if not
-* First day:
+  - Read your new colleague's CV before they join
+  - Have a chat with their interviewer
+  - Prepare a welcome message for them in important_all on their first day
+  - Check that you'll be working on their first day. Take action if not
 
-  * Greet them in important_all first thing in the morning
-  * Meet them at the office (if you can) and have a coffee or somesuch, or have a video call with them
-  * Make sure you have a slack DM between you so there's an easy open channel
-  * Ensure you take them, with anyone else who wants to come, for lunch at your favourite spot. Expense this!
-  * Book in a time to chat the next day to discuss anything that's on their mind
-* Second day:
+- First day:
 
-  * Have a check in to talk about any questions
-  * Make a point of introducing them to two people
-* Third day:
+  - Greet them in important_all first thing in the morning
+  - Meet them at the office (if you can) and have a coffee or somesuch, or have a video call with them
+  - Make sure you have a slack DM between you so there's an easy open channel
+  - Ensure you take them, with anyone else who wants to come, for lunch at your favourite spot. Expense this!
+  - Book in a time to chat the next day to discuss anything that's on their mind
 
-  * Book in a short session near the end of their first week. Put it in the calendar. Make it repeat weekly for the next 3 weeks
-* End of first week
+- Second day:
 
-  * Use the end of week session to focus on practical issues. Commuting, timekeeping, equipment, facilities, expense arrangements etc.
-  * Share a favourite tip or trick for making the best of life at Lola Tech
-* End of second week
+  - Have a check in to talk about any questions
+  - Make a point of introducing them to two people
 
-  * Use the end of week session to chat about what you each did at work in the last week
-* End of third week
+- Third day:
 
-  * Use the end of week session to talk about what still remains mysterious about Lola Tech. Take actions to resolve the mysteries
-* End of fourth week
+  - Book in a short session near the end of their first week. Put it in the calendar. Make it repeat weekly for the next 3 weeks
 
-  * Use the end of week session to prepare for a review of the first month with the buddy coordinator (currently Inge)
-  * Book Buddy coordinator meeting
-* After a month
+- End of first week
 
-  * Book a short meeting with you, your buddy, and the buddy coordinator to give feedback about how the onboarding went in the first month.
+  - Use the end of week session to focus on practical issues. Commuting, timekeeping, equipment, facilities, expense arrangements etc.
+  - Share a favourite tip or trick for making the best of life at Lola Tech
+
+- End of second week
+
+  - Use the end of week session to chat about what you each did at work in the last week
+
+- End of third week
+
+  - Use the end of week session to talk about what still remains mysterious about Lola Tech. Take actions to resolve the mysteries
+
+- End of fourth week
+
+  - Use the end of week session to prepare for a review of the first month with the buddy coordinator (currently Inge)
+  - Book Buddy coordinator meeting
+
+- After a month
+
+  - Book a short meeting with you, your buddy, and the buddy coordinator to give feedback about how the onboarding went in the first month.
 
 ### 🧙‍♀️ Mentors
 
@@ -91,24 +99,24 @@ The mentor should be someone with substantial experience in the field the mentee
 
 Suggested intro meeting:
 
-* Share backgrounds to get to know each other
-* Discuss what each want to get out of this
-* Talk about topics, interests, areas to grow
-* Agree on cadence (suggest every fortnight)
-* Mentee sends out invite for next meet
+- Share backgrounds to get to know each other
+- Discuss what each want to get out of this
+- Talk about topics, interests, areas to grow
+- Agree on cadence (suggest every fortnight)
+- Mentee sends out invite for next meet
 
 Suggested subsequent meeting:
 
-* Key things that happened since last time
-* Discuss a challenge that you're facing or a topic that needs attention
-* Mentee sends out invite for next meet
+- Key things that happened since last time
+- Discuss a challenge that you're facing or a topic that needs attention
+- Mentee sends out invite for next meet
 
 Guidance for mentors:
 
-* Suggest limiting the number of mentees to 3 at any time
-* You may suggest activities for your mentee to take on between sessions, do this sparingly and be respectful of their time. It is not a mentor's role to set or mark homework.
-* Get involved in \`#cop-mentoring\` - this is a skill which you'll need to develop.
-* Try to learn something from your mentee
+- Suggest limiting the number of mentees to 3 at any time
+- You may suggest activities for your mentee to take on between sessions, do this sparingly and be respectful of their time. It is not a mentor's role to set or mark homework.
+- Get involved in \`#cop-mentoring\` - this is a skill which you'll need to develop.
+- Try to learn something from your mentee
 
 Guidance for mentees:
 
@@ -118,57 +126,57 @@ How to apply to be a mentor: just post a message in \`#cop-mentoring\` indicatin
 
 ### 👩‍🌾 Scrum Masters
 
-* A scrum master is responsible for the performance of a team, making sure team members can perform to the best of their ability. 
-* They acknowledge holiday requests in CharlieHR so that they can schedule and adjust project work
-* Scrum masters are usually consulted when advocates review performance
+- A scrum master is responsible for the performance of a team, making sure team members can perform to the best of their ability.
+- They acknowledge holiday requests in CharlieHR so that they can schedule and adjust project work
+- Scrum masters are usually consulted when advocates review performance
 
 ### 🙋 Advocates (formerly known as line managers)
 
 Everyone should have an advocate who officially looks after them. Their main areas of responsibility are:
 
-* Discuss focus and goals
-* Review feedback
-* Highlight needs, career progression, promotions, salary reviews
-* Identify knowledge gaps and arrange training
-* Encourage/ monitor use of the mentor system
+- Discuss focus and goals
+- Review feedback
+- Highlight needs, career progression, promotions, salary reviews
+- Identify knowledge gaps and arrange training
+- Encourage/ monitor use of the mentor system
 
 ### 🧑‍🤝‍🧑 Communities of Practice
 
-Lola Tech's Communities of Practice (***CoPs***) are semi-formal groups dedicated to improving our skills and practice in specific areas.
+Lola Tech's Communities of Practice (**_CoPs_**) are semi-formal groups dedicated to improving our skills and practice in specific areas.
 
-A member of Lola Tech can be part of any number of ***CoPs***, but it expected that everyone plays an active part in at least one. You can ask around for ideas about which ***CoPs*** might interest you, or you can get an idea by searching slack for channels which start `#cop-`.
+A member of Lola Tech can be part of any number of **_CoPs_**, but it expected that everyone plays an active part in at least one. You can ask around for ideas about which **_CoPs_** might interest you, or you can get an idea by searching slack for channels prefixed with `#cop-`.
 
-***CoPs*** are self-organising. They centre around a slack channel and conduct activities such as:
+**_CoPs_** are self-organising. They centre around a slack channel and conduct activities such as:
 
-* Chatting in their channel
-* Posting interesting links
-* Maintaining example codebases
-* Maintaining documentation
-* Exploring and advocating for new tools and techniques
-* Holding meetings and surgeries
-* Hosting workshops and presentations
-* Running study-group sessions
-* Providing one-to-one or small-group training
-* Promoting conference attendance
-* Lending and circulating books
+- Chatting in their channel
+- Posting interesting links
+- Maintaining example codebases
+- Maintaining documentation
+- Exploring and advocating for new tools and techniques
+- Holding meetings and surgeries
+- Hosting workshops and presentations
+- Running study-group sessions
+- Providing one-to-one or small-group training
+- Promoting conference attendance
+- Lending and circulating books
 
-***CoPs*** can draw on a central budget to fund activities and other costs, which is separate from individual training budgets.
+**_CoPs_** can draw on a central budget to fund activities and other costs, which is separate from individual training budgets.
 
-***CoPs*** are encouraged to conduct some of their activity in public as part of the "[Lola Tech & Friends](https://www.meetup.com/lola-tech-and-friends/)" meetup group.
+**_CoPs_** are encouraged to conduct some of their activity in public as part of the "[Lola Tech & Friends](https://www.meetup.com/lola-tech-and-friends/)" meetup group.
 
 ## 👋 Hiring
 
 #### ⌛ Hiring Timeline
 
-🚧🚧🚧  *Ciprian to add*
+🚧🚧🚧 _Ciprian to add_
 
 #### 👩‍❤️‍👩 Interview Guidelines
 
-🚧🚧🚧  *VladM to add*
+🚧🚧🚧 _VladM to add_
 
 #### 🐣 On-boarding Timeline
 
-🚧🚧🚧  Ciprian to add
+🚧🚧🚧 Ciprian to add
 
 ## Practicalities
 
@@ -178,17 +186,17 @@ The company runs a flexible schedule regarding working hours. This is so we can 
 
 Core working hours are 10-4 which means we expect everyone to be working during that period as well as before or after to make up your contracted hours. Any deviation for this should be discussed with your scrum master and/or advocate. Your number of working hours per week is stated in your contract.
 
-*Whether you are working from home or from the office, we don't want your scrum master or anyone else to police your working hours; we expect you do that yourself.*
+_Whether you are working from home or from the office, we don't want your scrum master or anyone else to police your working hours; we expect you do that yourself._
 
 ### 🏢 Working from the Office
 
-Our policy has always been that everyone should be able to work from wherever they are able to do their best work. Our offices are open and you are very welcome to work there. 
+Our policy has always been that everyone should be able to work from wherever they are able to do their best work. Our offices are open and you are very welcome to work there.
 
 ### 🏠 Working from Home
 
-When you work from home, you should aim to have a quiet spot wherever possible, so that you can have video calls with a minimum of interruption or distraction. 
+When you work from home, you should aim to have a quiet spot wherever possible, so that you can have video calls with a minimum of interruption or distraction.
 
-If your child is sick, it is unlikely that you can get much work done from home. You should consider whether you should take a holiday (unpaid leave is also possible) or make up the time later in the day or the week. We expect honesty and transparency and in return we offer flexibility. 
+If your child is sick, it is unlikely that you can get much work done from home. You should consider whether you should take a holiday (unpaid leave is also possible) or make up the time later in the day or the week. We expect honesty and transparency and in return we offer flexibility.
 
 Whilst working from home, it helps to use your Slack status to show when you are away from your desk. If in doubt, always over communicate.
 
@@ -196,8 +204,8 @@ Whilst working from home, it helps to use your Slack status to show when you are
 
 Wherever you're physically located while working you will be making frequent use of online tools. We've learned that it is very helpful to colleagues and collaborators if we all:
 
-* Provide a non-default avatar for services which allow it (e.g. Github, Slack, Jira).
-* Default to keeping your camera on during meetings.
+- Provide a non-default avatar for services which allow it (e.g. Github, Slack, Jira).
+- Default to keeping your camera on during meetings.
 
 It is not the company's intention to police your appearance in any way. The avatar you provide need not be a direct representation, though consistency across platforms is helpful to all. There are many occasions when it is sensible and reasonable to keep your camera off and a break from seeing ourselves is often welcome but visibility, even when you are not the speaker, supports a communicative, welcoming and human workplace.
 
@@ -211,19 +219,19 @@ Keep any change of address, emergency contact or next of kin up to date in Charl
 
 ### 🛠️ Equipment
 
-🚧🚧 something about 
+🚧🚧 something about
 
-* ergonomics
-* screens and laptops
-* Rupert and VladR to flesh out
+- ergonomics
+- screens and laptops
+- Rupert and VladR to flesh out
 
 ### 🧰 Tools and Services
 
-🚧🚧  We use Slack, Zoom, CharlieHR, --> get this from intro email for new starters
+🚧🚧 We use Slack, Zoom, CharlieHR, --> get this from intro email for new starters
 
 ### 📋 Acceptable Use Policy
 
-🚧🚧  VladR
+🚧🚧 VladR
 
 ## Not Working
 
@@ -233,19 +241,19 @@ Any absence should be requested and tracked in [CharlieHR](https://lolatech.char
 
 Your annual holiday entitlement is stated in your contract of employment and runs from January 1 - December 31. You should arrange your holidays in advance by requesting them in [CharlieHR](https://lolatech.charliehr.com/).
 
-Every effort will be made to accommodate your individual holiday wishes. As a general rule you should request holiday at least one month in advance per week holiday. 
+Every effort will be made to accommodate your individual holiday wishes. As a general rule you should request holiday at least one month in advance per week holiday.
 
 You can carry over maximum 10 unused holidays on the condition it is used within the first 3 months of the new holiday year.
 
-If you leave the company we will balance your remaining holiday (positive or negative) with your final salary payment.  
+If you leave the company we will balance your remaining holiday (positive or negative) with your final salary payment.
 
 ### 🤒 Sick Leave
 
 When you are sick, please let your scrum master know asap and log your absence in [CharlieHR](https://lolatech.charliehr.com/). Let us know if you need help.
 
-If you are unwell for more than a week you might need to get a medical certificate stating the reason for the absence, so you can qualify for sick pay. 
+If you are unwell for more than a week you might need to get a medical certificate stating the reason for the absence, so you can qualify for sick pay.
 
-Clinical appointments: Let your scrum master know about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule. 
+Clinical appointments: Let your scrum master know about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule.
 
 ### 👶 Parental Leave
 
@@ -253,21 +261,21 @@ Becoming a parent is one of the most important moments in your life, whether it 
 
 If you are becoming a parent (again), let us when when the little one is expected . We will ask about your intention to take parental leave although we realise that this may change later on.
 
-If you or your partner are pregnant, you are entitled to take paid time off work to attend ante-natal appointments. 
+If you or your partner are pregnant, you are entitled to take paid time off work to attend ante-natal appointments.
 
 You should notify the company at least 15 weeks before you intend to start taking your maternity, paternity or adoption leave. Please provide the following:
 
-* The date the child is expected to arrive
-* How much leave you wish to take.
-* When you intend your leave to start.
+- The date the child is expected to arrive
+- How much leave you wish to take.
+- When you intend your leave to start.
 
-Because no arrival is the same, we trust you to take the parental leave in the way that is best for your family. 
+Because no arrival is the same, we trust you to take the parental leave in the way that is best for your family.
 
 Throughout the parental (and adoption) leave you are entitled to all your non-pay related contractual benefits.
 
 #### Parental pay (formerly paternity pay)
 
-We provide 2 weeks' leave at full pay, which you can take when you see fit. 
+We provide 2 weeks' leave at full pay, which you can take when you see fit.
 
 Parental pay applies on the arrival of a child where you are either the biological parent or mother's partner
 
@@ -277,7 +285,7 @@ Maternity pay is paid to (future) parents who are pregnant. In Romania, the gove
 
 #### 🗺️ Sabbaticals
 
-🚧🚧🚧  Cipri can you dig it up
+🚧🚧🚧 Cipri can you dig it up
 
 #### 🫂 Compassionate Leave
 
@@ -287,13 +295,13 @@ You can take ten days of bereavement leave for the death of a spouse or partner,
 
 Time off for dependants:
 
-All employees are entitled to a reasonable amount of paid time off during working hours in order to take action which is necessary: 
+All employees are entitled to a reasonable amount of paid time off during working hours in order to take action which is necessary:
 
-* To provide assistance if a dependant falls ill, gives birth or is injured;
-* To make arrangements to care for an ill or injured dependant;
-* As a result of the death of a dependant;
-* Due to unexpected disruption or termination of arrangements for the care of a dependant; or
-* To deal with an incident involving a child of the employee which occurs unexpectedly during school time.
+- To provide assistance if a dependant falls ill, gives birth or is injured;
+- To make arrangements to care for an ill or injured dependant;
+- As a result of the death of a dependant;
+- Due to unexpected disruption or termination of arrangements for the care of a dependant; or
+- To deal with an incident involving a child of the employee which occurs unexpectedly during school time.
 
 The company requires you to give the reason of your absence as soon as is reasonably practical and to indicate how long you expect to be absent. A “dependant” is the partner, child or parent of the employee or any person who lives in the same household of the employee, who reasonably relies on the employee for assistance or to make arrangements for their care.
 
@@ -305,7 +313,7 @@ Lola Tech is committed to the highest standards of transparency, integrity and a
 
 #### Grievance
 
-We encourage an open and honest relationship between the company and its team and we hope that we can resolve any grievance by early discussion with your advocate or other management. When this is not resolved in your opinion, you should address the complaint to whoever you believe best suited from the management team. They will respond with a timeline for action within 24h. 
+We encourage an open and honest relationship between the company and its team and we hope that we can resolve any grievance by early discussion with your advocate or other management. When this is not resolved in your opinion, you should address the complaint to whoever you believe best suited from the management team. They will respond with a timeline for action within 24h.
 
 #### ✋ Whistleblowing policy
 
@@ -313,16 +321,16 @@ An important aspect of accountability and transparency is enabling employees to 
 
 These concerns could include but are not limited to:
 
-* Breach of computer security, confidentiality and data protection;
-* Software piracy or other use of unauthorised material;
-* Breach of the company’s own copyright and intellectual property;
-* Terms and Conditions of Employment;
-* Negative or destructive behaviour, poor attendance, lateness, absenteeism, sickness, impaired work performance;
-* Use of or supply of any illegal or controlled drugs at work;
-* Failure to comply with a legal obligation;
-* Dangers to Health & Safety of the work environment;
-* Improper conduct or unethical behaviour;
-* Attempts to conceal any of these.
+- Breach of computer security, confidentiality and data protection;
+- Software piracy or other use of unauthorised material;
+- Breach of the company’s own copyright and intellectual property;
+- Terms and Conditions of Employment;
+- Negative or destructive behaviour, poor attendance, lateness, absenteeism, sickness, impaired work performance;
+- Use of or supply of any illegal or controlled drugs at work;
+- Failure to comply with a legal obligation;
+- Dangers to Health & Safety of the work environment;
+- Improper conduct or unethical behaviour;
+- Attempts to conceal any of these.
 
 We will treat all such disclosures in a confidential and sensitive manner. The identity of the employee making the allegation may be kept confidential so long as it does not hinder any investigation.
 
@@ -393,7 +401,7 @@ Penalty fares / fines for parking or driving offences will not be reimbursed, o
 
 **Air Travel**
 
-When a trip is required you should agree this with your advocate. Tahlecion or Ciprian will book flights for you.  We will aim to get you to your destination from an airport within reasonable distance from you. 
+When a trip is required you should agree this with your advocate. Tahlecion or Ciprian will book flights for you.  We will aim to get you to your destination from an airport within reasonable distance from you.
 
 **Accommodation and other overnight travel expenses**
 
@@ -411,8 +419,8 @@ Purchase of computer or office equipment, phone or internet costs must be author
 
 To claim travel expenses please use the company's Expensify app.
 
-* Add a copy of the receipt for each amount. If a receipt has 2 parts i.e. the credit card and an item list, you must include both sections in your claim.
-* On your Expensify claim, mark all of your expenses Zero VAT.
-* If you travel to USA including through the UK, mark your expenses 'International Travel'.
-* If you travel for a conference, mark ALL related expenses as 'Conference', including food and hotel.
-* If you travel within Europe for any other reason than conference, mark your expenses 'Travel Europe'
+- Add a copy of the receipt for each amount. If a receipt has 2 parts i.e. the credit card and an item list, you must include both sections in your claim.
+- On your Expensify claim, mark all of your expenses Zero VAT.
+- If you travel to USA including through the UK, mark your expenses 'International Travel'.
+- If you travel for a conference, mark ALL related expenses as 'Conference', including food and hotel.
+- If you travel within Europe for any other reason than conference, mark your expenses 'Travel Europe'
