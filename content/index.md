@@ -375,10 +375,22 @@ Salary reviews happen twice a year (summer and winter).  Pay rises are decided b
 Ranges:
 
 L1 - junior:  < €25k/year
-L2 - mid:     €25k-40k/year
+L2 - mid: €25k-40k/year
 L3 - senior: €40k-60k/year
 L4 - leading (CoP Dir, Tech Lead): €40k+/year
 L5 - mgmt:  €50k+/year
+
+## Benefits
+
+Benefits vary per country because of different tax rules, number of employees and availability of certain offerings.
+
+#### In Romania:
+
+* Meal vouchers
+
+
+
+🚧🚧🚧 Cipri can you add details about benefits ^^
 
 ### 🧳 Travel & Expenses
 
