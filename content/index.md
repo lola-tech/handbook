@@ -5,7 +5,7 @@
 We are Lola Tech, a software development agency that designs and builds digital solutions to help drive organisations forward. Our focus is on delivering scalable and sustainable products for clients across all industries and sectors. We believe in building software for the future - tech that is flexible, strong and built to
 last.
 
-The company was created over 10 years ago by Luke in the UK who gathered a few people he had enjoyed working with to deliver a large software project, some of which were living in Romania. Frustrated by the quality of other external vendors he met, he decided to build an awesome agency team he'd actually like to use. Lola Tech was born. Years later we now have 2 offices, one in Cluj-Napoca and a smaller one in London.
+The company was created over 10 years ago by Luke who gathered a few people together he had enjoyed working with, to deliver a large software project. Some of these people were living in Romania. Frustrated by the quality of other external vendors he met, he decided to build an awesome agency team he'd actually like to use. Lola Tech was born. Years later we now have 2 offices, one in Cluj-Napoca and a smaller one in London.
 
 
 
@@ -24,6 +24,26 @@ We have written this employee handbook with our core values in mind:
 **Empathy**: Understanding or feeling what another person is experiencing from within their frame of reference; the capacity to place oneself in another's position
 
 Nothing in this handbook should supersede rules and laws of the country where this is read.
+
+## Joining Lola Tech as a New Employee
+
+Welcome! You will have been assigned a buddy who will welcome you. We'd like to invite you to:
+
+* Please read this handbook
+* Please complete the security awareness training (@Vlad to add link)
+* You will have received your Lola Tech Onelogin. This will allow you to log into most Lola Tech systems. Check now that you have access to: 
+
+  1. [Jira®](https://lola-tech.atlassian.net/secure/Dashboard.jspa "https\://lola-tech.atlassian.net/secure/Dashboard.jspa"): our issue tracking system to manage tasks, improvements and bugs. 
+  2. Runn: for time tracking
+  3. [Wiki](https://lola-tech.atlassian.net/wiki/spaces/PM/pages/865390 "/wiki/spaces/PM/pages/865390"): home to our documentation. 
+* Systems: Once you have access to your Lola Tech Onelogin, you will be able to use it to access the systems we use day to day
+
+  * Slack: 
+
+    * Go to [slack.com](https://slack.com/ "https\://slack.com/") 
+    * Select "Log in with Google” and access [lolatech-team.slack.com](http://lolatech-team.slack.com/ "http\://lolatech-team.slack.com/") 
+    * Set up your profile
+    * Download desktop and mobile apps as you see fit
 
 ## Support
 
@@ -166,6 +186,16 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
 ***CoPs*** can draw on a central budget to fund activities and other costs, which is separate from individual training budgets.
 
 ***CoPs*** are encouraged to conduct some of their activity in public as part of the "[Lola Tech & Friends](https://www.meetup.com/lola-tech-and-friends/)" meetup group.
+
+## Personal Development
+
+#### Conferences
+
+The company will, as standard, pay for at least 1 conference per calendar year per person. Attending a conference as a speaker or when manning a stand does not count towards your allowance.
+
+#### Training
+
+When 
 
 ## 👋 Hiring
 
