@@ -1,4 +1,15 @@
-## Lola Tech
+
+
+## The Company
+
+We are Lola Tech, a software development agency that designs and builds digital solutions to help drive organisations forward. Our focus is on delivering scalable and sustainable products for clients across all industries and sectors. We believe in building software for the future - tech that is flexible, strong and built to
+last.
+
+The company was created over 10 years ago by Luke in the UK who gathered a few people he had enjoyed working with to deliver a large software project, some of which were living in Romania. Frustrated by the quality of other external vendors he met, he decided to build an awesome agency team he'd actually like to use. Lola Tech was born. Years later we now have 2 offices, one in Cluj-Napoca and a smaller one in London.
+
+
+
+## This Handbook
 
 We have written this employee handbook with our core values in mind:
 
