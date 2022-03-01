@@ -195,7 +195,7 @@ The company will, as standard, pay for at least 1 conference per calendar year p
 
 #### Training
 
-When 
+Need to add this
 
 ## 👋 Hiring
 
