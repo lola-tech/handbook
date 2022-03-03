@@ -377,9 +377,11 @@ If there is a complaint against you at work, the company will establish the fact
 
 If the complaint is serious, the company has the right to suspend you on full pay while they investigate. Suspension during investigation is not a disciplinary action or a prejudgement of the issue. The period of suspension shall be reasonably decided by the company. If the company considers that it is necessary to invoke a formal procedure they will supply a comprehensive written description of the full procedure that will be followed. This can be obtained from management at any time.
 
+When dealing with a performance issue, we will always strive to avoid a formal disciplinary process if possible. The company focuses on mutual feedback, growth and improvement for every member of the team. If a formal process is needed then the following steps will be followed:
+
 **Disciplinary actions**
 
-**If** there is a breach of company policies and disciplinary action is needed, it consists of 4 stages:
+If there is a breach of company policies and disciplinary action is needed, it consists of 4 stages:
 
 **Stage 1 - Oral warning:** if it is a minor breach you will be given a formal oral warning and informed of the consequences and, if appropriate, any improvement required from you and the time frame.
 
@@ -394,9 +396,9 @@ In relation to gross misconduct, such dismissal shall be without notice or payme
 
 The following are examples of breaches of company policy, which could lead to formal disciplinary action.
 
-**Minor breaches**: unintentional breach of the company's policies and procedures. Poor job performance is also classed as a minor breach.\
-**Serious breaches**: abusive behaviour; unauthorised absenteeism; intentional breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.\
-**Gross misconduct**: negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the misuse of confidential information obtained in the course of the employee's employment; falsification of records; conviction of a criminal charge.
+**Minor breaches**: Unintentional breach of the company's policies and procedures. Poor job performance is also classed as a minor breach.\
+**Serious breaches**: Abusive behaviour; unauthorised absenteeism; intentional breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.\
+**Gross misconduct**: Negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the misuse of confidential information obtained in the course of the employee's employment; falsification of records; conviction of a criminal charge.
 
 ### 💰 Compensation
 
