@@ -381,12 +381,10 @@ When dealing with a performance issue, we will always strive to avoid a formal d
 
 If there is a breach of company policies and disciplinary action is needed, it consists of 4 stages:
 
-**Stage 1 - Oral warning:** if it is a minor breach you will be given a formal oral warning and informed of the consequences and, if appropriate, any improvement required from you and the time frame.
-
-**Stage 2 - Written Warning:** if it is a serious breach or a repetition of a minor breach, you will be given a written warning setting out the precise nature of the offence and future consequences. If appropriate, it will specify any improvement and the time frame required from you.
-
-**Stage 3 - Final Written Warning:** if you fail to improve following a written warning or if the offence, is not gross misconduct although is serious enough in the company's view to warrant a final warning, you will be given a written final warning. This will set out the precise nature of the offence, state that any recurrence may lead to dismissal and specify, if appropriate, the nature of the improvement and the time frame required from you.\
-**Stage 4 - Dismissal:** in the case of gross misconduct, or if all previous stages of the warning procedure have been exhausted, the employee will normally be dismissed. The company reserves the right, where reasonable, not to dismiss, but to impose other disciplinary action including (but without limitation) demotion, transfer to another department, loss of seniority, loss of right to a pay increment or bonus or suspension with or without pay.
+* **Stage 1 - Oral warning:** if it is a minor breach you will be given a formal oral warning and informed of the consequences and, if appropriate, any improvement required from you and the time frame.
+* **Stage 2 - Written Warning:** if it is a serious breach or a repetition of a minor breach, you will be given a written warning setting out the precise nature of the offence and future consequences. If appropriate, it will specify any improvement and the time frame required from you.
+* **Stage 3 - Final Written Warning:** if you fail to improve following a written warning or if the offence, is not gross misconduct although is serious enough in the company's view to warrant a final warning, you will be given a written final warning. This will set out the precise nature of the offence, state that any recurrence may lead to dismissal and specify, if appropriate, the nature of the improvement and the time frame required from you.
+* **Stage 4 - Dismissal:** in the case of gross misconduct, or if all previous stages of the warning procedure have been exhausted, the employee will normally be dismissed. The company reserves the right, where reasonable, not to dismiss, but to impose other disciplinary action including (but without limitation) demotion, transfer to another department, loss of seniority, loss of right to a pay increment or bonus or suspension with or without pay.
 
 In relation to gross misconduct, such dismissal shall be without notice or payment in lieu of notice.
 
@@ -394,9 +392,9 @@ In relation to gross misconduct, such dismissal shall be without notice or payme
 
 The following are examples of breaches of company policy, which could lead to formal disciplinary action.
 
-**Minor breaches**: Unintentional breach of the company's policies and procedures. Poor job performance is also classed as a minor breach.\
-**Serious breaches**: Abusive behaviour; unauthorised absenteeism; intentional breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.\
-**Gross misconduct**: Negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the misuse of confidential information obtained in the course of the employee's employment; falsification of records; conviction of a criminal charge.
+* **Minor breaches**: Unintentional breach of the company's policies and procedures. Poor job performance is also classed as a minor breach.
+* **Serious breaches**: Abusive behaviour; unauthorised absenteeism; intentional breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.
+* **Gross misconduct**: Negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the misuse of confidential information obtained in the course of the employee's employment; falsification of records; conviction of a criminal charge.
 
 ### 💰 Compensation
 
