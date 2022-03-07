@@ -1,13 +1,9 @@
-
-
 ## The Company
 
 We are Lola Tech, a software development agency that designs and builds digital solutions to help drive organisations forward. Our focus is on delivering scalable and sustainable products for clients across all industries and sectors. We believe in building software for the future - tech that is flexible, strong and built to
 last.
 
 The company was created over 10 years ago by Luke who gathered a few people together he had enjoyed working with, to deliver a large software project. Some of these people were living in Romania. Frustrated by the quality of other external vendors he met, he decided to build an awesome agency team he'd actually like to use. Lola Tech was born. Years later we now have 2 offices, one in Cluj-Napoca and a smaller one in London.
-
-
 
 ## This Handbook
 
@@ -217,7 +213,7 @@ Need to add this
 
 The company runs a flexible schedule regarding working hours. This is so we can service customers who are on different timezones and to ensure everyone can do their job to the best of your ability, and be flexible to cater for personal circumstances and preferences.
 
-Core working hours are 10-4 which means we expect everyone to be working during that period as well as before or after to make up your contracted hours. Any deviation for this should be discussed with your scrum master and/or advocate. Your number of working hours per week is stated in your contract.
+Core working hours are 10-4 which means we expect everyone to be working during that period as well as before or after to make up your contracted hours which is 40h/week for the vast majority of us. Any deviation for this should be discussed with your scrum master and/or advocate. Your number of working hours per week is stated in your contract.
 
 *Whether you are working from home or from the office, we don't want your scrum master or anyone else to police your working hours; we expect you do that yourself.*
 
@@ -338,6 +334,8 @@ All employees are entitled to a reasonable amount of paid time off during workin
 
 The company requires you to give the reason of your absence as soon as is reasonably practical and to indicate how long you expect to be absent. A “dependant” is the partner, child or parent of the employee or any person who lives in the same household of the employee, who reasonably relies on the employee for assistance or to make arrangements for their care.
 
+Compassionate leave should be logged in CharlieHR as.
+
 ## Formal Processes
 
 Lola Tech is committed to the highest standards of transparency, integrity and accountability.
@@ -419,8 +417,6 @@ Benefits vary per country because of different tax rules, number of employees an
 #### In Romania:
 
 * Meal vouchers
-
-
 
 🚧🚧🚧 Cipri can you add details about benefits ^^
 
