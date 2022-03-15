@@ -16,6 +16,7 @@ import ToC, { ToCItem } from '../components/ToC';
 import Header from '../components/Header';
 import Favicon from '../components/Favicon';
 import Footer from '@/components/Footer';
+
 interface Props {
   content: MDXRemoteSerializeResult;
   toc: ToCItem[];
@@ -23,7 +24,7 @@ interface Props {
 
 export default function Index({ content, toc }: Props) {
   return (
-    <>
+    <html>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Lola Tech&apos;s Handbook</title>
@@ -36,16 +37,16 @@ export default function Index({ content, toc }: Props) {
         <Favicon />
       </Head>
       <Header />
-      <main className="container">
-        <details>
-          <summary>Table of Contents</summary>
-          <ToC anchors={toc} />
-        </details>
-
-        <MDXRemote {...content} components={components} />
-      </main>
+      <body>
+        <main className="container">
+          <div className="toc">
+            <ToC anchors={toc} />
+          </div>
+          <MDXRemote {...content} components={components} />
+        </main>
+      </body>
       <Footer />
-    </>
+    </html>
   );
 }
 
@@ -84,11 +85,17 @@ export const getStaticProps = async () => {
     },
   });
 
-  return { props: { content: mdxSource, toc } };
+  return {
+    props: {
+      content: mdxSource,
+      toc,
+    },
+  };
 };
 
+// NOTE: we need clientside js for ToC page
 export const config = {
   // So, this is cool. Use it on any next.js page to remove all clientside js from the output.
   // Of course you only want to do this on super-static views like this one - but the page will be super-fast now.
-  unstable_runtimeJS: false,
+  // unstable_runtimeJS: false,
 };

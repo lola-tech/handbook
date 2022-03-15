@@ -27,17 +27,17 @@ Welcome! You will have been assigned a buddy who will welcome you. We'd like to 
 
 * Please read this handbook
 * Please complete the security awareness training (@Vlad to add link)
-* You will have received your Lola Tech Onelogin. This will allow you to log into most Lola Tech systems. Check now that you have access to: 
+* You will have received your Lola Tech Onelogin. This will allow you to log into most Lola Tech systems. Check now that you have access to: 
 
   1. [Jira®](https://lola-tech.atlassian.net/secure/Dashboard.jspa "https\://lola-tech.atlassian.net/secure/Dashboard.jspa"): our issue tracking system to manage tasks, improvements and bugs. 
   2. Runn: for time tracking
-  3. [Wiki](https://lola-tech.atlassian.net/wiki/spaces/PM/pages/865390 "/wiki/spaces/PM/pages/865390"): home to our documentation. 
+  3. [Wiki](https://lola-tech.atlassian.net/wiki/spaces/PM/pages/865390 "/wiki/spaces/PM/pages/865390"): home to our documentation. 
 * Systems: Once you have access to your Lola Tech Onelogin, you will be able to use it to access the systems we use day to day
 
   * Slack: 
 
-    * Go to [slack.com](https://slack.com/ "https\://slack.com/") 
-    * Select "Log in with Google” and access [lolatech-team.slack.com](http://lolatech-team.slack.com/ "http\://lolatech-team.slack.com/") 
+    * Go to [slack.com](https://slack.com/ "https\://slack.com/") 
+    * Select "Log in with Google” and access [lolatech-team.slack.com](http://lolatech-team.slack.com/ "http\://lolatech-team.slack.com/") 
     * Set up your profile
     * Download desktop and mobile apps as you see fit
 
@@ -325,7 +325,7 @@ Difference from other types of leaves is that it usually lasts longer – somewh
 
 #### 🫂 Compassionate Leave
 
-In the event of critical illness or death which affects you, the company will be generous in its considerations of special leave. Let your scrum master or advocate know your plans as soon as you can so they can arrange to cover your absence.
+In the event of critical illness or death which affects you, the company will be generous in its considerations of special leave. Let your scrum master or advocate know your plans as soon as you can so they can arrange to cover your absence.
 
 You are entitled to:
 
@@ -347,7 +347,7 @@ All employees are entitled to a reasonable amount of paid time off during workin
 * Due to unexpected disruption or termination of arrangements for the care of a dependant; or
 * To deal with an incident involving a child of the employee which occurs unexpectedly during school time.
 
-The company requires you to give the reason of your absence as soon as is reasonably practical and to indicate how long you expect to be absent. A “dependant” is the partner, child or parent of the employee or any person who lives in the same household of the employee, who reasonably relies on the employee for assistance or to make arrangements for their care.
+The company requires you to give the reason of your absence as soon as is reasonably practical and to indicate how long you expect to be absent. A “dependant” is the partner, child or parent of the employee or any person who lives in the same household of the employee, who reasonably relies on the employee for assistance or to make arrangements for their care.
 
 Compassionate leave should be logged in CharlieHR as.
 
@@ -434,11 +434,11 @@ Benefits vary per country because of different tax rules, number of employees an
 
 ### 🧳 Travel & Expenses
 
-All travel expenses should be agreed with your advocate or senior managers before booking. The most economic means of travel should be chosen, where practical. Travel between your home and place of work or travel for your own purpose will not be treated as a company travel expense.
+All travel expenses should be agreed with your advocate or senior managers before booking. The most economic means of travel should be chosen, where practical. Travel between your home and place of work or travel for your own purpose will not be treated as a company travel expense.
 
 **Trains**
 
-We will reimburse the cost of standard class travel on submission of a receipt. First class travel must be pre-authorised.
+We will reimburse the cost of standard class travel on submission of a receipt. First class travel must be pre-authorised.
 
 **Taxis**
 
@@ -450,21 +450,21 @@ The company is aware of its responsibilities and liabilities when you are drivin
 
 You are expected to uphold the law and never drive while over the legal alcohol limit or under the influence of drugs. The company makes cost-efficient car services like Uber or other cabs available to employees for instances like this.
 
-Seek authorisation **before** using your car for business travels. You may claim a mileage allowance and parking on proof of mileage and parking receipts.
+Seek authorisation **before** using your car for business travels. You may claim a mileage allowance and parking on proof of mileage and parking receipts.
 
-Penalty fares / fines for parking or driving offences will not be reimbursed, other than at our discretion or in exceptional circumstances.
+Penalty fares / fines for parking or driving offences will not be reimbursed, other than at our discretion or in exceptional circumstances.
 
 **Air Travel**
 
-When a trip is required you should agree this with your advocate. Tahlecion or Ciprian will book flights for you.  We will aim to get you to your destination from an airport within reasonable distance from you.
+When a trip is required you should agree this with your advocate. Tahlecion or Ciprian will book flights for you.  We will aim to get you to your destination from an airport within reasonable distance from you.
 
 **Accommodation and other overnight travel expenses**
 
-If you are required to be away overnight, accommodation arrangements will be made for you, including any car hire. No upgrade of car is allowed unless by prior approval. We will reimburse reasonable out-of-pocket expenses for meals, please keep both card and till receipts.
+If you are required to be away overnight, accommodation arrangements will be made for you, including any car hire. No upgrade of car is allowed unless by prior approval. We will reimburse reasonable out-of-pocket expenses for meals, please keep both card and till receipts.
 
 **Entertaining Clients**
 
-You may entertain actual or prospective clients when you have approval and an appropriate budget that has been agreed in advance. Receipts must be submitted with your claim.
+You may entertain actual or prospective clients when you have approval and an appropriate budget that has been agreed in advance. Receipts must be submitted with your claim.
 
 **Other Expenses**
 
