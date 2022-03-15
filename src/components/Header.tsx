@@ -5,7 +5,7 @@ const Header = () => (
     <div className="header-content">
       <h1 className="header-text">Welcome to the </h1>
       <Image
-        src="/logoText.svg"
+        src="/lola-logo.svg"
         className="header-content"
         alt="Lola logo"
         width={200}
