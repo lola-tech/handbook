@@ -126,8 +126,9 @@ export const getStaticProps = async () => {
   };
 };
 
+// NOTE: we need clientside js for ToC page
 export const config = {
   // So, this is cool. Use it on any next.js page to remove all clientside js from the output.
   // Of course you only want to do this on super-static views like this one - but the page will be super-fast now.
-  unstable_runtimeJS: false,
+  // unstable_runtimeJS: false,
 };
