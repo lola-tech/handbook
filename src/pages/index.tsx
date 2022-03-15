@@ -14,6 +14,7 @@ import imageSize from 'rehype-img-size';
 import components from '../components/MDXComponents';
 import ToC, { ToCItem } from '../components/ToC';
 import Favicon from '../components/Favicon';
+import Footer from '@/components/Footer';
 interface Props {
   content: MDXRemoteSerializeResult;
   toc: ToCItem[];
@@ -91,7 +92,7 @@ export default function Index({ content, toc }: Props) {
           <MDXRemote {...content} components={components} />
         </main>
       </body>
-      <footer className="container"></footer>
+      <Footer />
     </html>
   );
 }

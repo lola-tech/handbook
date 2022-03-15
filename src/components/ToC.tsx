@@ -4,75 +4,33 @@ export interface ToCItem {
   children: ToCItem[];
   depth: number;
 }
-function Anchor({
-  item,
-  isListHeading,
-}: {
-  item: ToCItem;
-  isListHeading: boolean;
-}) {
-  return isListHeading ? (
+function Anchor({ item, className }: { item: ToCItem; className: string }) {
+  return (
     <>
-      <a
-        href={`#${item.data.id}`}
-        style={{
-          fontSize: '25px',
-          textDecoration: 'none',
-          color: '#0E1F41',
-        }}
-      >
+      <a href={`#${item.data.id}`} className={className}>
         {item.value}
       </a>
-      <hr
-        style={{
-          margin: '20px 0 20px 0',
-        }}
-      />
+      {className === 'toc-list heading' ? (
+        <hr className="toc-list separator" />
+      ) : null}
     </>
-  ) : (
-    <a
-      href={`#${item.data.id}`}
-      style={{
-        fontSize: '16px',
-        lineHeight: '32px',
-        color: 'black',
-      }}
-    >
-      {item.value}
-    </a>
   );
 }
 
 function renderItems(items: ToCItem[]) {
   return items.map((item) => (
-    <li
-      key={item.data.id}
-      style={{
-        listStyle: 'none',
-        width: '350px',
-      }}
-    >
-      <Anchor item={item} isListHeading={item.depth === 2} />
+    <li key={item.data.id}>
+      <Anchor
+        item={item}
+        className={item.depth === 2 ? 'toc-list heading' : 'toc-list item'}
+      />
       {item.children && renderItems(item.children)}
     </li>
   ));
 }
 
 function ToC({ anchors }: { anchors: ToCItem[] }) {
-  return (
-    <ul
-      style={{
-        display: 'flex',
-        maxWidth: '1160px',
-        flexWrap: 'wrap',
-        margin: '0 auto',
-        gridRowGap: '60px',
-        gridColumnGap: '50px',
-      }}
-    >
-      {renderItems(anchors)}
-    </ul>
-  );
+  return <ul className="toc-list">{renderItems(anchors)}</ul>;
 }
 
 export default ToC;

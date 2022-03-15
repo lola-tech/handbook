@@ -1,0 +1,33 @@
+.footer {
+  height: 482px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+.toc-list {
+  display: flex;
+  max-width: 1160px;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  grid-row-gap: 60px;
+  grid-column-gap: 50px;
+}
+.toc-list li {
+  list-style: none;
+  width: 350px;
+}
+.toc-list.heading {
+  font-size: 25px;
+  text-decoration: none;
+  color: #0e1f41;
+}
+.toc-list.item {
+  font-size: 16px;
+  line-height: 32px;
+  color: #0e1f41;
+}
+.toc-list.separator {
+  margin: 20px 0 20px 0;
+}
