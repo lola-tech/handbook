@@ -6,3 +6,97 @@
   align-items: center;
   font-size: 50px;
 }
+
+/* allert components */
+
+.allert {
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  max-height: 100px;
+  overflow: hidden;
+  position: relative;
+}
+
+.allert-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 30px;
+}
+
+.allert-content > p {
+  margin: 0;
+}
+
+/* error allert */
+.error {
+  background-color: #f7dbdb;
+}
+
+.error::before {
+  content: '';
+  display: block;
+  position: absolute;
+  background-color: #d84a49;
+  width: 7px;
+  height: 100%;
+}
+
+/* success allert */
+
+.success {
+  background-color: #def3ec;
+}
+.success::before {
+  content: '';
+  display: block;
+  position: absolute;
+  background-color: #5ac3a2;
+  width: 7px;
+  height: 100%;
+}
+
+/* info allert */
+
+.info {
+  background-color: #e3eff4;
+}
+.info::before {
+  content: '';
+  display: block;
+  position: absolute;
+  background-color: #70b1c5;
+  width: 7px;
+  height: 100%;
+}
+
+/* example allert */
+.example {
+  background-color: #efefef;
+}
+.example::before {
+  content: '';
+  display: block;
+  position: absolute;
+  background-color: #aeaeae;
+  width: 7px;
+  height: 100%;
+}
+
+/* yellow allert */
+.allert-yellow {
+  background-color: #fbf2de;
+}
+.allert-yellow::before {
+  content: '';
+  display: block;
+  position: absolute;
+  background-color: #ecbf5b;
+  width: 7px;
+  height: 100%;
+}
+.allert-yellow img {
+  fill: #ecbf5b;
+}

@@ -15,6 +15,8 @@ import components from '../components/MDXComponents';
 import ToC, { ToCItem } from '../components/ToC';
 import Favicon from '../components/Favicon';
 import Footer from '@/components/Footer';
+import Alerts from '@/components/Alerts';
+
 interface Props {
   content: MDXRemoteSerializeResult;
   toc: ToCItem[];
@@ -76,6 +78,12 @@ export default function Index({ content, toc }: Props) {
         </details>
 
         <MDXRemote {...content} components={components} />
+        <Alerts
+          className="allert-yellow allert"
+          content="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut in odit fuga accusamus! Recusandae fugiat maxime asperiores, harum enim nesciunt voluptates ducimus, optio maiores, cum quas. Optio maxime officia facere!"
+          src="/icons/alert-circle.svg"
+          alt="alert circle"
+        />
       </main>
       <Footer />
     </>
