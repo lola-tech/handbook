@@ -15,6 +15,7 @@ import components from '../components/MDXComponents';
 import ToC, { ToCItem } from '../components/ToC';
 import Header from '../components/Header';
 import Favicon from '../components/Favicon';
+import Footer from '@/components/Footer';
 interface Props {
   content: MDXRemoteSerializeResult;
   toc: ToCItem[];
@@ -43,7 +44,7 @@ export default function Index({ content, toc }: Props) {
 
         <MDXRemote {...content} components={components} />
       </main>
-      <footer className="container"></footer>
+      <Footer />
     </>
   );
 }
