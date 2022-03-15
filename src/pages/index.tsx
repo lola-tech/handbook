@@ -15,6 +15,7 @@ import components from '../components/MDXComponents';
 import ToC, { ToCItem } from '../components/ToC';
 import Favicon from '../components/Favicon';
 import Footer from '@/components/Footer';
+
 interface Props {
   content: MDXRemoteSerializeResult;
   toc: ToCItem[];
@@ -22,12 +23,7 @@ interface Props {
 
 export default function Index({ content, toc }: Props) {
   return (
-    <html
-      style={{
-        padding: '0px',
-        margin: '0px',
-      }}
-    >
+    <html>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Lola Tech&apos;s Handbook</title>
@@ -74,19 +70,9 @@ export default function Index({ content, toc }: Props) {
           </ul>
         </nav>
       </header>
-      <body
-        style={{
-          padding: '0px',
-          margin: '0px',
-        }}
-      >
+      <body>
         <main className="container">
-          <div
-            style={{
-              backgroundColor: '#F5F5F5',
-              padding: '100px 0',
-            }}
-          >
+          <div className="toc">
             <ToC anchors={toc} />
           </div>
           <MDXRemote {...content} components={components} />
