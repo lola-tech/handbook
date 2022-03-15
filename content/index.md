@@ -187,7 +187,12 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
 
 #### Conferences
 
-The company will, as standard, pay for at least 1 conference per calendar year per person. Attending a conference as a speaker or when manning a stand does not count towards your allowance.
+The budget is €1.000 per person per year (runs 1 Jan - 31 Dec) and has a limit of 6 working days/year.
+The budget covers the tickets, travel, accommodation; timings are discussed with the team member’s scrum master and whoever is impacted to ensure continuity.
+Please try to decide where you want to go as early as possible to benefit the early-bird prices and also book your Conference/Training time in CharlieHR so that colleagues know you are not reachable.
+It is recommended that the maximum number of people attending one conference should not be more than 3 and to be in different teams.
+
+Attending a conference as a speaker or when manning a stand does not count towards your allowance.
 
 #### Training
 
@@ -197,7 +202,7 @@ Need to add this
 
 #### ⌛ Hiring Timeline
 
-🚧🚧🚧 *Ciprian to add*
+The timeline for hiring process starts when the candidate sends us their CV. In the next 72 hours the candidate will be contacted either to be told that we're not going further or to schedule for a technical discussion. After that, in maximum 14 days the candidate will be informed if we’ll proceed with another discussion or the hiring process stops.
 
 #### 👩‍❤️‍👩 Interview Guidelines
 
@@ -272,7 +277,7 @@ Your annual holiday entitlement is stated in your contract of employment and run
 
 Every effort will be made to accommodate your individual holiday wishes. As a general rule you should request holiday at least one month in advance per week holiday.
 
-You can carry over maximum 10 unused holidays on the condition it is used within the first 3 months of the new holiday year.
+You can carry over maximum 10 unused holidays on the condition it is used within the first 4 months of the new holiday year.
 
 If you leave the company we will balance your remaining holiday (positive or negative) with your final salary payment.
 
@@ -304,7 +309,7 @@ Throughout the parental (and adoption) leave you are entitled to all your non-pa
 
 #### Parental pay (formerly paternity pay)
 
-We provide 2 weeks' leave at full pay, which you can take when you see fit.
+We provide 3 weeks' leave at full pay, which you can take when you see fit.
 
 Parental pay applies on the arrival of a child where you are either the biological parent or mother's partner
 
@@ -314,13 +319,23 @@ Maternity pay is paid to (future) parents who are pregnant. In Romania, the gove
 
 #### 🗺️ Sabbaticals
 
-🚧🚧🚧 Cipri can you dig it up
+A sabbatical leave is a period in which an employee takes an extended break from work. This is considered an unpaid leave.
+
+Difference from other types of leaves is that it usually lasts longer – somewhere between a month to a year, Lola is granting sabbatical to employees who have been with the company for at least 1 year.
 
 #### 🫂 Compassionate Leave
 
 In the event of critical illness or death which affects you, the company will be generous in its considerations of special leave. Let your scrum master or advocate know your plans as soon as you can so they can arrange to cover your absence.
 
-You can take ten days of bereavement leave for the death of a spouse or partner, child or child-in-law, parent or parent-in-law, or sibling or sibling-in-law. You can take three days of bereavement leave for the death of a grandparent, niece or nephew, cousin, or close friend. These caps are not to say you must return to work after so many days; you can use any of your available vacation time if you find you need more time off after bereavement leave. And if you know you'll be away from work for much longer than outlined above, please talk to your advocate to discuss.
+You are entitled to:
+
+* 5 days off for your wedding;
+* 2 days off for your child's wedding;
+* 5 days off for your child's birth (+ extra 10 days if you did a parenting / Lamase course - only applies to the first child)
+* 3 days off for death of a family member - partner/child/parents/brothers/sisters
+* 1 day off for death of a family member - grandparents/parents in law
+
+If you know you'll be away from work for much longer than outlined above, please talk to your advocate.
 
 Time off for dependants:
 
@@ -367,7 +382,7 @@ We will treat all such disclosures in a confidential and sensitive manner. The i
 
 #### Procedure for making a disclosure
 
-All disclosures should be passed to the CEO (Inge) or Business Owner (Luke), whoever is most appropriate in your opinion. They will respond with a timeline for action within 24h.
+All disclosures should be passed to the MD (Ciprian), CEO (Inge) or Business Owner (Luke), whoever is most appropriate in your opinion. They will respond with a timeline for action within 24h.
 
 ### 🚨 When the company requires a change from you
 
@@ -413,8 +428,9 @@ Benefits vary per country because of different tax rules, number of employees an
 #### In Romania:
 
 * Meal vouchers
-
-🚧🚧🚧 Cipri can you add details about benefits ^^
+* Health insurance for the employee and family (partner/kids)
+* Sport package
+* Extra holiday for each year spent in Lola (max 5)
 
 ### 🧳 Travel & Expenses
 
