@@ -21,7 +21,12 @@ interface Props {
 
 export default function Index({ content, toc }: Props) {
   return (
-    <>
+    <html
+      style={{
+        padding: '0px',
+        margin: '0px',
+      }}
+    >
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Lola Tech&apos;s Handbook</title>
@@ -68,16 +73,26 @@ export default function Index({ content, toc }: Props) {
           </ul>
         </nav>
       </header>
-      <main className="container">
-        <details>
-          <summary>Table of Contents</summary>
-          <ToC anchors={toc} />
-        </details>
-
-        <MDXRemote {...content} components={components} />
-      </main>
+      <body
+        style={{
+          padding: '0px',
+          margin: '0px',
+        }}
+      >
+        <main className="container">
+          <div
+            style={{
+              backgroundColor: '#F5F5F5',
+              padding: '100px 0',
+            }}
+          >
+            <ToC anchors={toc} />
+          </div>
+          <MDXRemote {...content} components={components} />
+        </main>
+      </body>
       <footer className="container"></footer>
-    </>
+    </html>
   );
 }
 
@@ -116,7 +131,12 @@ export const getStaticProps = async () => {
     },
   });
 
-  return { props: { content: mdxSource, toc } };
+  return {
+    props: {
+      content: mdxSource,
+      toc,
+    },
+  };
 };
 
 export const config = {
