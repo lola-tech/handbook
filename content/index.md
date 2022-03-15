@@ -25,22 +25,21 @@ Nothing in this handbook should supersede rules and laws of the country where th
 
 Welcome! You will have been assigned a buddy who will welcome you. We'd like to invite you to:
 
-- Please read this handbook
-- Please complete the security awareness training (@Vlad to add link)
-- You will have received your Lola Tech Onelogin. This will allow you to log into most Lola Tech systems. Check now that you have access to:
+* Please read this handbook
+* Please complete the security awareness training (@Vlad to add link)
+* You will have received your Lola Tech Onelogin. This will allow you to log into most Lola Tech systems. Check now that you have access to: 
 
-  1. [Jira®](https://lola-tech.atlassian.net/secure/Dashboard.jspa 'https://lola-tech.atlassian.net/secure/Dashboard.jspa'): our issue tracking system to manage tasks, improvements and bugs.
+  1. [Jira®](https://lola-tech.atlassian.net/secure/Dashboard.jspa "https\://lola-tech.atlassian.net/secure/Dashboard.jspa"): our issue tracking system to manage tasks, improvements and bugs. 
   2. Runn: for time tracking
-  3. [Wiki](https://lola-tech.atlassian.net/wiki/spaces/PM/pages/865390 '/wiki/spaces/PM/pages/865390'): home to our documentation.
+  3. [Wiki](https://lola-tech.atlassian.net/wiki/spaces/PM/pages/865390 "/wiki/spaces/PM/pages/865390"): home to our documentation. 
+* Systems: Once you have access to your Lola Tech Onelogin, you will be able to use it to access the systems we use day to day
 
-- Systems: Once you have access to your Lola Tech Onelogin, you will be able to use it to access the systems we use day to day
+  * Slack: 
 
-  - Slack:
-
-    - Go to [slack.com](https://slack.com/ 'https://slack.com/')
-    - Select "Log in with Google” and access [lolatech-team.slack.com](http://lolatech-team.slack.com/ 'http://lolatech-team.slack.com/')
-    - Set up your profile
-    - Download desktop and mobile apps as you see fit
+    * Go to [slack.com](https://slack.com/ "https\://slack.com/") 
+    * Select "Log in with Google” and access [lolatech-team.slack.com](http://lolatech-team.slack.com/ "http\://lolatech-team.slack.com/") 
+    * Set up your profile
+    * Download desktop and mobile apps as you see fit
 
 ## Support
 
@@ -58,59 +57,51 @@ When someone first joins the company they are assigned a Buddy from the existing
 
 After that it is just a matter of following the timeline set out below and keeping to the Buddies Contract:
 
-- Buddies relationship at Lola Tech is reciprocal.
-- An initial Buddy partnership is designed to last for one month. We hope after this time you've got to know each other well enough to continue your relationship.
-- Both participants agree to make time for the activities and to take action if something interferes.
-- Scheduled buddy meetings take precedence over other work activities.
-- The Buddy relationship is confidential, a buddy shouldn't pass on anything without explicit consent, nor should either party take any action without prior discussion.
+* Buddies relationship at Lola Tech is reciprocal.
+* An initial Buddy partnership is designed to last for one month. We hope after this time you've got to know each other well enough to continue your relationship.
+* Both participants agree to make time for the activities and to take action if something interferes.
+* Scheduled buddy meetings take precedence over other work activities.
+* The Buddy relationship is confidential, a buddy shouldn't pass on anything without explicit consent, nor should either party take any action without prior discussion.
 
 How to be a good buddy - Suggested timeline:
 
-- Before joining:
+* Before joining:
 
-  - Read your new colleague's CV before they join
-  - Have a chat with their interviewer
-  - Prepare a welcome message for them in important_all on their first day
-  - Check that you'll be working on their first day. Take action if not
+  * Read your new colleague's CV before they join
+  * Have a chat with their interviewer
+  * Prepare a welcome message for them in important_all on their first day
+  * Check that you'll be working on their first day. Take action if not
+* First day:
 
-- First day:
+  * Greet them in important_all first thing in the morning
+  * Meet them at the office (if you can) and have a coffee or somesuch, or have a video call with them
+  * Make sure you have a slack DM between you so there's an easy open channel
+  * Ensure you take them, with anyone else who wants to come, for lunch at your favourite spot. Expense this!
+  * Book in a time to chat the next day to discuss anything that's on their mind
+* Second day:
 
-  - Greet them in important_all first thing in the morning
-  - Meet them at the office (if you can) and have a coffee or somesuch, or have a video call with them
-  - Make sure you have a slack DM between you so there's an easy open channel
-  - Ensure you take them, with anyone else who wants to come, for lunch at your favourite spot. Expense this!
-  - Book in a time to chat the next day to discuss anything that's on their mind
+  * Have a check in to talk about any questions
+  * Make a point of introducing them to two people
+* Third day:
 
-- Second day:
+  * Book in a short session near the end of their first week. Put it in the calendar. Make it repeat weekly for the next 3 weeks
+* End of first week
 
-  - Have a check in to talk about any questions
-  - Make a point of introducing them to two people
+  * Use the end of week session to focus on practical issues. Commuting, timekeeping, equipment, facilities, expense arrangements etc.
+  * Share a favourite tip or trick for making the best of life at Lola Tech
+* End of second week
 
-- Third day:
+  * Use the end of week session to chat about what you each did at work in the last week
+* End of third week
 
-  - Book in a short session near the end of their first week. Put it in the calendar. Make it repeat weekly for the next 3 weeks
+  * Use the end of week session to talk about what still remains mysterious about Lola Tech. Take actions to resolve the mysteries
+* End of fourth week
 
-- End of first week
+  * Use the end of week session to prepare for a review of the first month with the buddy coordinator (currently Inge)
+  * Book Buddy coordinator meeting
+* After a month
 
-  - Use the end of week session to focus on practical issues. Commuting, timekeeping, equipment, facilities, expense arrangements etc.
-  - Share a favourite tip or trick for making the best of life at Lola Tech
-
-- End of second week
-
-  - Use the end of week session to chat about what you each did at work in the last week
-
-- End of third week
-
-  - Use the end of week session to talk about what still remains mysterious about Lola Tech. Take actions to resolve the mysteries
-
-- End of fourth week
-
-  - Use the end of week session to prepare for a review of the first month with the buddy coordinator (currently Inge)
-  - Book Buddy coordinator meeting
-
-- After a month
-
-  - Book a short meeting with you, your buddy, and the buddy coordinator to give feedback about how the onboarding went in the first month.
+  * Book a short meeting with you, your buddy, and the buddy coordinator to give feedback about how the onboarding went in the first month.
 
 ### 🧙‍♀️ Mentors
 
@@ -127,24 +118,24 @@ The mentor should be someone with substantial experience in the field the mentee
 
 Suggested intro meeting:
 
-- Share backgrounds to get to know each other
-- Discuss what each want to get out of this
-- Talk about topics, interests, areas to grow
-- Agree on cadence (suggest every fortnight)
-- Mentee sends out invite for next meet
+* Share backgrounds to get to know each other
+* Discuss what each want to get out of this
+* Talk about topics, interests, areas to grow
+* Agree on cadence (suggest every fortnight)
+* Mentee sends out invite for next meet
 
 Suggested subsequent meeting:
 
-- Key things that happened since last time
-- Discuss a challenge that you're facing or a topic that needs attention
-- Mentee sends out invite for next meet
+* Key things that happened since last time
+* Discuss a challenge that you're facing or a topic that needs attention
+* Mentee sends out invite for next meet
 
 Guidance for mentors:
 
-- Suggest limiting the number of mentees to 3 at any time
-- You may suggest activities for your mentee to take on between sessions, do this sparingly and be respectful of their time. It is not a mentor's role to set or mark homework.
-- Get involved in \`#cop-mentoring\` - this is a skill which you'll need to develop.
-- Try to learn something from your mentee
+* Suggest limiting the number of mentees to 3 at any time
+* You may suggest activities for your mentee to take on between sessions, do this sparingly and be respectful of their time. It is not a mentor's role to set or mark homework.
+* Get involved in \`#cop-mentoring\` - this is a skill which you'll need to develop.
+* Try to learn something from your mentee
 
 Guidance for mentees:
 
@@ -154,43 +145,43 @@ How to apply to be a mentor: just post a message in \`#cop-mentoring\` indicatin
 
 ### 👩‍🌾 Scrum Masters
 
-- A scrum master is responsible for the performance of a team, making sure team members can perform to the best of their ability.
-- They acknowledge holiday requests in CharlieHR so that they can schedule and adjust project work
-- Scrum masters are usually consulted when advocates review performance
+* A scrum master is responsible for the performance of a team, making sure team members can perform to the best of their ability.
+* They acknowledge holiday requests in CharlieHR so that they can schedule and adjust project work
+* Scrum masters are usually consulted when advocates review performance
 
 ### 🙋 Advocates (formerly known as line managers)
 
 Everyone should have an advocate who officially looks after them. Their main areas of responsibility are:
 
-- Discuss focus and goals
-- Review feedback
-- Highlight needs, career progression, promotions, salary reviews
-- Identify knowledge gaps and arrange training
-- Encourage/ monitor use of the mentor system
+* Discuss focus and goals
+* Review feedback
+* Highlight needs, career progression, promotions, salary reviews
+* Identify knowledge gaps and arrange training
+* Encourage/ monitor use of the mentor system
 
 ### 🧑‍🤝‍🧑 Communities of Practice
 
-Lola Tech's Communities of Practice (**_CoPs_**) are semi-formal groups dedicated to improving our skills and practice in specific areas.
+Lola Tech's Communities of Practice (***CoPs***) are semi-formal groups dedicated to improving our skills and practice in specific areas.
 
-A member of Lola Tech can be part of any number of **_CoPs_**, but it expected that everyone plays an active part in at least one. You can ask around for ideas about which **_CoPs_** might interest you, or you can get an idea by searching slack for channels prefixed with `#cop-`.
+A member of Lola Tech can be part of any number of ***CoPs***, but it expected that everyone plays an active part in at least one. You can ask around for ideas about which ***CoPs*** might interest you, or you can get an idea by searching slack for channels prefixed with `#cop-`.
 
-**_CoPs_** are self-organising. They centre around a slack channel and conduct activities such as:
+***CoPs*** are self-organising. They centre around a slack channel and conduct activities such as:
 
-- Chatting in their channel
-- Posting interesting links
-- Maintaining example codebases
-- Maintaining documentation
-- Exploring and advocating for new tools and techniques
-- Holding meetings and surgeries
-- Hosting workshops and presentations
-- Running study-group sessions
-- Providing one-to-one or small-group training
-- Promoting conference attendance
-- Lending and circulating books
+* Chatting in their channel
+* Posting interesting links
+* Maintaining example codebases
+* Maintaining documentation
+* Exploring and advocating for new tools and techniques
+* Holding meetings and surgeries
+* Hosting workshops and presentations
+* Running study-group sessions
+* Providing one-to-one or small-group training
+* Promoting conference attendance
+* Lending and circulating books
 
-**_CoPs_** can draw on a central budget to fund activities and other costs, which is separate from individual training budgets.
+***CoPs*** can draw on a central budget to fund activities and other costs, which is separate from individual training budgets.
 
-**_CoPs_** are encouraged to conduct some of their activity in public as part of the "[Lola Tech & Friends](https://www.meetup.com/lola-tech-and-friends/)" meetup group.
+***CoPs*** are encouraged to conduct some of their activity in public as part of the "[Lola Tech & Friends](https://www.meetup.com/lola-tech-and-friends/)" meetup group.
 
 ## Personal Development
 
@@ -202,15 +193,15 @@ The company will, as standard, pay for at least 1 conference per calendar year p
 
 Need to add this
 
-## Hiring
+## 👋 Hiring
 
 #### ⌛ Hiring Timeline
 
-🚧🚧🚧 _Ciprian to add_
+🚧🚧🚧 *Ciprian to add*
 
 #### 👩‍❤️‍👩 Interview Guidelines
 
-🚧🚧🚧 _VladM to add_
+🚧🚧🚧 *VladM to add*
 
 #### 🐣 On-boarding Timeline
 
@@ -224,7 +215,7 @@ The company runs a flexible schedule regarding working hours. This is so we can 
 
 Core working hours are 10-4 which means we expect everyone to be working during that period as well as before or after to make up your contracted hours which is 40h/week for the vast majority of us. Any deviation for this should be discussed with your scrum master and/or advocate. Your number of working hours per week is stated in your contract.
 
-_Whether you are working from home or from the office, we don't want your scrum master or anyone else to police your working hours; we expect you do that yourself._
+*Whether you are working from home or from the office, we don't want your scrum master or anyone else to police your working hours; we expect you do that yourself.*
 
 ### 🏢 Working from the Office
 
@@ -242,8 +233,8 @@ Whilst working from home, it helps to use your Slack status to show when you are
 
 Wherever you're physically located while working you will be making frequent use of online tools. We've learned that it is very helpful to colleagues and collaborators if we all:
 
-- Provide a non-default avatar for services which allow it (e.g. Github, Slack, Jira).
-- Default to keeping your camera on during meetings.
+* Provide a non-default avatar for services which allow it (e.g. Github, Slack, Jira).
+* Default to keeping your camera on during meetings.
 
 It is not the company's intention to police your appearance in any way. The avatar you provide need not be a direct representation, though consistency across platforms is helpful to all. There are many occasions when it is sensible and reasonable to keep your camera off and a break from seeing ourselves is often welcome but visibility, even when you are not the speaker, supports a communicative, welcoming and human workplace.
 
@@ -259,9 +250,9 @@ Keep any change of address, emergency contact or next of kin up to date in Charl
 
 🚧🚧 something about
 
-- ergonomics
-- screens and laptops
-- Rupert and VladR to flesh out
+* ergonomics
+* screens and laptops
+* Rupert and VladR to flesh out
 
 ### 🧰 Tools and Services
 
@@ -303,9 +294,9 @@ If you or your partner are pregnant, you are entitled to take paid time off work
 
 You should notify the company at least 15 weeks before you intend to start taking your maternity, paternity or adoption leave. Please provide the following:
 
-- The date the child is expected to arrive
-- How much leave you wish to take.
-- When you intend your leave to start.
+* The date the child is expected to arrive
+* How much leave you wish to take.
+* When you intend your leave to start.
 
 Because no arrival is the same, we trust you to take the parental leave in the way that is best for your family.
 
@@ -327,7 +318,7 @@ Maternity pay is paid to (future) parents who are pregnant. In Romania, the gove
 
 #### 🫂 Compassionate Leave
 
-In the event of critical illness or death which affects you, the company will be generous in its considerations of special leave. Let your scrum master or advocate know your plans as soon as you can so they can arrange to cover your absence.
+In the event of critical illness or death which affects you, the company will be generous in its considerations of special leave. Let your scrum master or advocate know your plans as soon as you can so they can arrange to cover your absence.
 
 You can take ten days of bereavement leave for the death of a spouse or partner, child or child-in-law, parent or parent-in-law, or sibling or sibling-in-law. You can take three days of bereavement leave for the death of a grandparent, niece or nephew, cousin, or close friend. These caps are not to say you must return to work after so many days; you can use any of your available vacation time if you find you need more time off after bereavement leave. And if you know you'll be away from work for much longer than outlined above, please talk to your advocate to discuss.
 
@@ -335,13 +326,13 @@ Time off for dependants:
 
 All employees are entitled to a reasonable amount of paid time off during working hours in order to take action which is necessary:
 
-- To provide assistance if a dependant falls ill, gives birth or is injured;
-- To make arrangements to care for an ill or injured dependant;
-- As a result of the death of a dependant;
-- Due to unexpected disruption or termination of arrangements for the care of a dependant; or
-- To deal with an incident involving a child of the employee which occurs unexpectedly during school time.
+* To provide assistance if a dependant falls ill, gives birth or is injured;
+* To make arrangements to care for an ill or injured dependant;
+* As a result of the death of a dependant;
+* Due to unexpected disruption or termination of arrangements for the care of a dependant; or
+* To deal with an incident involving a child of the employee which occurs unexpectedly during school time.
 
-The company requires you to give the reason of your absence as soon as is reasonably practical and to indicate how long you expect to be absent. A “dependant” is the partner, child or parent of the employee or any person who lives in the same household of the employee, who reasonably relies on the employee for assistance or to make arrangements for their care.
+The company requires you to give the reason of your absence as soon as is reasonably practical and to indicate how long you expect to be absent. A “dependant” is the partner, child or parent of the employee or any person who lives in the same household of the employee, who reasonably relies on the employee for assistance or to make arrangements for their care.
 
 Compassionate leave should be logged in CharlieHR as.
 
@@ -361,16 +352,16 @@ An important aspect of accountability and transparency is enabling employees to 
 
 These concerns could include but are not limited to:
 
-- Breach of computer security, confidentiality and data protection;
-- Software piracy or other use of unauthorised material;
-- Breach of the company’s own copyright and intellectual property;
-- Terms and Conditions of Employment;
-- Negative or destructive behaviour, poor attendance, lateness, absenteeism, sickness, impaired work performance;
-- Use of or supply of any illegal or controlled drugs at work;
-- Failure to comply with a legal obligation;
-- Dangers to Health & Safety of the work environment;
-- Improper conduct or unethical behaviour;
-- Attempts to conceal any of these.
+* Breach of computer security, confidentiality and data protection;
+* Software piracy or other use of unauthorised material;
+* Breach of the company’s own copyright and intellectual property;
+* Terms and Conditions of Employment;
+* Negative or destructive behaviour, poor attendance, lateness, absenteeism, sickness, impaired work performance;
+* Use of or supply of any illegal or controlled drugs at work;
+* Failure to comply with a legal obligation;
+* Dangers to Health & Safety of the work environment;
+* Improper conduct or unethical behaviour;
+* Attempts to conceal any of these.
 
 We will treat all such disclosures in a confidential and sensitive manner. The identity of the employee making the allegation may be kept confidential so long as it does not hinder any investigation.
 
@@ -390,10 +381,10 @@ When dealing with a performance issue, we will always strive to avoid a formal d
 
 If there is a breach of company policies and disciplinary action is needed, it consists of 4 stages:
 
-- **Stage 1 - Oral warning:** if it is a minor breach you will be given a formal oral warning and informed of the consequences and, if appropriate, any improvement required from you and the time frame.
-- **Stage 2 - Written Warning:** if it is a serious breach or a repetition of a minor breach, you will be given a written warning setting out the precise nature of the offence and future consequences. If appropriate, it will specify any improvement and the time frame required from you.
-- **Stage 3 - Final Written Warning:** if you fail to improve following a written warning or if the offence, is not gross misconduct although is serious enough in the company's view to warrant a final warning, you will be given a written final warning. This will set out the precise nature of the offence, state that any recurrence may lead to dismissal and specify, if appropriate, the nature of the improvement and the time frame required from you.
-- **Stage 4 - Dismissal:** in the case of gross misconduct, or if all previous stages of the warning procedure have been exhausted, the employee will normally be dismissed. The company reserves the right, where reasonable, not to dismiss, but to impose other disciplinary action including (but without limitation) demotion, transfer to another department, loss of seniority, loss of right to a pay increment or bonus or suspension with or without pay.
+* **Stage 1 - Oral warning:** if it is a minor breach you will be given a formal oral warning and informed of the consequences and, if appropriate, any improvement required from you and the time frame.
+* **Stage 2 - Written Warning:** if it is a serious breach or a repetition of a minor breach, you will be given a written warning setting out the precise nature of the offence and future consequences. If appropriate, it will specify any improvement and the time frame required from you.
+* **Stage 3 - Final Written Warning:** if you fail to improve following a written warning or if the offence, is not gross misconduct although is serious enough in the company's view to warrant a final warning, you will be given a written final warning. This will set out the precise nature of the offence, state that any recurrence may lead to dismissal and specify, if appropriate, the nature of the improvement and the time frame required from you.
+* **Stage 4 - Dismissal:** in the case of gross misconduct, or if all previous stages of the warning procedure have been exhausted, the employee will normally be dismissed. The company reserves the right, where reasonable, not to dismiss, but to impose other disciplinary action including (but without limitation) demotion, transfer to another department, loss of seniority, loss of right to a pay increment or bonus or suspension with or without pay.
 
 In relation to gross misconduct, such dismissal shall be without notice or payment in lieu of notice.
 
@@ -401,17 +392,17 @@ In relation to gross misconduct, such dismissal shall be without notice or payme
 
 The following are examples of breaches of company policy, which could lead to formal disciplinary action.
 
-- **Minor breaches**: Unintentional breach of the company's policies and procedures. Poor job performance is also classed as a minor breach.
-- **Serious breaches**: Abusive behaviour; unauthorised absenteeism; intentional breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.
-- **Gross misconduct**: Negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the misuse of confidential information obtained in the course of the employee's employment; falsification of records; conviction of a criminal charge.
+* **Minor breaches**: Unintentional breach of the company's policies and procedures. Poor job performance is also classed as a minor breach.
+* **Serious breaches**: Abusive behaviour; unauthorised absenteeism; intentional breach of company rules; negligence resulting in minor loss, damage or injury; failure to comply with a lawful and reasonable instruction; irresponsibility in relation to the company's employees or activities; or improper behaviour, whether or not within working hours, which the company reasonably considers to be detrimental to or conflicting with the interests of the company or its employees.
+* **Gross misconduct**: Negligence resulting in serious loss, damage, or injury; assault or attempted assault; discrimination or harassment, theft; dishonesty; malicious damage to property; wilful disregard of duties or of instructions relating to employment; deliberate and serious breach of confidence relating to the company or the company's business; the misuse of confidential information obtained in the course of the employee's employment; falsification of records; conviction of a criminal charge.
 
 ### 💰 Compensation
 
-Salary reviews happen twice a year (summer and winter). Pay rises are decided by the management team, approved by the executive team and informed by regular reviews held by advocates.
+Salary reviews happen twice a year (summer and winter).  Pay rises are decided by the management team, approved by the executive team and informed by regular reviews held by advocates. 
 
 Ranges:
 
-L1 - junior: < €25k/year
+L1 - junior:  < €25k/year
 L2 - mid: €25k-40k/year
 L3 - senior: > €40k/year
 
@@ -421,17 +412,17 @@ Benefits vary per country because of different tax rules, number of employees an
 
 #### In Romania:
 
-- Meal vouchers
+* Meal vouchers
 
 🚧🚧🚧 Cipri can you add details about benefits ^^
 
 ### 🧳 Travel & Expenses
 
-All travel expenses should be agreed with your advocate or senior managers before booking. The most economic means of travel should be chosen, where practical. Travel between your home and place of work or travel for your own purpose will not be treated as a company travel expense.
+All travel expenses should be agreed with your advocate or senior managers before booking. The most economic means of travel should be chosen, where practical. Travel between your home and place of work or travel for your own purpose will not be treated as a company travel expense.
 
 **Trains**
 
-We will reimburse the cost of standard class travel on submission of a receipt. First class travel must be pre-authorised.
+We will reimburse the cost of standard class travel on submission of a receipt. First class travel must be pre-authorised.
 
 **Taxis**
 
@@ -443,21 +434,21 @@ The company is aware of its responsibilities and liabilities when you are drivin
 
 You are expected to uphold the law and never drive while over the legal alcohol limit or under the influence of drugs. The company makes cost-efficient car services like Uber or other cabs available to employees for instances like this.
 
-Seek authorisation **before** using your car for business travels. You may claim a mileage allowance and parking on proof of mileage and parking receipts.
+Seek authorisation **before** using your car for business travels. You may claim a mileage allowance and parking on proof of mileage and parking receipts.
 
-Penalty fares / fines for parking or driving offences will not be reimbursed, other than at our discretion or in exceptional circumstances.
+Penalty fares / fines for parking or driving offences will not be reimbursed, other than at our discretion or in exceptional circumstances.
 
 **Air Travel**
 
-When a trip is required you should agree this with your advocate. Tahlecion or Ciprian will book flights for you.  We will aim to get you to your destination from an airport within reasonable distance from you.
+When a trip is required you should agree this with your advocate. Tahlecion or Ciprian will book flights for you.  We will aim to get you to your destination from an airport within reasonable distance from you.
 
 **Accommodation and other overnight travel expenses**
 
-If you are required to be away overnight, accommodation arrangements will be made for you, including any car hire. No upgrade of car is allowed unless by prior approval. We will reimburse reasonable out-of-pocket expenses for meals, please keep both card and till receipts.
+If you are required to be away overnight, accommodation arrangements will be made for you, including any car hire. No upgrade of car is allowed unless by prior approval. We will reimburse reasonable out-of-pocket expenses for meals, please keep both card and till receipts.
 
 **Entertaining Clients**
 
-You may entertain actual or prospective clients when you have approval and an appropriate budget that has been agreed in advance. Receipts must be submitted with your claim.
+You may entertain actual or prospective clients when you have approval and an appropriate budget that has been agreed in advance. Receipts must be submitted with your claim.
 
 **Other Expenses**
 
@@ -467,8 +458,8 @@ Purchase of computer or office equipment, phone or internet costs must be author
 
 To claim travel expenses please use the company's Expensify app.
 
-- Add a copy of the receipt for each amount. If a receipt has 2 parts i.e. the credit card and an item list, you must include both sections in your claim.
-- On your Expensify claim, mark all of your expenses Zero VAT.
-- If you travel to USA including through the UK, mark your expenses 'International Travel'.
-- If you travel for a conference, mark ALL related expenses as 'Conference', including food and hotel.
-- If you travel within Europe for any other reason than conference, mark your expenses 'Travel Europe'
+* Add a copy of the receipt for each amount. If a receipt has 2 parts i.e. the credit card and an item list, you must include both sections in your claim.
+* On your Expensify claim, mark all of your expenses Zero VAT.
+* If you travel to USA including through the UK, mark your expenses 'International Travel'.
+* If you travel for a conference, mark ALL related expenses as 'Conference', including food and hotel.
+* If you travel within Europe for any other reason than conference, mark your expenses 'Travel Europe'

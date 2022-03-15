@@ -7,12 +7,10 @@ export interface ToCItem {
 function Anchor({ item, className }: { item: ToCItem; className: string }) {
   return (
     <>
-      <a href={`#${item.data.id}`} className={className}>
+      <a href={`#${item.data.id}`} className={`toc-list ${className}`}>
         {item.value}
       </a>
-      {className === 'toc-list heading' ? (
-        <hr className="toc-list separator" />
-      ) : null}
+      {className === 'heading' ? <hr className="toc-list separator" /> : null}
     </>
   );
 }
@@ -20,10 +18,7 @@ function Anchor({ item, className }: { item: ToCItem; className: string }) {
 function renderItems(items: ToCItem[]) {
   return items.map((item) => (
     <li key={item.data.id}>
-      <Anchor
-        item={item}
-        className={item.depth === 2 ? 'toc-list heading' : 'toc-list item'}
-      />
+      <Anchor item={item} className={item.depth === 2 ? 'heading' : 'item'} />
       {item.children && renderItems(item.children)}
     </li>
   ));
