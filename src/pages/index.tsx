@@ -36,14 +36,17 @@ export default function Index({ content, toc }: Props) {
         />
         <Favicon />
       </Head>
-
       <body>
         <Header />
         <main className="container">
-          <div className="toc">
+          <div className="toc" id="-toc">
             <ToC anchors={toc} />
           </div>
-          <MDXRemote {...content} components={components} />
+          <div className="content-wrapper">
+            <div className="content-container">
+              <MDXRemote {...content} components={components} />
+            </div>
+          </div>
         </main>
         <Footer />
       </body>
