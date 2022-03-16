@@ -7,14 +7,91 @@ html {
   font-family: 'Mulish', sans-serif;
 }
 
-.footer {
-  height: 482px;
-  width: 100%;
+/* alert components */
+
+.alert-container {
   display: flex;
-  justify-content: center;
   align-items: center;
-  font-size: 50px;
-  background-color: #f5f5f5;
+  border-radius: 5px;
+}
+.alert-container p {
+  flex: 95%;
+  text-align: justify;
+  padding: 10px;
+}
+
+@media screen and (max-width: 600px) {
+  .alert-container {
+    height: fit-content;
+  }
+  .alert-container p {
+    flex: 90%;
+  }
+}
+
+.alert-icon {
+  flex: 5%;
+  width: 33px;
+  height: 33px;
+  border-radius: 50%;
+  mask-repeat: no-repeat;
+  mask-position: center;
+}
+@media screen and (max-width: 600px) {
+  .alert-icon {
+    flex: 10%;
+  }
+}
+
+.red-container {
+  background-color: #f7dbdb;
+  border-left: 5px solid #d84a49;
+}
+.red-alert-icon {
+  background-color: #d84a49;
+  -webkit-mask-image: url('../../public/icons/x-circle.svg');
+  mask-image: url('../../public/icons/x-circle.svg');
+}
+
+.yellow-container {
+  background-color: #fbf2de;
+  border-left: 5px solid #ecbf5b;
+}
+.yellow-alert-icon {
+  background-color: #ecbf5b;
+  -webkit-mask-image: url('../../public/icons/info.svg');
+  mask-image: url('../../public/icons/info.svg');
+}
+
+.green-container {
+  background-color: #def3ec;
+  border-left: 5px solid #5ac3a2;
+}
+.green-alert-icon {
+  background-color: #5ac3a2;
+  -webkit-mask-image: url('../../public/icons/check-circle.svg');
+  mask-image: url('../../public/icons/check-circle.svg');
+}
+
+.blue-container {
+  background-color: #e3eff4;
+  border-left: 5px solid #70b1c5;
+}
+.blue-alert-icon {
+  background-color: #70b1c5;
+  -webkit-mask-image: url('../../public/icons/info.svg');
+  mask-image: url('../../public/icons/info.svg');
+}
+
+.grey-container {
+  background-color: #efefef;
+  border-left: 5px solid #aeaeae;
+}
+
+.grey-alert-icon {
+  background-color: #aeaeae;
+  -webkit-mask-image: url('../../public/icons/pen-tool.svg');
+  mask-image: url('../../public/icons/pen-tool.svg');
 }
 .toc {
   background-color: #f5f5f5;
