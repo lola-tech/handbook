@@ -256,7 +256,7 @@ Keep any change of address, emergency contact or next of kin up to date in Charl
 🚧🚧 something about
 
 * ergonomics
-* screens and laptops
+* screens and laptops - choices and budgets
 * Rupert and VladR to flesh out
 
 ### 🧰 Tools and Services
