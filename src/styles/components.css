@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playfair+Display:wght@400;700&display=swap');
-
 body,
 html {
   padding: 0;
   margin: 0;
   font-family: 'Mulish', sans-serif;
-  scroll-behavior: smooth;
 }
 
 /* alert components */
@@ -15,6 +13,7 @@ html {
   align-items: center;
   border-radius: 5px;
 }
+
 .alert-container p {
   flex: 95%;
   text-align: justify;
@@ -38,6 +37,7 @@ html {
   mask-repeat: no-repeat;
   mask-position: center;
 }
+
 @media screen and (max-width: 600px) {
   .alert-icon {
     flex: 10%;
@@ -48,6 +48,7 @@ html {
   background-color: #f7dbdb;
   border-left: 5px solid #d84a49;
 }
+
 .red-alert-icon {
   background-color: #d84a49;
   -webkit-mask-image: url('../../public/icons/x-circle.svg');
@@ -58,6 +59,7 @@ html {
   background-color: #fbf2de;
   border-left: 5px solid #ecbf5b;
 }
+
 .yellow-alert-icon {
   background-color: #ecbf5b;
   -webkit-mask-image: url('../../public/icons/info.svg');
@@ -68,6 +70,7 @@ html {
   background-color: #def3ec;
   border-left: 5px solid #5ac3a2;
 }
+
 .green-alert-icon {
   background-color: #5ac3a2;
   -webkit-mask-image: url('../../public/icons/check-circle.svg');
@@ -78,6 +81,7 @@ html {
   background-color: #e3eff4;
   border-left: 5px solid #70b1c5;
 }
+
 .blue-alert-icon {
   background-color: #70b1c5;
   -webkit-mask-image: url('../../public/icons/info.svg');
@@ -94,10 +98,12 @@ html {
   -webkit-mask-image: url('../../public/icons/pen-tool.svg');
   mask-image: url('../../public/icons/pen-tool.svg');
 }
+
 .toc {
   background-color: #f5f5f5;
   padding: 100px 0;
 }
+
 .toc ul {
   padding: 0;
   display: flex;
@@ -107,20 +113,24 @@ html {
   grid-row-gap: 60px;
   grid-column-gap: 50px;
 }
+
 .toc ul li {
   list-style: none;
   width: 350px;
 }
+
 .toc-list.heading {
   font-size: 25px;
   text-decoration: none;
   color: #0e1f41;
 }
+
 .toc-list.item {
   font-size: 16px;
   line-height: 32px;
   color: #0e1f41;
 }
+
 .toc-list.separator {
   margin: 20px 0 20px 0;
 }
@@ -132,6 +142,22 @@ html {
   justify-content: center;
   align-items: center;
   font-size: 50px;
+}
+
+.header-button {
+  position: absolute;
+  top: 25px;
+  right: 37px;
+}
+
+.cms-button {
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 15px 30px;
 }
 
 .header-content {
@@ -173,6 +199,7 @@ html {
     max-width: 300px;
   }
 }
+
 @media (max-width: 375px) {
   .toc ul li {
     width: 100%;

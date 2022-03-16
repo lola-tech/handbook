@@ -13,6 +13,11 @@ const Header = () => (
       />
       <h1 className="header-text">Staff Handbook</h1>
     </div>
+    <div className="header-button">
+      <a href="admin.html" className="cms-button">
+        Use our CMS
+      </a>
+    </div>
   </div>
 );
 
