@@ -96,9 +96,6 @@ html {
   }
 }
 @media (max-width: 375px) {
-  .toc {
-    width: 100%;
-  }
   .toc ul li {
     width: 100%;
   }
