@@ -37,15 +37,28 @@ const components = {
             <div className="jump">Jump</div>
             <div className="arrow-container">
               <Image
+                src="/corner-right-up-hover.svg"
+                alt="arrow-red"
+                layout="fill"
+                objectPosition="0 0"
+              />
+              <Image
                 src="/corner-right-up.svg"
                 className="arrow"
                 alt="arrow"
-                width={24}
-                height={24}
+                layout="fill"
+                objectPosition="0 0"
               />
             </div>
           </div>
         </Link>
+      </>
+    );
+  },
+  h3: function h3(props: ElementProps) {
+    return (
+      <>
+        <h3>{props.children}</h3>
       </>
     );
   },

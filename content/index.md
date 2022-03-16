@@ -1,6 +1,6 @@
 ## 💕 Our Values
 
-We have written this employee handbook with our core values in mind:
+#### We have written this employee handbook with our core values in mind:
 
 **Pride**: a sense of responsibility for the quality of work and a sense of achievement driving further results and excellence
 
