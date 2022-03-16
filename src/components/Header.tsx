@@ -8,7 +8,7 @@ const Header = () => (
         src="/lola-logo.svg"
         className="header-content"
         alt="Lola logo"
-        width={200}
+        width={266}
         height={50}
       />
       <h1 className="header-text">Staff Handbook</h1>
