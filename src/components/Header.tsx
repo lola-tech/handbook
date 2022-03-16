@@ -6,7 +6,7 @@ const Header = () => (
       <h1 className="header-text">Welcome to the </h1>
       <Image
         src="/lola-logo.svg"
-        className="header-content"
+        className="header-image"
         alt="Lola logo"
         width={266}
         height={50}
@@ -15,7 +15,7 @@ const Header = () => (
     </div>
     <div className="header-button">
       <a href="admin.html" className="cms-button">
-        Use our CMS
+        CMS
       </a>
     </div>
   </div>
