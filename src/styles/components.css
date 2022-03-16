@@ -43,56 +43,52 @@ html {
   }
 }
 
-/* error */
-.error-container {
+.red-container {
   background-color: #f7dbdb;
   border-left: 5px solid #d84a49;
 }
-.error-alert-icon {
+.red-alert-icon {
   background-color: #d84a49;
   -webkit-mask-image: url('../../public/icons/x-circle.svg');
   mask-image: url('../../public/icons/x-circle.svg');
 }
 
-/* allert */
-.allert-container {
+.yellow-container {
   background-color: #fbf2de;
   border-left: 5px solid #ecbf5b;
 }
-.allert-alert-icon {
+.yellow-alert-icon {
   background-color: #ecbf5b;
   -webkit-mask-image: url('../../public/icons/info.svg');
   mask-image: url('../../public/icons/info.svg');
 }
 
-/* success */
-.success-container {
+.green-container {
   background-color: #def3ec;
   border-left: 5px solid #5ac3a2;
 }
-.success-alert-icon {
+.green-alert-icon {
   background-color: #5ac3a2;
   -webkit-mask-image: url('../../public/icons/check-circle.svg');
   mask-image: url('../../public/icons/check-circle.svg');
 }
 
-/* info */
-.info-container {
+.blue-container {
   background-color: #e3eff4;
   border-left: 5px solid #70b1c5;
 }
-.info-alert-icon {
+.blue-alert-icon {
   background-color: #70b1c5;
   -webkit-mask-image: url('../../public/icons/info.svg');
   mask-image: url('../../public/icons/info.svg');
 }
 
-/* example */
-.example-container {
+.grey-container {
   background-color: #efefef;
   border-left: 5px solid #aeaeae;
 }
-.example-alert-icon {
+
+.grey-alert-icon {
   background-color: #aeaeae;
   -webkit-mask-image: url('../../public/icons/pen-tool.svg');
   mask-image: url('../../public/icons/pen-tool.svg');
