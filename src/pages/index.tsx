@@ -39,7 +39,7 @@ export default function Index({ content, toc }: Props) {
       <body>
         <Header />
         <main className="container">
-          <div className="toc">
+          <div className="toc" id="-toc">
             <ToC anchors={toc} />
           </div>
           <div className="content-wrapper">

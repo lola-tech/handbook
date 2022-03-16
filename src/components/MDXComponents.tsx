@@ -21,8 +21,17 @@ const components = {
   h2: function h2(props: ElementProps) {
     return (
       <>
-        <h2>{props.children}</h2>
-        <Link href={'/'} passHref>
+        <div className="dots-separator">
+          <Image
+            src="/dots.svg"
+            className=""
+            alt="dots"
+            width={68}
+            height={12}
+          />
+        </div>
+        <h2 id={props.id}>{props.children}</h2>
+        <Link href={'/#-toc'} passHref>
           <div className="divider-container">
             <div className="divider"></div>
             <div className="jump">Jump</div>
