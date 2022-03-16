@@ -22,11 +22,10 @@ html {
 
 @media screen and (max-width: 600px) {
   .alert-container {
-    flex-direction: column;
     height: fit-content;
   }
   .alert-container p {
-    margin-top: 0;
+    flex: 90%;
   }
 }
 
@@ -40,7 +39,7 @@ html {
 }
 @media screen and (max-width: 600px) {
   .alert-icon {
-    flex: none;
+    flex: 10%;
   }
 }
 
