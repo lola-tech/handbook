@@ -244,7 +244,7 @@ input:checked + .slider:before {
 }
 
 .grey-alert-icon {
-  background-color: #aeaeae;
+  background-color: var(--color-greyalert-items);
   -webkit-mask-image: url('../../public/icons/pen-tool.svg');
   mask-image: url('../../public/icons/pen-tool.svg');
 }
