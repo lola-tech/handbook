@@ -5,6 +5,6 @@
     "source.fixAll.eslint": true
   },
   "[typescriptreact]": {
-    "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }

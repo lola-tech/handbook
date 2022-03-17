@@ -3,6 +3,7 @@
 :root {
   --color-background: #fff;
   --color-toc-background: #f5f5f5;
+  --color-toc-text: #0e1f41;
   --color-slider-background: #868686;
   --color-slider-before: #ffffff;
   --color-redalert-background: #f7dbdb;
@@ -15,12 +16,14 @@
   --color-bluealert-items: #70b1c5;
   --color-greyalert-background: #efefef;
   --color-greyalert-items: #aeaeae;
+  --color-dots: #efefef;
 }
 
 [data-theme='dark'] {
   --color-background: #22212b;
   --color-text: #ffffff;
   --color-toc-background: #525252;
+  --color-toc-text: #ffffff;
   --color-slider-background: #ffffff;
   --color-slider-before: #2c2c2c;
   --color-redalert-background: #d84a49;
@@ -33,6 +36,7 @@
   --color-bluealert-items: #e3eff4;
   --color-greyalert-background: #aeaeae;
   --color-greyalert-items: #efefef;
+  --color-dots: #535353;
 }
 
 body,
@@ -123,12 +127,12 @@ input:checked + .slider:before {
   font-weight: 700;
   font-size: 50px;
   line-height: 100px;
-  color: #0e1f41;
+  color: var(--color-toc-text);
 }
 
 .content-wrapper h3 a {
   text-decoration: none;
-  color: #0e1f41;
+  color: var(--color-toc-text);
 }
 
 .content-wrapper h4 {
@@ -271,7 +275,7 @@ input:checked + .slider:before {
 .jump {
   padding: 0 5px 0 10px;
   font-size: 16px;
-  color: #0e1f41;
+  color: var(--color-toc-text);
 }
 
 .arrow-container {
@@ -298,7 +302,7 @@ input:checked + .slider:before {
 .jump {
   padding: 0 5px 0 10px;
   font-size: 16px;
-  color: #0e1f41;
+  color: var(--color-toc-text);
 }
 
 .arrow-container {
@@ -316,7 +320,7 @@ input:checked + .slider:before {
 }
 
 .toc {
-  background-color: #f5f5f5;
+  background-color: var(--color-toc-background);
   padding: 100px 0;
   margin-bottom: 166px;
 }
@@ -341,13 +345,13 @@ input:checked + .slider:before {
 .toc-list.heading {
   font-size: 25px;
   text-decoration: none;
-  color: #0e1f41;
+  color: var(--color-toc-text);
 }
 
 .toc-list.item {
   font-size: 16px;
   line-height: 32px;
-  color: #0e1f41;
+  color: var(--color-toc-text);
 }
 
 .toc-list.separator {
@@ -390,7 +394,7 @@ input:checked + .slider:before {
 
 .header-text {
   font-size: 25px;
-  color: black;
+  color: var(--color-text);
   margin: 10px;
   margin-left: 30px;
   margin-right: 30px;
