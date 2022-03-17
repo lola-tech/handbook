@@ -58,7 +58,7 @@ const components = {
   h3: function h3(props: ElementProps) {
     return (
       <>
-        <h3>{props.children}</h3>
+        <h3 id={props.id}>{props.children}</h3>
       </>
     );
   },

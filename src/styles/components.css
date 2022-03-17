@@ -22,11 +22,20 @@ html {
   color: #0e1f41;
 }
 
+.content-wrapper h3 a {
+  text-decoration: none;
+  color: #0e1f41;
+}
+
 .content-wrapper h4 {
   margin: 20px 0;
   font-weight: 800;
   font-size: 25px;
   line-height: 50px;
+}
+
+.content-wrapper p {
+  line-height: 180%;
 }
 
 .alert-container {
