@@ -232,6 +232,14 @@ Core working hours are 10-4 which means we expect everyone to be working during 
 
 *Whether you are working from home or from the office, we don't want your scrum master or anyone else to police your working hours; we expect you do that yourself.*
 
+**Summer Fridays**
+
+Between June 1st and August 31st,  "Summer Fridays" are in place which means that every Friday we're closing 2 hours before we normally stop work for the week (so 3 or 4pm local time) and start the weekend hopefully in the sunshine. 
+
+Scrum masters will make sure that customer meetings are not scheduled at that time. If you want to book a day off on a Friday then you still need to take the entire day. Hours off are not interchangeable and can not be saved up or otherwise used.
+
+
+
 ### 🏢 Working from the Office
 
 Our policy has always been that everyone should be able to work from wherever they are able to do their best work. Our offices are open and you are very welcome to work there.
