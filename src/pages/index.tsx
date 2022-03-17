@@ -16,6 +16,7 @@ import ToC, { ToCItem } from '../components/ToC';
 import Header from '../components/Header';
 import Favicon from '../components/Favicon';
 import Footer from '@/components/Footer';
+import Alerts from '@/components/Alerts';
 
 interface Props {
   content: MDXRemoteSerializeResult;
@@ -44,6 +45,11 @@ export default function Index({ content, toc }: Props) {
             <ToC anchors={toc} />
           </div>
           <MDXRemote {...content} components={components} />
+          <Alerts type="red" message="ddvvn" />
+          <Alerts type="yellow" message="ddvvn" />
+          <Alerts type="green" message="ddvvn" />
+          <Alerts type="blue" message="ddvvn" />
+          <Alerts type="grey" message="ddvvn" />
         </main>
         <Footer />
       </body>

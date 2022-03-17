@@ -4,7 +4,7 @@ import Image from 'next/image';
 const Header = () => {
   const [darkTheme, setDarkTheme] = useState(undefined);
 
-  const handleToggle = (event) => {
+  const handleToggle = (event: any) => {
     setDarkTheme(event.target.checked);
   };
 
@@ -43,7 +43,14 @@ const Header = () => {
                   checked={darkTheme}
                   onChange={handleToggle}
                 />
-                <span className="slider"></span>
+                <span className={darkTheme ? 'slider sun' : 'slider moon'}>
+                  <Image
+                    src={darkTheme ? '/icons/sun.svg' : '/icons/moon.svg'}
+                    alt={darkTheme ? 'sun' : 'moon'}
+                    width={20}
+                    height={20}
+                  />
+                </span>
               </label>
             </form>
           )}
@@ -58,7 +65,6 @@ const Header = () => {
           <h1 className="header-text">Welcome to the </h1>
           <Image
             src={darkTheme ? '/lola-logo-white.svg' : '/lola-logo.svg'}
-            className="header-content"
             alt="Lola logo"
             width={266}
             height={50}
