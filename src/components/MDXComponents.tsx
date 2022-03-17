@@ -5,7 +5,6 @@
  */
 
 import Image, { ImageProps } from 'next/image';
-import Link from 'next/link';
 
 interface ElementProps {
   id: string;
@@ -31,27 +30,29 @@ const components = {
           />
         </div>
         <h2 id={props.id}>{props.children}</h2>
-        <Link href={'/#-toc'} passHref>
-          <div className="divider-container">
-            <div className="divider"></div>
-            <div className="jump">Jump</div>
-            <div className="arrow-container">
-              <Image
-                src="/corner-right-up-hover.svg"
-                alt="arrow-red"
-                layout="fill"
-                objectPosition="0 0"
-              />
-              <Image
-                src="/corner-right-up.svg"
-                className="arrow"
-                alt="arrow"
-                layout="fill"
-                objectPosition="0 0"
-              />
+        <div className="link-container">
+          <a href={'/#-toc'}>
+            <div className="divider-container">
+              <div className="divider"></div>
+              <div className="jump">Jump</div>
+              <div className="arrow-container">
+                <Image
+                  src="/corner-right-up-hover.svg"
+                  alt=""
+                  layout="fill"
+                  objectPosition="0 0"
+                />
+                <Image
+                  src="/corner-right-up.svg"
+                  className="arrow"
+                  alt=""
+                  layout="fill"
+                  objectPosition="0 0"
+                />
+              </div>
             </div>
-          </div>
-        </Link>
+          </a>
+        </div>
       </>
     );
   },
