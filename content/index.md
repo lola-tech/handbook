@@ -1,25 +1,35 @@
+## 💕 Our Values
+
+We have written this employee handbook with our core values in mind:
+
+#### Pride:
+
+a sense of responsibility for the quality of work and a sense of achievement driving further results and excellence
+
+#### Resilience:
+
+The ability to adapt and remain on track long-term, delivering high quality work even when experiencing challenges and difficulties.
+
+#### Curiosity:
+
+Having the desire to gain knowledge, information and skill through exploration, investigation and learning.
+
+#### Boldness:
+
+Taking action and showing initiative. Assessing and mitigating risks. Thriving in positions of responsibility. The duty to speak out.
+
+#### Empathy:
+
+Understanding or feeling what another person is experiencing from within their frame of reference; the capacity to place oneself in another's position
+
+Nothing in this handbook should supersede rules and laws of the country where this is read.
+
 ## The Company
 
 We are Lola Tech, a software development agency that designs and builds digital solutions to help drive organisations forward. Our focus is on delivering scalable and sustainable products for clients across all industries and sectors. We believe in building software for the future - tech that is flexible, strong and built to
 last.
 
 The company was created over 10 years ago by Luke who gathered a few people together he had enjoyed working with, to deliver a large software project. Some of these people were living in Romania. Frustrated by the quality of other external vendors he met, he decided to build an awesome agency team he'd actually like to use. Lola Tech was born. Years later we now have 2 offices, one in Cluj-Napoca and a smaller one in London.
-
-## This Handbook
-
-We have written this employee handbook with our core values in mind:
-
-**Pride**: a sense of responsibility for the quality of work and a sense of achievement driving further results and excellence
-
-**Resilience**: The ability to adapt and remain on track long-term, delivering high quality work even when experiencing challenges and difficulties.
-
-**Curiosity**: Having the desire to gain knowledge, information and skill through exploration, investigation and learning.
-
-**Boldness**: Taking action and showing initiative. Assessing and mitigating risks. Thriving in positions of responsibility. The duty to speak out.
-
-**Empathy**: Understanding or feeling what another person is experiencing from within their frame of reference; the capacity to place oneself in another's position
-
-Nothing in this handbook should supersede rules and laws of the country where this is read.
 
 ## Joining Lola Tech as a New Employee
 
