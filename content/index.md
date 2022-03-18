@@ -206,7 +206,11 @@ Attending a conference as a speaker or when manning a stand does not count towar
 
 #### Training
 
-Need to add this
+\[to be added]
+
+**Company wide learning hours**
+
+\[to be added]
 
 ## 👋 Hiring
 
@@ -231,6 +235,12 @@ The company runs a flexible schedule regarding working hours. This is so we can 
 Core working hours are 10-4 which means we expect everyone to be working during that period as well as before or after to make up your contracted hours which is 40h/week for the vast majority of us. Any deviation for this should be discussed with your scrum master and/or advocate. Your number of working hours per week is stated in your contract.
 
 *Whether you are working from home or from the office, we don't want your scrum master or anyone else to police your working hours; we expect you do that yourself.*
+
+**Summer Fridays**
+
+Between June 1st and August 31st,  "Summer Fridays" are in place which means that every Friday we're closing 2 hours before we normally stop work for the week (so 3 or 4pm local time) and start the weekend hopefully in the sunshine. 
+
+Scrum masters will make sure that customer meetings are not scheduled at that time. If you want to book a day off on a Friday then you still need to take the entire day. Hours off are not interchangeable and can not be saved up or otherwise used.
 
 ### 🏢 Working from the Office
 
