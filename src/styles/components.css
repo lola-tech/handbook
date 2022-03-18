@@ -240,7 +240,6 @@ input:checked + .slider:before {
 .toc {
   background-color: var(--color-toc-background);
   padding: 100px 0;
-  border-left: 5px solid #aeaeae;
 }
 
 .grey-alert-icon {
