@@ -30,7 +30,7 @@ const H3: FC<PropsInterface> = (props) => {
           height={12}
         />
       </div>
-      <div className="h2-container">
+      <div className="h3-container">
         <h3 id={props.content.id}>{props.content.children}</h3>
         <div className="link-container">
           <a href={'/#-toc'}>
@@ -65,7 +65,6 @@ const H3: FC<PropsInterface> = (props) => {
 
 const H2: FC<PropsInterface> = (props) => {
   const { theme } = useTheme();
-
   return (
     <>
       <div className="dots-separator">

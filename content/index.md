@@ -58,7 +58,7 @@ Nothing in this handbook should supersede rules and laws of the country where th
 
 The Lola Tech mesh framework is set up to make every staff member feel welcome, supported and encouraged by assigning the following roles:
 
-### [🤝 Buddies](#-buddies)
+### 🤝 Buddies
 
 The Buddies system at Lola Tech helps new colleagues find their feet swiftly and make new connections. It plays an important role in feeling safe and looked after, and maintaining a happy workplace. #buddies
 
@@ -196,7 +196,7 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
 
 ## Personal Development
 
-#### Conferences
+### Conferences
 
 The budget is €1.000 per person per year (runs 1 Jan - 31 Dec) and has a limit of 6 working days/year.
 The budget covers the tickets, travel, accommodation; timings are discussed with the team member’s scrum master and whoever is impacted to ensure continuity.
@@ -205,7 +205,7 @@ It is recommended that the maximum number of people attending one conference sho
 
 Attending a conference as a speaker or when manning a stand does not count towards your allowance.
 
-#### Training
+### Training
 
 \[to be added]
 
@@ -215,15 +215,15 @@ Attending a conference as a speaker or when manning a stand does not count towar
 
 ## 👋 Hiring
 
-#### ⌛ Hiring Timeline
+### ⌛ Hiring Timeline
 
 The timeline for hiring process starts when the candidate sends us their CV. In the next 72 hours the candidate will be contacted either to be told that we're not going further or to schedule for a technical discussion. After that, in maximum 14 days the candidate will be informed if we’ll proceed with another discussion or the hiring process stops.
 
-#### 👩‍❤️‍👩 Interview Guidelines
+### 👩‍❤️‍👩 Interview Guidelines
 
 🚧🚧🚧 *VladM to add*
 
-#### 🐣 On-boarding Timeline
+### 🐣 On-boarding Timeline
 
 🚧🚧🚧 Ciprian to add
 
@@ -328,23 +328,23 @@ Because no arrival is the same, we trust you to take the parental leave in the w
 
 Throughout the parental (and adoption) leave you are entitled to all your non-pay related contractual benefits.
 
-#### Parental pay (formerly paternity pay)
+### Parental pay (formerly paternity pay)
 
 We provide 3 weeks' leave at full pay, which you can take when you see fit.
 
 Parental pay applies on the arrival of a child where you are either the biological parent or mother's partner
 
-#### Maternity pay
+### Maternity pay
 
 Maternity pay is paid to (future) parents who are pregnant. In Romania, the government covers up to 24 months of fully paid maternity leave and some restrictions apply to when you can start your leave.
 
-#### 🗺️ Sabbaticals
+### 🗺️ Sabbaticals
 
 A sabbatical leave is a period in which an employee takes an extended break from work. This is considered an unpaid leave.
 
 Difference from other types of leaves is that it usually lasts longer – somewhere between a month to a year, Lola is granting sabbatical to employees who have been with the company for at least 1 year.
 
-#### 🫂 Compassionate Leave
+### 🫂 Compassionate Leave
 
 In the event of critical illness or death which affects you, the company will be generous in its considerations of special leave. Let your scrum master or advocate know your plans as soon as you can so they can arrange to cover your absence.
 
@@ -446,7 +446,7 @@ L3 - senior: > €40k/year
 
 Benefits vary per country because of different tax rules, number of employees and availability of certain offerings.
 
-#### In Romania:
+### In Romania:
 
 * Meal vouchers
 * Health insurance for the employee and family (partner/kids)
