@@ -17,8 +17,7 @@ interface PropsInterface {
 }
 
 import React, { FC } from 'react';
-
-const H2: FC<PropsInterface> = (props) => {
+const H3: FC<PropsInterface> = (props) => {
   const { theme } = useTheme();
   return (
     <>
@@ -26,39 +25,60 @@ const H2: FC<PropsInterface> = (props) => {
         <Image
           src={theme === 'dark' ? '/dots-dark.svg' : '/dots.svg'}
           className=""
-          alt="dots"
+          alt=""
+          width={68}
+          height={12}
+        />
+      </div>
+      <div className="h2-container">
+        <h3 id={props.content.id}>{props.content.children}</h3>
+        <div className="link-container">
+          <a href={'/#-toc'}>
+            <div className="divider-container">
+              <div className="jump">Jump</div>
+              <div className="arrow-container">
+                <Image
+                  src="/corner-right-up-hover.svg"
+                  alt=""
+                  layout="fill"
+                  objectPosition="0 0"
+                />
+                <Image
+                  src={
+                    theme === 'dark'
+                      ? '/corner-right-up-white.svg'
+                      : '/corner-right-up.svg'
+                  }
+                  className="arrow"
+                  alt=""
+                  layout="fill"
+                  objectPosition="0 0"
+                />
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </>
+  );
+};
+
+const H2: FC<PropsInterface> = (props) => {
+  const { theme } = useTheme();
+
+  return (
+    <>
+      <div className="dots-separator">
+        <Image
+          src={theme === 'dark' ? '/dots-dark.svg' : '/dots.svg'}
+          className=""
+          alt=""
           width={68}
           height={12}
         />
       </div>
       <h2 id={props.content.id}>{props.content.children}</h2>
-      <div className="link-container">
-        <a href={'/#-toc'}>
-          <div className="divider-container">
-            <div className="divider"></div>
-            <div className="jump">Jump</div>
-            <div className="arrow-container">
-              <Image
-                src="/corner-right-up-hover.svg"
-                alt=""
-                layout="fill"
-                objectPosition="0 0"
-              />
-              <Image
-                src={
-                  theme === 'dark'
-                    ? '/corner-right-up-white.svg'
-                    : '/corner-right-up.svg'
-                }
-                className="arrow"
-                alt=""
-                layout="fill"
-                objectPosition="0 0"
-              />
-            </div>
-          </div>
-        </a>
-      </div>
+      <div className="divider"></div>
     </>
   );
 };
@@ -73,11 +93,7 @@ const components = {
     return <H2 content={props} />;
   },
   h3: function h3(props: ElementProps) {
-    return (
-      <>
-        <h3 id={props.id}>{props.children}</h3>
-      </>
-    );
+    return <H3 content={props} />;
   },
 };
 
