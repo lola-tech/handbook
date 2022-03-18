@@ -20,7 +20,6 @@ import React, { FC } from 'react';
 
 const H2: FC<PropsInterface> = (props) => {
   const { theme } = useTheme();
-
   return (
     <>
       <div className="dots-separator">
