@@ -47,12 +47,12 @@ export default function Index({ content, toc }: Props) {
             <div className="content-container">
               <MDXRemote {...content} components={components} />
             </div>
+            <Alerts type="red" message="ddvvn" />
+            <Alerts type="yellow" message="ddvvn" />
+            <Alerts type="green" message="ddvvn" />
+            <Alerts type="blue" message="ddvvn" />
+            <Alerts type="grey" message="ddvvn" />
           </div>
-          <Alerts type="red" message="ddvvn" />
-          <Alerts type="yellow" message="ddvvn" />
-          <Alerts type="green" message="ddvvn" />
-          <Alerts type="blue" message="ddvvn" />
-          <Alerts type="grey" message="ddvvn" />
         </main>
         <Footer />
       </body>
