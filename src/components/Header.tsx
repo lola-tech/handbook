@@ -42,8 +42,14 @@ const Header = () => {
             alt="Lola logo"
             width={266}
             height={50}
+            className="header-image"
           />
           <h1 className="header-text">Staff Handbook</h1>
+        </div>
+        <div className="header-button">
+          <a href="admin.html" className="cms-button">
+            CMS
+          </a>
         </div>
       </div>
     </>

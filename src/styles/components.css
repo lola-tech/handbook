@@ -417,7 +417,6 @@ input:checked + .slider:before {
     justify-content: center;
     padding: 0 20px;
   }
-
   .content-wrapper {
     width: auto;
     margin: 0 37px;
@@ -428,7 +427,6 @@ input:checked + .slider:before {
   .header-content {
     max-width: 300px;
   }
-
   .content-wrapper {
     width: auto;
     margin: 0 30px;
