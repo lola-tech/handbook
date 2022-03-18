@@ -23,7 +23,13 @@ const H2: FC<PropsInterface> = (props) => {
   return (
     <>
       <div className="dots-separator">
-        <Image src="/dots.svg" className="" alt="dots" width={68} height={12} />
+        <Image
+          src={theme === 'dark' ? '/dots-dark.svg' : '/dots.svg'}
+          className=""
+          alt="dots"
+          width={68}
+          height={12}
+        />
       </div>
       <h2 id={props.content.id}>{props.content.children}</h2>
       <div className="link-container">

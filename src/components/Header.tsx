@@ -30,10 +30,9 @@ const Header = () => {
           </form>
         </div>
         <a href="admin.html" className="cms-button">
-          Use our CMS
+          CMS
         </a>
       </div>
-
       <div className="header">
         <div className="header-content">
           <h1 className="header-text">Welcome to the </h1>
@@ -45,11 +44,6 @@ const Header = () => {
             className="header-image"
           />
           <h1 className="header-text">Staff Handbook</h1>
-        </div>
-        <div className="header-button">
-          <a href="admin.html" className="cms-button">
-            CMS
-          </a>
         </div>
       </div>
     </>
