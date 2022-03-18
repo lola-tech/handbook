@@ -14,7 +14,13 @@ html {
   line-height: 32px;
 }
 
-.content-wrapper h2 {
+.h2-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h2 {
   margin: 34px 0;
   font-weight: 700;
   font-size: 50px;
@@ -22,12 +28,17 @@ html {
   color: #0e1f41;
 }
 
-.content-wrapper h3 a {
+h3 {
+  font-size: 40px;
+  line-height: 80px;
+}
+
+h3 a {
   text-decoration: none;
   color: #0e1f41;
 }
 
-.content-wrapper h4 {
+h4 {
   margin: 20px 0;
   font-weight: 800;
   font-size: 25px;
@@ -175,10 +186,6 @@ html {
   justify-content: center;
 }
 
-.content-container .dots-separator:first-child {
-  display: none;
-}
-
 .jump {
   padding: 0 5px 0 10px;
   font-size: 16px;
@@ -187,12 +194,6 @@ html {
 
 .arrow-container {
   padding-bottom: 6px;
-}
-
-.dots-separator {
-  height: 400px;
-  display: flex;
-  justify-content: center;
 }
 
 .content-container .dots-separator:first-child {
