@@ -17,8 +17,9 @@
   --color-greyalert-background: #efefef;
   --color-greyalert-items: #aeaeae;
   --color-dots: #efefef;
+  --color-cms-background: #575757;
+  --color-cms: #ffffff;
 }
-
 [data-theme='dark'] {
   --color-background: #22212b;
   --color-text: #ffffff;
@@ -37,6 +38,8 @@
   --color-greyalert-background: #aeaeae;
   --color-greyalert-items: #efefef;
   --color-dots: #535353;
+  --color-cms-background: #ffffff;
+  --color-cms: black;
 }
 
 body,
@@ -54,7 +57,7 @@ html {
 .switch {
   position: relative;
   display: inline-block;
-  width: 69px;
+  width: 70px;
   height: 35px;
 }
 
@@ -375,13 +378,19 @@ input:checked + .slider:before {
 }
 
 .cms-button {
-  background-color: black;
-  color: white;
-  font-size: 16px;
-  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-cms-background);
+  color: var(--color-cms);
+  font-size: 12px;
+  font-weight: 800;
+  border-radius: 38px;
   cursor: pointer;
   text-decoration: none;
-  padding: 15px 30px;
+  padding: 12px, 20px, 12px, 20px;
+  width: 70px;
+  height: 35px;
 }
 
 .header-content {
