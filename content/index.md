@@ -5,7 +5,7 @@ last.
 
 The company was created over 10 years ago by Luke who gathered a few people together he had enjoyed working with, to deliver a large software project. Some of these people were living in Romania. Frustrated by the quality of other external vendors he met, he decided to build an awesome agency team he'd actually like to use. Lola Tech was born. Years later we now have 2 offices, one in Cluj-Napoca and a smaller one in London.
 
-## Joining Lola Tech as a New Employee
+## Being a New Employee
 
 Welcome! You will have been assigned a buddy who will welcome you. We'd like to invite you to:
 
@@ -52,7 +52,6 @@ Taking action and showing initiative. Assessing and mitigating risks. Thriving i
 Understanding or feeling what another person is experiencing from within their frame of reference; the capacity to place oneself in another's position
 
 Nothing in this handbook should supersede rules and laws of the country where this is read.
-
 
 ### 🕸️ The Mesh
 
