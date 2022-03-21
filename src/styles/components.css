@@ -196,6 +196,8 @@ h4 {
   height: 40px;
   margin: 0 30px;
   mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
   mask-position: center;
 }
 .alert-container p {
