@@ -4,7 +4,7 @@
   --color-background: #fff;
   --color-toc-background: #f5f5f5;
   --color-toc-text: #0e1f41;
-  --color-slider-background: #868686;
+  --color-button-background: #868686;
   --color-slider-before: #ffffff;
   --color-redalert-background: #f7dbdb;
   --color-redalert-items: #d84a49;
@@ -17,7 +17,6 @@
   --color-greyalert-background: #efefef;
   --color-greyalert-items: #aeaeae;
   --color-dots: #efefef;
-  --color-cms-background: #575757;
   --color-cms: #ffffff;
 }
 [data-theme='dark'] {
@@ -25,7 +24,7 @@
   --color-text: #ffffff;
   --color-toc-background: #525252;
   --color-toc-text: #ffffff;
-  --color-slider-background: #ffffff;
+  --color-button-background: #ffffff;
   --color-slider-before: #2c2c2c;
   --color-redalert-background: #d84a49;
   --color-redalert-items: #f7dbdb;
@@ -38,7 +37,6 @@
   --color-greyalert-background: #aeaeae;
   --color-greyalert-items: #efefef;
   --color-dots: #535353;
-  --color-cms-background: #ffffff;
   --color-cms: black;
 }
 
@@ -74,7 +72,7 @@ html {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: var(--color-slider-background);
+  background-color: var(--color-button-background);
   -webkit-transition: 0.4s;
   transition: 0.4s;
   display: flex;
@@ -101,7 +99,7 @@ html {
 }
 
 input:checked + .slider {
-  background-color: var(--color-slider-background);
+  background-color: var(--color-button-background);
 }
 
 input:checked + .slider:before {
@@ -125,14 +123,15 @@ input:checked + .slider:before {
   line-height: 32px;
 }
 
-.h2-container {
+.h3-container {
+  margin-top: 40px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
 h2 {
-  margin: 34px 0;
+  margin: 34px 0 50px;
   font-weight: 700;
   font-size: 50px;
   line-height: 100px;
@@ -140,7 +139,6 @@ h2 {
 }
 
 h3 {
-  margin: 86px 0 69px;
   font-size: 40px;
   line-height: 80px;
 }
@@ -151,7 +149,7 @@ h3 a {
 }
 
 h4 {
-  margin: 20px 0;
+  margin: 0;
   font-weight: 800;
   font-size: 25px;
   line-height: 50px;
@@ -252,6 +250,10 @@ h4 {
   mask-image: url('../../public/icons/pen-tool.svg');
 }
 
+.emoji {
+  text-decoration: none;
+}
+
 .toc {
   background-color: var(--color-toc-background);
   padding: 100px 0;
@@ -287,7 +289,7 @@ h4 {
 }
 
 .jump {
-  padding: 0 5px 0 10px;
+  padding: 0 5px;
   font-size: 16px;
   color: var(--color-toc-text);
 }
@@ -311,12 +313,6 @@ h4 {
 
 .divider + .dots-separator {
   display: none;
-}
-
-.jump {
-  padding: 0 5px 0 10px;
-  font-size: 16px;
-  color: var(--color-toc-text);
 }
 
 .arrow-container {
@@ -387,7 +383,7 @@ h4 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--color-cms-background);
+  background-color: var(--color-button-background);
   color: var(--color-cms);
   font-size: 12px;
   font-weight: 800;
@@ -443,6 +439,11 @@ h4 {
 }
 
 @media (max-width: 770px) {
+  h3 {
+    font-size: 30px;
+    line-height: 60px;
+  }
+
   .header-content {
     max-width: 300px;
   }
