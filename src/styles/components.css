@@ -183,7 +183,7 @@ h4 {
   display: flex;
   align-items: center;
   border-radius: 5px;
-  max-width: 766px;
+  width: 100%;
   height: auto;
   padding: 0px, 30px, 0px, 0px;
 }
@@ -196,6 +196,8 @@ h4 {
   height: 40px;
   margin: 0 30px;
   mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
   mask-position: center;
 }
 .alert-container p {
@@ -214,21 +216,9 @@ h4 {
   border-left: 5px solid var(--color-redalert-items);
 }
 
-.red-alert-icon {
-  background-color: var(--color-redalert-items);
-  -webkit-mask-image: url('../../public/icons/x-circle.svg');
-  mask-image: url('../../public/icons/x-circle.svg');
-}
-
 .yellow-container {
   background-color: var(--color-yellowalert-background);
   border-left: 5px solid var(--color-yellowalert-items);
-}
-
-.yellow-alert-icon {
-  background-color: var(--color-yellowalert-items);
-  -webkit-mask-image: url('../../public/icons/info.svg');
-  mask-image: url('../../public/icons/info.svg');
 }
 
 .green-container {
@@ -236,32 +226,14 @@ h4 {
   border-left: 5px solid var(--color-greenalert-items);
 }
 
-.green-alert-icon {
-  background-color: var(--color-greenalert-items);
-  -webkit-mask-image: url('../../public/icons/check-circle.svg');
-  mask-image: url('../../public/icons/check-circle.svg');
-}
-
 .blue-container {
   background-color: var(--color-bluealert-background);
   border-left: 5px solid var(--color-bluealert-items);
 }
 
-.blue-alert-icon {
-  background-color: var(--color-bluealert-items);
-  -webkit-mask-image: url('../../public/icons/info.svg');
-  mask-image: url('../../public/icons/info.svg');
-}
-
 .grey-container {
   background-color: var(--color-greyalert-background);
   border-left: 5px solid var(--color-greyalert-items);
-}
-
-.grey-alert-icon {
-  background-color: var(--color-greyalert-items);
-  -webkit-mask-image: url('../../public/icons/pen-tool.svg');
-  mask-image: url('../../public/icons/pen-tool.svg');
 }
 
 .emoji {
@@ -271,12 +243,6 @@ h4 {
 .toc {
   background-color: var(--color-toc-background);
   padding: 100px 0;
-}
-
-.grey-alert-icon {
-  background-color: var(--color-greyalert-items);
-  -webkit-mask-image: url('../../public/icons/pen-tool.svg');
-  mask-image: url('../../public/icons/pen-tool.svg');
 }
 
 .link-container a {
