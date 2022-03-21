@@ -216,8 +216,6 @@ h4 {
 
 .red-alert-icon {
   background-color: var(--color-redalert-items);
-  -webkit-mask-image: url('../../public/icons/x-circle.svg');
-  mask-image: url('../../public/icons/x-circle.svg');
 }
 
 .yellow-container {
@@ -227,8 +225,6 @@ h4 {
 
 .yellow-alert-icon {
   background-color: var(--color-yellowalert-items);
-  -webkit-mask-image: url('../../public/icons/info.svg');
-  mask-image: url('../../public/icons/info.svg');
 }
 
 .green-container {
@@ -238,8 +234,6 @@ h4 {
 
 .green-alert-icon {
   background-color: var(--color-greenalert-items);
-  -webkit-mask-image: url('../../public/icons/check-circle.svg');
-  mask-image: url('../../public/icons/check-circle.svg');
 }
 
 .blue-container {
@@ -249,8 +243,6 @@ h4 {
 
 .blue-alert-icon {
   background-color: var(--color-bluealert-items);
-  -webkit-mask-image: url('../../public/icons/info.svg');
-  mask-image: url('../../public/icons/info.svg');
 }
 
 .grey-container {
@@ -260,8 +252,6 @@ h4 {
 
 .grey-alert-icon {
   background-color: var(--color-greyalert-items);
-  -webkit-mask-image: url('../../public/icons/pen-tool.svg');
-  mask-image: url('../../public/icons/pen-tool.svg');
 }
 
 .emoji {
@@ -275,8 +265,6 @@ h4 {
 
 .grey-alert-icon {
   background-color: var(--color-greyalert-items);
-  -webkit-mask-image: url('../../public/icons/pen-tool.svg');
-  mask-image: url('../../public/icons/pen-tool.svg');
 }
 
 .link-container a {
