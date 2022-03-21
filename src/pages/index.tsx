@@ -47,11 +47,28 @@ export default function Index({ content, toc }: Props) {
             <div className="content-container">
               <MDXRemote {...content} components={components} />
             </div>
-            <Alerts type="red" message="ddvvn" />
-            <Alerts type="yellow" message="ddvvn" />
-            <Alerts type="green" message="ddvvn" />
-            <Alerts type="blue" message="ddvvn" />
-            <Alerts type="grey" message="ddvvn" />
+            <div className="alerts-container">
+              <Alerts
+                type="red"
+                message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, asperiores accusamus placeat vel cumque doloremque error a quod quam iste non corporis rerum pariatur ducimus soluta at excepturi suscipit! Harum."
+              />
+              <Alerts
+                type="yellow"
+                message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, asperiores accusamus placeat vel cumque doloremque error a quod quam iste non corporis rerum pariatur ducimus soluta at excepturi suscipit! Harum."
+              />
+              <Alerts
+                type="grey"
+                message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, asperiores accusamus placeat vel cumque doloremque error a quod quam iste non corporis rerum pariatur ducimus soluta at excepturi suscipit! Harum."
+              />
+              <Alerts
+                type="green"
+                message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, asperiores accusamus placeat vel cumque doloremque error a quod quam iste non corporis rerum pariatur ducimus soluta at excepturi suscipit! Harum."
+              />
+              <Alerts
+                type="blue"
+                message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, asperiores accusamus placeat vel cumque doloremque error a quod quam iste non corporis rerum pariatur ducimus soluta at excepturi suscipit! Harum."
+              />
+            </div>
           </div>
         </main>
         <Footer />
