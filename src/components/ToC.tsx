@@ -1,3 +1,4 @@
+import { splitTitle } from '../utils/usefulFunctions';
 export interface ToCItem {
   value: string;
   data: { id: string };
@@ -5,11 +6,13 @@ export interface ToCItem {
   depth: number;
 }
 function Anchor({ item, className }: { item: ToCItem; className: string }) {
+  const [emoji, title] = splitTitle(item.value);
   if (className !== 'subtitle') {
     return (
       <>
+        <span>{emoji}</span>
         <a href={`#${item.data.id}`} className={`toc-list ${className}`}>
-          {item.value}
+          <span>{title}</span>
         </a>
         {className === 'heading' ? <hr className="toc-list separator" /> : null}
       </>
