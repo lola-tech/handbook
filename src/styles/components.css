@@ -238,8 +238,8 @@ h4 {
 
 .green-alert-icon {
   background-color: var(--color-greenalert-items);
-  -webkit-mask-image: url('../../public/icons/check-circle.svg');
-  mask-image: url('../../public/icons/check-circle.svg');
+  -webkit-mask-image: url('../../public/check-circle.svg');
+  mask-image: url('../../public/check-circle.svg');
 }
 
 .blue-container {
