@@ -206,12 +206,12 @@ Attending a conference as a speaker or when manning a stand does not count towar
 
 ### Learning
 
-\    We strongly believe in a lifetime of learning and self-development, in expanding our technical and soft skills.
+We strongly believe in a lifetime of learning and self-development, in expanding our technical and soft skills.
 Not everyone has the time or the inclination to learn new things in their spare time, so as a software development agency we're making learning a priority. This will allow us to expand our knowledge across different technologies, and remain strong and curious practitioners who are not afraid of any challenge.
-    For this reason, Lola Tech is introducing 2 hours of learning during work hours, at the same time and the same day, across the company: Thursdays 1 - 3pm EST.This will be a safe harbour for learning.
+ For this reason, Lola Tech is introducing 2 hours of learning during work hours, at the same time and the same day, across the company: Thursdays 1 - 3pm EST.This will be a safe harbour for learning.
 You probably already have a clear view of what you’d like to learn, but if you want help selecting a topic or an objective, reach out to your advocate, or to Vlad Mandiuc - who’ll help you find a mentor. 
 
-\    Everyone has their own preferred style of learning, here are a few examples: 
+ Everyone has their own preferred style of learning, here are a few examples: 
 
 * **learn by yourself** by reading a book, take an online course, follow a tutorial or just apply good ol' trial and error in the pursuit of knowledge. 
 * **official or unofficial certifications**. It is not about the certification itself, it is about learning and getting an accreditation in the process. 
