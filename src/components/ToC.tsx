@@ -1,4 +1,4 @@
-import { splitTitle } from '../utils/splitTitle';
+import splitTitle from '../utils/splitTitle';
 export interface ToCItem {
   value: string;
   data: { id: string };
