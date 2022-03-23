@@ -5,7 +5,7 @@ last.
 
 The company was created over 10 years ago by Luke who gathered a few people together he had enjoyed working with, to deliver a large software project. Some of these people were living in Romania. Frustrated by the quality of other external vendors he met, he decided to build an awesome agency team he'd actually like to use. Lola Tech was born. Years later we now have 2 offices, one in Cluj-Napoca and a smaller one in London.
 
-## Joining Lola Tech as a New Employee
+## Being a New Employee
 
 Welcome! You will have been assigned a buddy who will welcome you. We'd like to invite you to:
 
@@ -52,7 +52,6 @@ Taking action and showing initiative. Assessing and mitigating risks. Thriving i
 Understanding or feeling what another person is experiencing from within their frame of reference; the capacity to place oneself in another's position
 
 Nothing in this handbook should supersede rules and laws of the country where this is read.
-
 
 ### 🕸️ The Mesh
 
@@ -198,20 +197,40 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
 
 ### Conferences
 
-The budget is €1.000 per person per year (runs 1 Jan - 31 Dec) and has a limit of 6 working days/year.
+   The budget is €1.000 per person per year (runs 1 Jan - 31 Dec) and has a limit of 6 working days/year.
 The budget covers the tickets, travel, accommodation; timings are discussed with the team member’s scrum master and whoever is impacted to ensure continuity.
-Please try to decide where you want to go as early as possible to benefit the early-bird prices and also book your Conference/Training time in CharlieHR so that colleagues know you are not reachable.
+    Please try to decide where you want to go as early as possible to benefit the early-bird prices and also book your Conference/Training time in CharlieHR so that colleagues know you are not reachable.
 It is recommended that the maximum number of people attending one conference should not be more than 3 and to be in different teams.
 
 Attending a conference as a speaker or when manning a stand does not count towards your allowance.
 
-### Training
+### Learning
 
-\[to be added]
+\    We strongly believe in a lifetime of learning and self-development, in expanding our technical and soft skills.
+Not everyone has the time or the inclination to learn new things in their spare time, so as a software development agency we're making learning a priority. This will allow us to expand our knowledge across different technologies, and remain strong and curious practitioners who are not afraid of any challenge.
+    For this reason, Lola Tech is introducing 2 hours of learning during work hours, at the same time and the same day, across the company: Thursdays 1 - 3pm EST.This will be a safe harbour for learning.
+You probably already have a clear view of what you’d like to learn, but if you want help selecting a topic or an objective, reach out to your advocate, or to Vlad Mandiuc - who’ll help you find a mentor. 
 
-**Company wide learning hours**
+\    Everyone has their own preferred style of learning, here are a few examples: 
 
-\[to be added]
+* **learn by yourself** by reading a book, take an online course, follow a tutorial or just apply good ol' trial and error in the pursuit of knowledge. 
+* **official or unofficial certifications**. It is not about the certification itself, it is about learning and getting an accreditation in the process. 
+* **learn by creating a study group**. Make sure you make it clear what would be the topic and advertise it on the slack channel. Even though it’s a group, we see no issue with you being the only participant. This is not about teaching a topic, it’s about learning together.
+* **organise a workshop**. We recommend that you advertise it ahead of time. You will need to prepare a workshop and teach others.
+* **mentor others or be mentored**. For this you will need to find a pair or group willing to join you. (this is different from the official mentoring sessions that are scheduled outside the learning hours)
+* **spread the knowledge of a particular client engagement**. This would not be official work for a client, no technical debts would be resolved here.
+* **contribute with content for our organisation**: docs, templates, experimental components, anything that would help others learn better. 
+* **contribute to an open source project**.
+
+#### A few rules:
+
+* The company is using a lot of resources to make this time possible. Please don’t let client-work spill over into this time, and please use the time responsibly to further your personal learning goals.
+* To help us understand what folk are focused on so that we can invest more in useful learning support, and to help us justify this considerable investment we’d like to log the activity.
+
+#### Logging:
+
+* we will start small and just create a simple Google spreadsheet. In time, we will gather feedback and try to better understand the needs in order to plan an internal tool that will help us better organise our learning sessions. So, if you have ideas or just want to offer feedback, please step forward and help us.
+* the minimum log entry is what topic/activity you actually approached during the session.
 
 ## 👋 Hiring
 
