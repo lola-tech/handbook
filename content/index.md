@@ -226,6 +226,7 @@ You probably already have a clear view of what you’d like to learn, but if you
 
 * The company is using a lot of resources to make this time possible. Please don’t let client-work spill over into this time, and please use the time responsibly to further your personal learning goals.
 * To help us understand what folk are focused on so that we can invest more in useful learning support, and to help us justify this considerable investment we’d like to log the activity.
+* Under special circumstances, when something very important and impossible to reschedule would block a team from joining the learning sessions on Thursday, that team (or just the people that are blocked in the team) has the option to choose to conduct the learning in a different day, but at the same hours: 1 - 3pm EST, during the same week. This needs to be agreed in the team and communicated in the learning official slack channel.
 
 #### Logging:
 
@@ -313,13 +314,15 @@ Any absence should be requested and tracked in [CharlieHR](https://lolatech.char
 
 ### 🏖️ Holidays
 
-Your annual holiday entitlement is stated in your contract of employment and runs from January 1 - December 31. You should arrange your holidays in advance by requesting them in [CharlieHR](https://lolatech.charliehr.com/).
+Your annual holiday entitlement is stated in your contract of employment and runs from January 1 - December 31. You should arrange your holidays in advance by requesting them in [CharlieHR](https://lolatech.charliehr.com/). Public holidays are not included in your entitlement (so you do not have to use a day from your entitlement on a state approved holiday).
 
 Every effort will be made to accommodate your individual holiday wishes. As a general rule you should request holiday at least one month in advance per week holiday.
 
 You can carry over maximum 10 unused holidays on the condition it is used within the first 4 months of the new holiday year.
 
 If you leave the company we will balance your remaining holiday (positive or negative) with your final salary payment.
+
+If a public holiday is not company wide and not in the locality of the customer project you are working on, and it falls on a weekday, you can decide to work that day and take the holiday on another day that calendar month.
 
 ### 🤒 Sick Leave
 
