@@ -226,6 +226,7 @@ You probably already have a clear view of what you’d like to learn, but if you
 
 * The company is using a lot of resources to make this time possible. Please don’t let client-work spill over into this time, and please use the time responsibly to further your personal learning goals.
 * To help us understand what folk are focused on so that we can invest more in useful learning support, and to help us justify this considerable investment we’d like to log the activity.
+* Under special circumstances, when something very important and impossible to reschedule would block a team from joining the learning sessions on Thursday, that team (or just the people that are blocked in the team) has the option to choose to conduct the learning in a different day, but at the same hours: 1 - 3pm EST, during the same week. This needs to be agreed in the team and communicated in the learning official slack channel.
 
 #### Logging:
 
