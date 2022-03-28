@@ -313,13 +313,15 @@ Any absence should be requested and tracked in [CharlieHR](https://lolatech.char
 
 ### 🏖️ Holidays
 
-Your annual holiday entitlement is stated in your contract of employment and runs from January 1 - December 31. You should arrange your holidays in advance by requesting them in [CharlieHR](https://lolatech.charliehr.com/).
+Your annual holiday entitlement is stated in your contract of employment and runs from January 1 - December 31. You should arrange your holidays in advance by requesting them in [CharlieHR](https://lolatech.charliehr.com/). Public holidays are not included in your entitlement (so you do not have to use a day from your entitlement on a state approved holiday).
 
 Every effort will be made to accommodate your individual holiday wishes. As a general rule you should request holiday at least one month in advance per week holiday.
 
 You can carry over maximum 10 unused holidays on the condition it is used within the first 4 months of the new holiday year.
 
 If you leave the company we will balance your remaining holiday (positive or negative) with your final salary payment.
+
+If a public holiday is not company wide and not in the locality of the customer project you are working on, and it falls on a weekday, you can decide to work that day and take the holiday on another day that calendar month.
 
 ### 🤒 Sick Leave
 
