@@ -24,7 +24,7 @@
     ]
   },
   "dependencies": {
-    "@fontsource/inter": "4.5.5",
+    "@fontsource/inter": "4.5.7",
     "@openlab/vercel-netlify-cms-github": "1.1.1",
     "@picocss/pico": "1.5.0",
     "next": "12.1.0",
