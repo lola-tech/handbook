@@ -73,7 +73,7 @@ After that it is just a matter of following the timeline set out below and keepi
 * Scheduled buddy meetings take precedence over other work activities.
 * The Buddy relationship is confidential, a buddy shouldn't pass on anything without explicit consent, nor should either party take any action without prior discussion.
 
-How to be a good buddy - Suggested timeline:
+**How to be a good buddy - Suggested timeline:**
 
 * Before joining:
 
@@ -84,9 +84,9 @@ How to be a good buddy - Suggested timeline:
 * First day:
 
   * Greet them in important_all first thing in the morning
-  * Meet them at the office (if you can) and have a coffee or somesuch, or have a video call with them
-  * Make sure you have a slack DM between you so there's an easy open channel
-  * Ensure you take them, with anyone else who wants to come, for lunch at your favourite spot. Expense this!
+  * Meet them at the office (if you can) to have a coffee or do a video call with them. 
+  * Make sure you have a slack DM between you so there's an easy open channel. Point out some Slack channels that you think will be helpful to them.
+  * Ensure you take them, with anyone else who wants to come, for lunch at your favourite spot. Expense this! If there are other buddies active, team up and go in a group. 
   * Book in a time to chat the next day to discuss anything that's on their mind
 * Second day:
 
