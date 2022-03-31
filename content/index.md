@@ -267,6 +267,10 @@ Scrum masters will make sure that customer meetings are not scheduled at that ti
 
 Our policy has always been that everyone should be able to work from wherever they are able to do their best work. Our offices are open and you are very welcome to work there.
 
+We would like to encourage teams to spend time together in person and to coordinate with each other so that  office days overlap. There's nothing worse than commuting in to be on Zoom all day! Hybrid meetings can be hard so be mindful of this and if possible consider all remote or all in person meetings. 
+
+We want to make sure the office is well set up for collaboration and meetings so if you have any ideas or would like some particular equipment, please talk to us.
+
 ### 🏠 Working from Home
 
 When you work from home, you should aim to have a quiet spot wherever possible, so that you can have video calls with a minimum of interruption or distraction.
