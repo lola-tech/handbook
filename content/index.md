@@ -245,7 +245,45 @@ The timeline for hiring process starts when the candidate sends us their CV. In 
 
 ### 🐣 On-boarding Timeline
 
-🚧🚧🚧 Ciprian to add
+The onboarding process starts once the employment offer is accepted.  
+
+In the weeks before a new colleague joins us, we will make sure everything, and everyone is prepared and ready to welcome them. 
+
+Once the start date is known, Office Manager (currently Ciprian in RO, and Tahlecion in UK) will ensure that:  
+
+* The paperwork and contract are ready  
+* The management team is informed about the new colleague’s start date  
+
+ Two weeks before start date, Connection Developer (currently Iulia): 
+
+* Creates hardware and user access tickets for Service Desk  
+* Alerts Capacity meeting to decide the team allocation  
+* Ensure advocate has background information about the future colleague  \
+   One week before start date:  
+* If new starter is remote only, hardware is delivered to their home by the Helpdesk  
+* Connection Developer assigns a buddy for the new starter 
+* The Buddy gathers the information needed about the new joiner 
+* Connection Developer works with Advocate to ensure work plan for week one is ready  
+
+We believe that a smooth, yet standardised onboarding will help everyone feel part of our team. 
+
+We know a first day in a new workplace can be challenging, so we do our best they feel welcome. 
+
+Basically, it’s all about introduction:  
+
+* Office Manager/ Connections Developer to welcome to the office, show round or remote welcome  
+* Helpdesk to provide equipment and a helping hand where needed 
+* Advocate to introduce team, and first week plan  
+* Meet assigned Buddy 
+* New starter gets taken to lunch by Buddy 
+* IT Security Training  
+* Welcome call from CEO & CTO are scheduled according to time availability  
+
+From the second day, the ramp-up stage begins.  
+
+There is no definite ramp-up period because we know that each person is different, has a different level of experience, and each one integrates at their own pace.  
+
+What we can promise is that we will be there for you, at every step, and together we will provide guidance, mentorship, and answers to all the questions you may have, in the friendliest and fastest way possible.  
 
 ## Practicalities
 
@@ -256,6 +294,8 @@ The company runs a flexible schedule regarding working hours. This is so we can 
 Core working hours are 10-4 which means we expect everyone to be working during that period as well as before or after to make up your contracted hours which is 40h/week for the vast majority of us. Any deviation for this should be discussed with your scrum master and/or advocate. Your number of working hours per week is stated in your contract.
 
 *Whether you are working from home or from the office, we don't want your scrum master or anyone else to police your working hours; we expect you do that yourself.*
+
+Clinical appointments: Let your scrum master know about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule.
 
 **Summer Fridays**
 
@@ -330,11 +370,7 @@ If a public holiday is not company wide and not in the locality of the customer 
 
 ### 🤒 Sick Leave
 
-When you are sick, please let your scrum master know asap and log your absence in [CharlieHR](https://lolatech.charliehr.com/). Let us know if you need help.
-
-If you are unwell for more than a week you might need to get a medical certificate stating the reason for the absence, so you can qualify for sick pay.
-
-Clinical appointments: Let your scrum master know about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule.
+When you are sick, please contact your doctor, let your scrum master and office manager know asap and log your absence in [CharlieHR](https://lolatech.charliehr.com/). Let us know if you need help.
 
 ### 👶 Parental Leave
 
@@ -479,7 +515,17 @@ Benefits vary per country because of different tax rules, number of employees an
 * Sport package
 * Extra holiday for each year spent in Lola (max 5)
 
-### 🧳 Travel & Expenses
+**Referrals**  
+
+If you know someone who you think could be a good fit with the team, either for one of our vacancies or just as an awesome new team member, do not hesitate to have a chat with Ciprian about them. If they get hired, after their notice period, you are eligible for a referral bonus.  
+
+* Senior: **1st referral** - €700; **2nd referral** - €750; **further referrals -** €800 
+* Mid:      **1st referral** - €450; **2nd referral** - €550; **further referrals -** €550 
+* Junior:  **1st referral** - €100; **2nd referral** - €150; **further referrals -** €200   
+
+
+
+## Travel and expenses
 
 All travel expenses should be agreed with your advocate or senior managers before booking. The most economic means of travel should be chosen, where practical. Travel between your home and place of work or travel for your own purpose will not be treated as a company travel expense.
 
