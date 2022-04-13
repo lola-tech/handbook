@@ -289,6 +289,8 @@ What we can promise is that we will be there for you, at every step, and togethe
 
 ### ⏰ Working Hours
 
+#### Overall
+
 The company runs a flexible schedule regarding working hours. This is so we can service customers who are on different timezones and to ensure everyone can do their job to the best of your ability, and be flexible to cater for personal circumstances and preferences.
 
 Core working hours are 10-4 which means we expect everyone to be working during that period as well as before or after to make up your contracted hours which is 40h/week for the vast majority of us. Any deviation for this should be discussed with your scrum master and/or advocate. Your number of working hours per week is stated in your contract.
@@ -297,7 +299,17 @@ Core working hours are 10-4 which means we expect everyone to be working during 
 
 Clinical appointments: Let your scrum master know about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule.
 
-**Summer Fridays**
+#### Overtime
+
+The company has a flexible working policy and therefore it is normal that from time to time we do some work outside our normal working day. 
+
+In exceptional circumstances we provide out of hours support for clients such as assisting with a release or handling issues that can not wait until the next working day. These instances can be planned or un-planned. In those rare cases, the management team can pre-approve authorised overtime.
+
+No-one is obliged to perform overtime but if you do, you will be paid in the next payroll at an hourly rate of basic annual salary / (225*8).
+
+As always, any time worked should be logged as client work in Runn. 
+
+#### **Summer Fridays**
 
 Between June 1st and August 31st,  "Summer Fridays" are in place which means that every Friday we're closing 2 hours before we normally stop work for the week (so 3 or 4pm local time) and start the weekend hopefully in the sunshine. 
 
@@ -522,8 +534,6 @@ If you know someone who you think could be a good fit with the team, either for 
 * Senior: **1st referral** - €700; **2nd referral** - €750; **further referrals -** €800 
 * Mid:      **1st referral** - €450; **2nd referral** - €550; **further referrals -** €550 
 * Junior:  **1st referral** - €100; **2nd referral** - €150; **further referrals -** €200   
-
-
 
 ## Travel and expenses
 
