@@ -5,7 +5,7 @@ last.
 
 The company was created over 10 years ago by Luke who gathered a few people together he had enjoyed working with, to deliver a large software project. Some of these people were living in Romania. Frustrated by the quality of other external vendors he met, he decided to build an awesome agency team he'd actually like to use. Lola Tech was born. Years later we now have 2 offices, one in Cluj-Napoca and a smaller one in London.
 
-## Being a New Employee
+## As a New Employee
 
 Welcome! You will have been assigned a buddy who will welcome you. We'd like to invite you to:
 
