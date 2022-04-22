@@ -5,17 +5,19 @@ last.
 
 The company was created over 10 years ago by Luke who gathered a few people together he had enjoyed working with, to deliver a large software project. Some of these people were living in Romania. Frustrated by the quality of other external vendors he met, he decided to build an awesome agency team he'd actually like to use. Lola Tech was born. Years later we now have 2 offices, one in Cluj-Napoca and a smaller one in London.
 
+This handbook is intended to help you thrive in the Lola Tech family. Nothing in this handbook should supersede rules and laws of the country where this is read.
+
 ## As a New Employee
 
 Welcome! You will have been assigned a buddy who will welcome you. We'd like to invite you to:
 
 * Please read this handbook
-* Please complete the security awareness training (@Vlad to add link)
+* Please complete the [security awareness training](https://lola-tech.atlassian.net/wiki/spaces/GEN/pages/917176324/2.+Security+Awareness+Program)
 * You will have received your Lola Tech Onelogin. This will allow you to log into most Lola Tech systems. Check now that you have access to: 
 
   1. [Jira®](https://lola-tech.atlassian.net/secure/Dashboard.jspa "https\://lola-tech.atlassian.net/secure/Dashboard.jspa"): our issue tracking system to manage tasks, improvements and bugs. 
-  2. Runn: for time tracking
-  3. [Wiki](https://lola-tech.atlassian.net/wiki/spaces/PM/pages/865390 "/wiki/spaces/PM/pages/865390"): home to our documentation. 
+  2. [Runn](https://app.runn.io/): for time tracking
+  3. [Wiki](https://lola-tech.atlassian.net/wiki/spaces/PM/pages/865390 "/wiki/spaces/PM/pages/865390"): for documentation. 
 * Systems: Once you have access to your Lola Tech Onelogin, you will be able to use it to access the systems we use day to day
 
   * Slack: 
@@ -33,7 +35,7 @@ We have written this employee handbook with our core values in mind:
 
 #### Pride:
 
-a sense of responsibility for the quality of work and a sense of achievement driving further results and excellence
+A sense of responsibility for the quality of work and a sense of achievement driving further results and excellence
 
 #### Resilience:
 
@@ -51,7 +53,7 @@ Taking action and showing initiative. Assessing and mitigating risks. Thriving i
 
 Understanding or feeling what another person is experiencing from within their frame of reference; the capacity to place oneself in another's position
 
-Nothing in this handbook should supersede rules and laws of the country where this is read.
+
 
 ### 🕸️ The Mesh
 
@@ -208,7 +210,11 @@ Attending a conference as a speaker or when manning a stand does not count towar
 
 We strongly believe in a lifetime of learning and self-development, in expanding our technical and soft skills.
 Not everyone has the time or the inclination to learn new things in their spare time, so as a software development agency we're making learning a priority. This will allow us to expand our knowledge across different technologies, and remain strong and curious practitioners who are not afraid of any challenge.
- For this reason, Lola Tech is introducing 2 hours of learning during work hours, at the same time and the same day, across the company: Thursdays 1 - 3pm EST.This will be a safe harbour for learning.
+
+
+For this reason, Lola Tech introduced 2 hours of learning during work hours, at the same time and the same day, across the company: Thursdays 1 - 3pm EST. This will be a safe harbour for learning.
+
+
 You probably already have a clear view of what you’d like to learn, but if you want help selecting a topic or an objective, reach out to your advocate, or to Vlad Mandiuc - who’ll help you find a mentor. 
 
  Everyone has their own preferred style of learning, here are a few examples: 
@@ -226,18 +232,19 @@ You probably already have a clear view of what you’d like to learn, but if you
 
 * The company is using a lot of resources to make this time possible. Please don’t let client-work spill over into this time, and please use the time responsibly to further your personal learning goals.
 * To help us understand what folk are focused on so that we can invest more in useful learning support, and to help us justify this considerable investment we’d like to log the activity.
-* Under special circumstances, when something very important and impossible to reschedule would block a team from joining the learning sessions on Thursday, that team (or just the people that are blocked in the team) has the option to choose to conduct the learning in a different day, but at the same hours: 1 - 3pm EST, during the same week. This needs to be agreed in the team and communicated in the learning official slack channel.
+* Under special circumstances, when something important and impossible to reschedule blocks a team from joining the learning sessions on Thursday, those affected can conduct the learning at a different time. This needs to be agreed in the team and communicated in the learning official slack channel.
 
 #### Logging:
 
-* we will start small and just create a simple Google spreadsheet. In time, we will gather feedback and try to better understand the needs in order to plan an internal tool that will help us better organise our learning sessions. So, if you have ideas or just want to offer feedback, please step forward and help us.
-* the minimum log entry is what topic/activity you actually approached during the session.
+* We ask you to log your topic in a published Google spreadsheet. Over time, we will gather feedback and try to better understand the needs in order to plan an internal tool that will help us better organise our learning sessions. So, if you have ideas or just want to offer feedback, please step forward and help us.
+
+
 
 ## 👋 Hiring
 
 ### ⌛ Hiring Timeline
 
-The timeline for hiring process starts when the candidate sends us their CV. In the next 72 hours the candidate will be contacted either to be told that we're not going further or to schedule for a technical discussion. After that, in maximum 14 days the candidate will be informed if we’ll proceed with another discussion or the hiring process stops.
+The timeline for hiring process starts when the candidate sends us their CV. In the next 72 hours the candidate will be contacted either to be told that we're not going further or to schedule for a technical discussion. After the technical discussion a candidate should not have to wait more than 14 days (absolute maximum) on an answer on whether to proceed.
 
 ### 👩‍❤️‍👩 Interview Guidelines
 
@@ -416,7 +423,7 @@ Maternity pay is paid to (future) parents who are pregnant. In Romania, the gove
 
 A sabbatical leave is a period in which an employee takes an extended break from work. This is considered an unpaid leave.
 
-Difference from other types of leaves is that it usually lasts longer – somewhere between a month to a year, Lola is granting sabbatical to employees who have been with the company for at least 1 year.
+Difference from other types of leaves is that it usually lasts longer – somewhere between a month to a year, Lola Tech is granting sabbatical to employees who have been with the company for at least 1 year on a case to case basis. 
 
 ### 🫂 Compassionate Leave
 
@@ -444,7 +451,7 @@ All employees are entitled to a reasonable amount of paid time off during workin
 
 The company requires you to give the reason of your absence as soon as is reasonably practical and to indicate how long you expect to be absent. A “dependant” is the partner, child or parent of the employee or any person who lives in the same household of the employee, who reasonably relies on the employee for assistance or to make arrangements for their care.
 
-Compassionate leave should be logged in CharlieHR as.
+Compassionate leave should be logged in CharlieHR.
 
 ## Formal Processes
 
