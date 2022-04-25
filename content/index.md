@@ -5,17 +5,19 @@ last.
 
 The company was created over 10 years ago by Luke who gathered a few people together he had enjoyed working with, to deliver a large software project. Some of these people were living in Romania. Frustrated by the quality of other external vendors he met, he decided to build an awesome agency team he'd actually like to use. Lola Tech was born. Years later we now have 2 offices, one in Cluj-Napoca and a smaller one in London.
 
-## Being a New Employee
+This handbook is intended to help you thrive in the Lola Tech family. Nothing in this handbook should supersede rules and laws of the country where this is read.
+
+## As a New Employee
 
 Welcome! You will have been assigned a buddy who will welcome you. We'd like to invite you to:
 
 * Please read this handbook
-* Please complete the security awareness training (@Vlad to add link)
+* Please complete the [security awareness training](https://lola-tech.atlassian.net/wiki/spaces/GEN/pages/917176324/2.+Security+Awareness+Program)
 * You will have received your Lola Tech Onelogin. This will allow you to log into most Lola Tech systems. Check now that you have access to: 
 
   1. [Jira®](https://lola-tech.atlassian.net/secure/Dashboard.jspa "https\://lola-tech.atlassian.net/secure/Dashboard.jspa"): our issue tracking system to manage tasks, improvements and bugs. 
-  2. Runn: for time tracking
-  3. [Wiki](https://lola-tech.atlassian.net/wiki/spaces/PM/pages/865390 "/wiki/spaces/PM/pages/865390"): home to our documentation. 
+  2. [Runn](https://app.runn.io/): for time tracking
+  3. [Wiki](https://lola-tech.atlassian.net/wiki/spaces/PM/pages/865390 "/wiki/spaces/PM/pages/865390"): for documentation. 
 * Systems: Once you have access to your Lola Tech Onelogin, you will be able to use it to access the systems we use day to day
 
   * Slack: 
@@ -33,7 +35,7 @@ We have written this employee handbook with our core values in mind:
 
 #### Pride:
 
-a sense of responsibility for the quality of work and a sense of achievement driving further results and excellence
+A sense of responsibility for the quality of work and a sense of achievement driving further results and excellence
 
 #### Resilience:
 
@@ -51,7 +53,7 @@ Taking action and showing initiative. Assessing and mitigating risks. Thriving i
 
 Understanding or feeling what another person is experiencing from within their frame of reference; the capacity to place oneself in another's position
 
-Nothing in this handbook should supersede rules and laws of the country where this is read.
+
 
 ### 🕸️ The Mesh
 
@@ -208,7 +210,11 @@ Attending a conference as a speaker or when manning a stand does not count towar
 
 We strongly believe in a lifetime of learning and self-development, in expanding our technical and soft skills.
 Not everyone has the time or the inclination to learn new things in their spare time, so as a software development agency we're making learning a priority. This will allow us to expand our knowledge across different technologies, and remain strong and curious practitioners who are not afraid of any challenge.
- For this reason, Lola Tech is introducing 2 hours of learning during work hours, at the same time and the same day, across the company: Thursdays 1 - 3pm EST.This will be a safe harbour for learning.
+
+
+For this reason, Lola Tech introduced 2 hours of learning during work hours, at the same time and the same day, across the company: Thursdays 1 - 3pm EST. This will be a safe harbour for learning.
+
+
 You probably already have a clear view of what you’d like to learn, but if you want help selecting a topic or an objective, reach out to your advocate, or to Vlad Mandiuc - who’ll help you find a mentor. 
 
  Everyone has their own preferred style of learning, here are a few examples: 
@@ -226,18 +232,19 @@ You probably already have a clear view of what you’d like to learn, but if you
 
 * The company is using a lot of resources to make this time possible. Please don’t let client-work spill over into this time, and please use the time responsibly to further your personal learning goals.
 * To help us understand what folk are focused on so that we can invest more in useful learning support, and to help us justify this considerable investment we’d like to log the activity.
-* Under special circumstances, when something very important and impossible to reschedule would block a team from joining the learning sessions on Thursday, that team (or just the people that are blocked in the team) has the option to choose to conduct the learning in a different day, but at the same hours: 1 - 3pm EST, during the same week. This needs to be agreed in the team and communicated in the learning official slack channel.
+* Under special circumstances, when something important and impossible to reschedule blocks a team from joining the learning sessions on Thursday, those affected can conduct the learning at a different time. This needs to be agreed in the team and communicated in the learning official slack channel.
 
 #### Logging:
 
-* we will start small and just create a simple Google spreadsheet. In time, we will gather feedback and try to better understand the needs in order to plan an internal tool that will help us better organise our learning sessions. So, if you have ideas or just want to offer feedback, please step forward and help us.
-* the minimum log entry is what topic/activity you actually approached during the session.
+* We ask you to log your topic in a published Google spreadsheet. Over time, we will gather feedback and try to better understand the needs in order to plan an internal tool that will help us better organise our learning sessions. So, if you have ideas or just want to offer feedback, please step forward and help us.
+
+
 
 ## 👋 Hiring
 
 ### ⌛ Hiring Timeline
 
-The timeline for hiring process starts when the candidate sends us their CV. In the next 72 hours the candidate will be contacted either to be told that we're not going further or to schedule for a technical discussion. After that, in maximum 14 days the candidate will be informed if we’ll proceed with another discussion or the hiring process stops.
+The timeline for hiring process starts when the candidate sends us their CV. In the next 72 hours the candidate will be contacted either to be told that we're not going further or to schedule for a technical discussion. After the technical discussion a candidate should not have to wait more than 14 days (absolute maximum) on an answer on whether to proceed.
 
 ### 👩‍❤️‍👩 Interview Guidelines
 
@@ -245,11 +252,51 @@ The timeline for hiring process starts when the candidate sends us their CV. In 
 
 ### 🐣 On-boarding Timeline
 
-🚧🚧🚧 Ciprian to add
+The onboarding process starts once the employment offer is accepted.  
+
+In the weeks before a new colleague joins us, we will make sure everything, and everyone is prepared and ready to welcome them. 
+
+Once the start date is known, Office Manager (currently Ciprian in RO, and Tahlecion in UK) will ensure that:  
+
+* The paperwork and contract are ready  
+* The management team is informed about the new colleague’s start date  
+
+ Two weeks before start date, Connection Developer (currently Iulia): 
+
+* Creates hardware and user access tickets for Service Desk  
+* Alerts Capacity meeting to decide the team allocation  
+* Ensure advocate has background information about the future colleague  \
+   One week before start date:  
+* If new starter is remote only, hardware is delivered to their home by the Helpdesk  
+* Connection Developer assigns a buddy for the new starter 
+* The Buddy gathers the information needed about the new joiner 
+* Connection Developer works with Advocate to ensure work plan for week one is ready  
+
+We believe that a smooth, yet standardised onboarding will help everyone feel part of our team. 
+
+We know a first day in a new workplace can be challenging, so we do our best they feel welcome. 
+
+Basically, it’s all about introduction:  
+
+* Office Manager/ Connections Developer to welcome to the office, show round or remote welcome  
+* Helpdesk to provide equipment and a helping hand where needed 
+* Advocate to introduce team, and first week plan  
+* Meet assigned Buddy 
+* New starter gets taken to lunch by Buddy 
+* IT Security Training  
+* Welcome call from CEO & CTO are scheduled according to time availability  
+
+From the second day, the ramp-up stage begins.  
+
+There is no definite ramp-up period because we know that each person is different, has a different level of experience, and each one integrates at their own pace.  
+
+What we can promise is that we will be there for you, at every step, and together we will provide guidance, mentorship, and answers to all the questions you may have, in the friendliest and fastest way possible.  
 
 ## Practicalities
 
 ### ⏰ Working Hours
+
+#### Overall
 
 The company runs a flexible schedule regarding working hours. This is so we can service customers who are on different timezones and to ensure everyone can do their job to the best of your ability, and be flexible to cater for personal circumstances and preferences.
 
@@ -257,7 +304,19 @@ Core working hours are 10-4 which means we expect everyone to be working during 
 
 *Whether you are working from home or from the office, we don't want your scrum master or anyone else to police your working hours; we expect you do that yourself.*
 
-**Summer Fridays**
+Clinical appointments: Let your scrum master know about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule.
+
+#### Overtime
+
+The company has a flexible working policy and therefore it is normal that from time to time we do some work outside our normal working day. 
+
+In exceptional circumstances we provide out of hours support for clients such as assisting with a release or handling issues that can not wait until the next working day. These instances can be planned or un-planned. In those rare cases, the management team can pre-approve authorised overtime.
+
+No-one is obliged to perform overtime but if you do, you will be paid in the next payroll at an hourly rate of basic annual salary / (225*8).
+
+As always, any time worked should be logged as client work in Runn. 
+
+#### **Summer Fridays**
 
 Between June 1st and August 31st,  "Summer Fridays" are in place which means that every Friday we're closing 2 hours before we normally stop work for the week (so 3 or 4pm local time) and start the weekend hopefully in the sunshine. 
 
@@ -266,6 +325,10 @@ Scrum masters will make sure that customer meetings are not scheduled at that ti
 ### 🏢 Working from the Office
 
 Our policy has always been that everyone should be able to work from wherever they are able to do their best work. Our offices are open and you are very welcome to work there.
+
+We would like to encourage teams to spend time together in person and to coordinate with each other so that  office days overlap. There's nothing worse than commuting in to be on Zoom all day! Hybrid meetings can be hard so be mindful of this and if possible consider all remote or all in person meetings. 
+
+We want to make sure the office is well set up for collaboration and meetings so if you have any ideas or would like some particular equipment, please talk to us.
 
 ### 🏠 Working from Home
 
@@ -326,11 +389,7 @@ If a public holiday is not company wide and not in the locality of the customer 
 
 ### 🤒 Sick Leave
 
-When you are sick, please let your scrum master know asap and log your absence in [CharlieHR](https://lolatech.charliehr.com/). Let us know if you need help.
-
-If you are unwell for more than a week you might need to get a medical certificate stating the reason for the absence, so you can qualify for sick pay.
-
-Clinical appointments: Let your scrum master know about medical appointments (for yourself or your child) in advance so they are aware of your absence. You do not need to give them details about the nature of the appointment. If possible make appointments at a convenient time in your work schedule.
+When you are sick, please contact your doctor, let your scrum master and office manager know asap and log your absence in [CharlieHR](https://lolatech.charliehr.com/). Let us know if you need help.
 
 ### 👶 Parental Leave
 
@@ -364,7 +423,7 @@ Maternity pay is paid to (future) parents who are pregnant. In Romania, the gove
 
 A sabbatical leave is a period in which an employee takes an extended break from work. This is considered an unpaid leave.
 
-Difference from other types of leaves is that it usually lasts longer – somewhere between a month to a year, Lola is granting sabbatical to employees who have been with the company for at least 1 year.
+Difference from other types of leaves is that it usually lasts longer – somewhere between a month to a year, Lola Tech is granting sabbatical to employees who have been with the company for at least 1 year on a case to case basis. 
 
 ### 🫂 Compassionate Leave
 
@@ -392,7 +451,7 @@ All employees are entitled to a reasonable amount of paid time off during workin
 
 The company requires you to give the reason of your absence as soon as is reasonably practical and to indicate how long you expect to be absent. A “dependant” is the partner, child or parent of the employee or any person who lives in the same household of the employee, who reasonably relies on the employee for assistance or to make arrangements for their care.
 
-Compassionate leave should be logged in CharlieHR as.
+Compassionate leave should be logged in CharlieHR.
 
 ## Formal Processes
 
@@ -475,7 +534,15 @@ Benefits vary per country because of different tax rules, number of employees an
 * Sport package
 * Extra holiday for each year spent in Lola (max 5)
 
-### 🧳 Travel & Expenses
+**Referrals**  
+
+If you know someone who you think could be a good fit with the team, either for one of our vacancies or just as an awesome new team member, do not hesitate to have a chat with Ciprian about them. If they get hired, after their notice period, you are eligible for a referral bonus.  
+
+* Senior: **1st referral** - €700; **2nd referral** - €750; **further referrals -** €800 
+* Mid:      **1st referral** - €450; **2nd referral** - €550; **further referrals -** €550 
+* Junior:  **1st referral** - €100; **2nd referral** - €150; **further referrals -** €200   
+
+## Travel and expenses
 
 All travel expenses should be agreed with your advocate or senior managers before booking. The most economic means of travel should be chosen, where practical. Travel between your home and place of work or travel for your own purpose will not be treated as a company travel expense.
 
