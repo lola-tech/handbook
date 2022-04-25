@@ -53,8 +53,6 @@ Taking action and showing initiative. Assessing and mitigating risks. Thriving i
 
 Understanding or feeling what another person is experiencing from within their frame of reference; the capacity to place oneself in another's position
 
-
-
 ### 🕸️ The Mesh
 
 The Lola Tech mesh framework is set up to make every staff member feel welcome, supported and encouraged by assigning the following roles:
@@ -211,9 +209,7 @@ Attending a conference as a speaker or when manning a stand does not count towar
 We strongly believe in a lifetime of learning and self-development, in expanding our technical and soft skills.
 Not everyone has the time or the inclination to learn new things in their spare time, so as a software development agency we're making learning a priority. This will allow us to expand our knowledge across different technologies, and remain strong and curious practitioners who are not afraid of any challenge.
 
-
 For this reason, Lola Tech introduced 2 hours of learning during work hours, at the same time and the same day, across the company: Thursdays 1 - 3pm EST. This will be a safe harbour for learning.
-
 
 You probably already have a clear view of what you’d like to learn, but if you want help selecting a topic or an objective, reach out to your advocate, or to Vlad Mandiuc - who’ll help you find a mentor. 
 
@@ -237,8 +233,6 @@ You probably already have a clear view of what you’d like to learn, but if you
 #### Logging:
 
 * We ask you to log your topic in a published Google spreadsheet. Over time, we will gather feedback and try to better understand the needs in order to plan an internal tool that will help us better organise our learning sessions. So, if you have ideas or just want to offer feedback, please step forward and help us.
-
-
 
 ## 👋 Hiring
 
@@ -357,11 +351,13 @@ Keep any change of address, emergency contact or next of kin up to date in Charl
 
 ### 🛠️ Equipment
 
-🚧🚧 something about
+Lola Tech normally issues Apple hardware to employees, though Linux-based systems are also appropriate and can be provided if that's your preference. We don't work natively on Windows but do provision Windows VMs when projects require them. Some customers may require us to work on other systems, which they supply. All systems should be used in accordance with our [Acceptable Use Policy](/#acceptable-use-policy).
 
-* ergonomics
-* screens and laptops
-* Rupert and VladR to flesh out
+We are committed to safe and comfortable working. At our office good chairs and height-adjustable desks are available, along with external keyboards and mice. We have good availability of extra screens and will work with you to achieve a setup which allows you to work productively and pleasurably.\
+\
+What goes for the office goes for your home working environment. We encourage you to request the furniture an peripherals you need there too.
+
+@vlad - something about our replacement/repair/maintenance/upgrade policies here?
 
 ### 🧰 Tools and Services
 
