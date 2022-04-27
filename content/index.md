@@ -262,7 +262,7 @@ Once the start date is known, Office Manager (currently Ciprian in RO, and Tahle
 * Ensure advocate has background information about the future colleague  \
    One week before start date:  
 * If new starter is remote only, hardware is delivered to their home by the Helpdesk  
-* Connection Developer assigns [a buddy](https://lola-tech.atlassian.net/wiki/spaces/GEN/pages/655183/4.+Administrative+stuff) for the new starter 
+* Connection Developer assigns [a buddy](https://lola-tech.atlassian.net/wiki/pages/viewpageattachments.action?pageId=655183&preview=/655183/1455259649/LolaTech%20-%20BuddyOnepager%20-%20v1.0.pdf) for the new starter 
 * The Buddy gathers the information needed about the new joiner 
 * Connection Developer works with Advocate to ensure work plan for week one is ready  
 
