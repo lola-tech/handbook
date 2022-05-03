@@ -53,8 +53,6 @@ Taking action and showing initiative. Assessing and mitigating risks. Thriving i
 
 Understanding or feeling what another person is experiencing from within their frame of reference; the capacity to place oneself in another's position
 
-
-
 ### 🕸️ The Mesh
 
 The Lola Tech mesh framework is set up to make every staff member feel welcome, supported and encouraged by assigning the following roles:
@@ -202,7 +200,7 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
    The budget is €1.000 per person per year (runs 1 Jan - 31 Dec) and has a limit of 6 working days/year.
 The budget covers the tickets, travel, accommodation; timings are discussed with the team member’s scrum master and whoever is impacted to ensure continuity.
     Please try to decide where you want to go as early as possible to benefit the early-bird prices and also book your Conference/Training time in CharlieHR so that colleagues know you are not reachable.
-It is recommended that the maximum number of people attending one conference should not be more than 3 and to be in different teams.
+It is recommended that the maximum number of people attending one conference should not be more than 5 and to be in different teams.
 
 Attending a conference as a speaker or when manning a stand does not count towards your allowance.
 
@@ -211,9 +209,7 @@ Attending a conference as a speaker or when manning a stand does not count towar
 We strongly believe in a lifetime of learning and self-development, in expanding our technical and soft skills.
 Not everyone has the time or the inclination to learn new things in their spare time, so as a software development agency we're making learning a priority. This will allow us to expand our knowledge across different technologies, and remain strong and curious practitioners who are not afraid of any challenge.
 
-
 For this reason, Lola Tech introduced 2 hours of learning during work hours, at the same time and the same day, across the company: Thursdays 1 - 3pm EST. This will be a safe harbour for learning.
-
 
 You probably already have a clear view of what you’d like to learn, but if you want help selecting a topic or an objective, reach out to your advocate, or to Vlad Mandiuc - who’ll help you find a mentor. 
 
@@ -237,8 +233,6 @@ You probably already have a clear view of what you’d like to learn, but if you
 #### Logging:
 
 * We ask you to log your topic in a published Google spreadsheet. Over time, we will gather feedback and try to better understand the needs in order to plan an internal tool that will help us better organise our learning sessions. So, if you have ideas or just want to offer feedback, please step forward and help us.
-
-
 
 ## 👋 Hiring
 
@@ -268,7 +262,7 @@ Once the start date is known, Office Manager (currently Ciprian in RO, and Tahle
 * Ensure advocate has background information about the future colleague  \
    One week before start date:  
 * If new starter is remote only, hardware is delivered to their home by the Helpdesk  
-* Connection Developer assigns a buddy for the new starter 
+* Connection Developer assigns [a buddy](https://lola-tech.atlassian.net/wiki/pages/viewpageattachments.action?pageId=655183&preview=/655183/1455259649/LolaTech%20-%20BuddyOnepager%20-%20v1.0.pdf) for the new starter 
 * The Buddy gathers the information needed about the new joiner 
 * Connection Developer works with Advocate to ensure work plan for week one is ready  
 
@@ -357,11 +351,13 @@ Keep any change of address, emergency contact or next of kin up to date in Charl
 
 ### 🛠️ Equipment
 
-🚧🚧 something about
+Lola Tech normally issues Apple hardware to employees, though Linux-based systems are also appropriate and can be provided if that's your preference. We don't work natively on Windows but do provision Windows VMs when projects require them. Some customers may require us to work on other systems, which they supply. All systems should be used in accordance with our [Acceptable Use Policy](/#acceptable-use-policy).
 
-* ergonomics
-* screens and laptops
-* Rupert and VladR to flesh out
+We are committed to safe and comfortable working. At our office good chairs and height-adjustable desks are available, along with external keyboards and mice. We have good availability of extra screens and will work with you to achieve a setup which allows you to work productively and pleasurably.\
+\
+What goes for the office goes for your home working environment. We encourage you to request the furniture an peripherals you need there too.
+
+@vlad - something about our replacement/repair/maintenance/upgrade policies here?
 
 ### 🧰 Tools and Services
 
