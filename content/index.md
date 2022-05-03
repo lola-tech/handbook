@@ -200,7 +200,7 @@ A member of Lola Tech can be part of any number of ***CoPs***, but it expected t
    The budget is €1.000 per person per year (runs 1 Jan - 31 Dec) and has a limit of 6 working days/year.
 The budget covers the tickets, travel, accommodation; timings are discussed with the team member’s scrum master and whoever is impacted to ensure continuity.
     Please try to decide where you want to go as early as possible to benefit the early-bird prices and also book your Conference/Training time in CharlieHR so that colleagues know you are not reachable.
-It is recommended that the maximum number of people attending one conference should not be more than 3 and to be in different teams.
+It is recommended that the maximum number of people attending one conference should not be more than 5 and to be in different teams.
 
 Attending a conference as a speaker or when manning a stand does not count towards your allowance.
 
