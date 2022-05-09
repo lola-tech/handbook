@@ -258,7 +258,7 @@ We want the candidates to feel comfortable, and to give us the chance to identif
 
 In order to correctly evaluate candidates, we make sure we offer them the same evaluation conditions and criteria. 
 
-The interview lasts 1 hour, and includes several topics like Background review, soft skills review, and of course, Technical review. 
+The interview lasts about 1 hour, and includes several topics like background review, soft skills review, and of course, technical review. 
 
 At the beginning of it, our colleagues will present themselves, and will explain how the discussion will go. 
 
