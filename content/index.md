@@ -242,7 +242,39 @@ The timeline for hiring process starts when the candidate sends us their CV. In 
 
 ### 👩‍❤️‍👩 Interview Guidelines
 
-🚧🚧🚧 *VladM to add*
+The Lola Tech selection process consists of 2 stages: a fairly short, introductory Phone Screening call where we can get to know each other and if that goes well, a face to face (in person or remote) Interview.
+
+The Phone screening is made by the Office Manager / Managing Director. 
+
+Its main purpose is to give the candidates more details about the company, and to assess whether a candidate's expectations related to the position, salary needs and type of employment experience are compatible with us.
+
+Also, it helps clarify any questions the candidate might have, and inform them about the next steps of the selection process.
+
+The interview is held by a Scrum Master and a Technical Interviewer/Advocate.
+
+Here at Lola, we believe that a good interview should create a positive experience for both the interviewer and the candidate, that’s why each interview is an informal and open discussion. 
+
+We want the candidates to feel comfortable, and to give us the chance to identify their strongest skills and personal traits.
+
+In order to correctly evaluate candidates, we make sure we offer them the same evaluation conditions and criteria. 
+
+The interview lasts 1 hour, and includes several topics like Background review, soft skills review, and of course, Technical review. 
+
+At the beginning of it, our colleagues will present themselves, and will explain how the discussion will go. 
+
+Our Scrum Master makes a short introductory presentation of Lola Tech, and the technical interviewer will present to you how we work: technical side, team organization, mindset. 
+
+After that, we want to get to know each other better, so we will talk about the candidate's background, education and previous experience.
+
+The technical review part is basically a refreshment of the candidate’s knowledge and experience. We want to see how we can fit together on the technical side, based on our job requirements for that position. 
+
+During the interview, the candidates might be questioned about some approaches they took to solve a problem in their career, or maybe how they’ll try to solve a technical issue.
+
+ At the end of discussion, our interviewers will answer any additional questions the candidates may have, both regarding Lola Tech and the position, or maybe other curiosities.
+
+In addition to skills and qualifications, we’re always eager to find new colleagues that can come with fresh perspectives on how we do things and who fit in Lola’s culture. 
+
+Following the interview, we will get back to all of the candidates with either positive or negative feedback in maximum 1 week.
 
 ### 🐣 On-boarding Timeline
 
