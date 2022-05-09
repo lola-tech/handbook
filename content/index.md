@@ -246,7 +246,7 @@ The Lola Tech selection process consists of 2 stages: a fairly short, introducto
 
 The Phone screening is made by the Office Manager / Managing Director. 
 
-Its main purpose is to give the candidates more details about the company, and to assess whether a candidate's expectations related to the position, salary needs and type of employment experience are compatible with us.
+Its main purpose is to give the candidates more details about the company, and to assess whether a candidate's expectations related to the position, salary needs and type of employment are compatible with us.
 
 Also, it helps clarify any questions the candidate might have, and inform them about the next steps of the selection process.
 
@@ -262,7 +262,7 @@ The interview lasts about 1 hour, and includes several topics like background re
 
 At the beginning of it, our colleagues will present themselves, and will explain how the discussion will go. 
 
-Our Scrum Master will make a short introductory presentation of Lola Tech, and the technical interviewer will present you how we work: technical side, team organization, mindset. 
+Our Scrum Master will make a short introductory presentation of Lola Tech, and the technical interviewer will present you how we work: technical side, team organisation, mindset. 
 
 After that, we want to get to know each other better, so we will talk about the candidate's background, education and previous experience.
 
@@ -270,7 +270,7 @@ The technical review part is basically a refreshment of the candidate’s knowle
 
 During the interview, the candidates might be questioned about some approaches they took to solve a problem in their career, or maybe how they’ll try to solve a technical issue.
 
- At the end of discussion, our interviewers will answer any additional questions the candidates may have, both regarding Lola Tech and the position, or maybe other curiosities.
+At the end of discussion, our interviewers will answer any additional questions the candidates may have, both regarding Lola Tech and the position, or maybe other curiosities.
 
 In addition to skills and qualifications, we’re always eager to find new colleagues that can come with fresh perspectives on how we do things and who can fit in Lola’s culture. 
 
