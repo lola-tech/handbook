@@ -262,7 +262,7 @@ The interview lasts 1 hour, and includes several topics like Background review, 
 
 At the beginning of it, our colleagues will present themselves, and will explain how the discussion will go. 
 
-Our Scrum Master makes a short introductory presentation of Lola Tech, and the technical interviewer will present to you how we work: technical side, team organization, mindset. 
+Our Scrum Master will make a short introductory presentation of Lola Tech, and the technical interviewer will present to you how we work: technical side, team organization, mindset. 
 
 After that, we want to get to know each other better, so we will talk about the candidate's background, education and previous experience.
 
@@ -272,7 +272,7 @@ During the interview, the candidates might be questioned about some approaches t
 
  At the end of discussion, our interviewers will answer any additional questions the candidates may have, both regarding Lola Tech and the position, or maybe other curiosities.
 
-In addition to skills and qualifications, we’re always eager to find new colleagues that can come with fresh perspectives on how we do things and who fit in Lola’s culture. 
+In addition to skills and qualifications, we’re always eager to find new colleagues that can come with fresh perspectives on how we do things and who can fit in Lola’s culture. 
 
 Following the interview, we will get back to all of the candidates with either positive or negative feedback in maximum 1 week.
 
