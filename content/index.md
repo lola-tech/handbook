@@ -262,7 +262,7 @@ The interview lasts about 1 hour, and includes several topics like background re
 
 At the beginning of it, our colleagues will present themselves, and will explain how the discussion will go. 
 
-Our Scrum Master will make a short introductory presentation of Lola Tech, and the technical interviewer will present to you how we work: technical side, team organization, mindset. 
+Our Scrum Master will make a short introductory presentation of Lola Tech, and the technical interviewer will present you how we work: technical side, team organization, mindset. 
 
 After that, we want to get to know each other better, so we will talk about the candidate's background, education and previous experience.
 
