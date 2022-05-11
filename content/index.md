@@ -246,35 +246,39 @@ The Lola Tech selection process consists of 2 stages: a fairly short, introducto
 
 The Phone screening is made by the Office Manager / Managing Director. 
 
-Its main purpose is to give the candidates more details about the company, and to assess whether a candidate's expectations related to the position, salary needs and type of employment are compatible with us.
+Its main purpose is to give the candidates more details about the company, and to assess whether their expectations are compatible with the job on offer.
 
 Also, it helps clarify any questions the candidate might have, and inform them about the next steps of the selection process.
+
+In a maximum of 2 working days candidates will be called by one of our Scrum Masters to schedule the interview, or we’ll send a note explaining why we’re not continuing the process.
 
 The interview is held by a Scrum Master and a Technical Interviewer/Advocate.
 
 Here at Lola, we believe that a good interview should create a positive experience for both the interviewer and the candidate, that’s why each interview is an informal and open discussion. 
 
-We want the candidates to feel comfortable, and to give us the chance to identify their strongest skills and personal traits.
+We want the candidates to feel comfortable, and to give us the chance to identify their strongest skills and personal traits. We don’t use whiteboard exercises and we don’t give assignments.
 
 In order to correctly evaluate candidates, we make sure we offer them the same evaluation conditions and criteria. 
 
-The interview lasts about 1 hour, and includes several topics like background review, soft skills review, and of course, technical review. 
+The interview lasts about 1 hour, and includes several topics like background review, soft skills review, and of course, Technical review. 
 
 At the beginning of it, our colleagues will present themselves, and will explain how the discussion will go. 
 
-Our Scrum Master will make a short introductory presentation of Lola Tech, and the technical interviewer will present you how we work: technical side, team organisation, mindset. 
+Our Scrum Master makes a short introductory presentation of Lola Tech, and the technical interviewer presents how we work: technical side, team organization, mindset. 
 
 After that, we want to get to know each other better, so we will talk about the candidate's background, education and previous experience.
 
-The technical review part is basically a refreshment of the candidate’s knowledge and experience. We want to see how we can fit together on the technical side, based on our job requirements for that position. 
+The technical review part is basically an exploration of the candidate’s knowledge and experience. We want to see how we can fit together on the technical side, based on our job requirements for that position. 
 
-During the interview, the candidates might be questioned about some approaches they took to solve a problem in their career, or maybe how they’ll try to solve a technical issue.
+During the interview, the candidates might be questioned about some approaches they took to solve a problem in their career, or maybe how they’d try to solve a technical issue.
 
-At the end of discussion, our interviewers will answer any additional questions the candidates may have, both regarding Lola Tech and the position, or maybe other curiosities.
+At the end of discussion, our interviewers will answer any additional questions the candidates may have regarding Lola Tech, the position, or anything else which has sparked their curiosity.
 
-In addition to skills and qualifications, we’re always eager to find new colleagues that can come with fresh perspectives on how we do things and who can fit in Lola’s culture. 
+In addition to skills and qualifications, we’re always eager to find new colleagues that can come with fresh perspectives on how we do things and who could fit in Lola’s culture. 
 
-Following the interview, we will get back to all of the candidates with either positive or negative feedback in maximum 1 week.
+After each interview, information will be collected in a feedback form. This document helps us maintain information that was collected during interviews, and also have an overview of the arguments for which the candidate was accepted/rejected. 
+
+Following the interview we aim to get back to all of the candidates in a couple of days, though in rare cases we need a week. Once we’ve given some feedback either there will be an administrative discussion with the Managing Director or we'll stop the recruitment process.
 
 ### 🐣 On-boarding Timeline
 
@@ -294,7 +298,7 @@ Once the start date is known, Office Manager (currently Ciprian in RO, and Tahle
 * Ensure advocate has background information about the future colleague  \
    One week before start date:  
 * If new starter is remote only, hardware is delivered to their home by the Helpdesk  
-* Connection Developer assigns [a buddy](https://lola-tech.atlassian.net/wiki/pages/viewpageattachments.action?pageId=655183&preview=/655183/1455259649/LolaTech%20-%20BuddyOnepager%20-%20v1.0.pdf) for the new starter 
+* Connection Developer assigns [](https://lola-tech.atlassian.net/wiki/pages/viewpageattachments.action?pageId=655183&preview=/655183/1455259649/LolaTech%20-%20BuddyOnepager%20-%20v1.0.pdf)a buddy for the new starter 
 * The Buddy gathers the information needed about the new joiner 
 * Connection Developer works with Advocate to ensure work plan for week one is ready  
 
