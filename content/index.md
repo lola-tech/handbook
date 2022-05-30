@@ -242,47 +242,36 @@ You probably already have a clear view of what you’d like to learn, but if you
 
 ### ⌛ Hiring Timeline
 
-The timeline for hiring process starts when the candidate sends us their CV. In the next 72 hours the candidate will be contacted either to be told that we're not going further or to schedule for a technical discussion. After the technical discussion a candidate should not have to wait more than 14 days (absolute maximum) on an answer on whether to proceed.
+The timeline for hiring process starts when a candidate sends us their CV. They will be contacted within 72h with an invite to the interview process, or a friendly rejection. 
 
 ### 👩‍❤️‍👩 Interview Guidelines
 
-The Lola Tech selection process consists of 2 stages: a fairly short, introductory Phone Screening call where we can get to know each other and if that goes well, a face to face (in person or remote) Interview.
+The Lola Tech selection process consists of 3 stages: a fairly short, introductory phone screening call, a face to face (in person or remote) Interview and an administrative decision call.
 
-The Phone screening is made by the Office Manager / Managing Director. 
+1. The Phone screening is made by the Office Manager / Managing Director. 
 
-Its main purpose is to give the candidates more details about the company, and to assess whether their expectations are compatible with the job on offer.
+It's a short call to to provide the candidates detail about the company, and to assess whether their expectations are compatible with the job on offer. It helps clarify any questions the candidate might have, and inform them about the next steps of the selection process.
 
-Also, it helps clarify any questions the candidate might have, and inform them about the next steps of the selection process.
+Within 2 working days, candidates will either be called by a Scrum Master to schedule the interview or get a note explaining why we’re not continuing the process.
 
-In a maximum of 2 working days candidates will be called by one of our Scrum Masters to schedule the interview, or we’ll send a note explaining why we’re not continuing the process.
+2. The interview is held by a Scrum Master and a Technical Interviewer/Advocate.
 
-The interview is held by a Scrum Master and a Technical Interviewer/Advocate.
+The interview should be a positive experience for everyone involved, an informal and open discussion. We want candidates to feel comfortable, and give us the chance to identify their strongest skills and personal traits. We don’t use whiteboard exercises and we don’t give assignments. 
 
-Here at Lola, we believe that a good interview should create a positive experience for both the interviewer and the candidate, that’s why each interview is an informal and open discussion. 
+The interview lasts about 1 hour and includes several topics like background review, soft skills review and technical review:
 
-We want the candidates to feel comfortable, and to give us the chance to identify their strongest skills and personal traits. We don’t use whiteboard exercises and we don’t give assignments.
+* Lola Tech employees to introduce themselves and set the agenda
+* Short company intro of Lola Tech by Scrum Master 
+* Ways of working, team set-up, mindset overview by Technical Interviewer
+* Conversation with candidates about their background, education and previous experience.
+* The technical review to explore knowledge and experience and potential fit. Candidates might be questioned about approaches they took to solve a problem in their career, or maybe how they’d try to solve a technical issue. We’re always eager to find fresh perspectives on how we do things as well as culture fit. 
+* Time for questions about Lola Tech, the position or anything else
 
-In order to correctly evaluate candidates, we make sure we offer them the same evaluation conditions and criteria. 
+After each interview, a feedback form is filled out by the interviewers. This helps us maintain internal information that was collected during interviews, and the reasons why the candidate was accepted/rejected. 
 
-The interview lasts about 1 hour, and includes several topics like background review, soft skills review, and of course, Technical review. 
+We aim to get back to all the candidates within a few of days (one week max). 
 
-At the beginning of it, our colleagues will present themselves, and will explain how the discussion will go. 
-
-Our Scrum Master makes a short introductory presentation of Lola Tech, and the technical interviewer presents how we work: technical side, team organization, mindset. 
-
-After that, we want to get to know each other better, so we will talk about the candidate's background, education and previous experience.
-
-The technical review part is basically an exploration of the candidate’s knowledge and experience. We want to see how we can fit together on the technical side, based on our job requirements for that position. 
-
-During the interview, the candidates might be questioned about some approaches they took to solve a problem in their career, or maybe how they’d try to solve a technical issue.
-
-At the end of discussion, our interviewers will answer any additional questions the candidates may have regarding Lola Tech, the position, or anything else which has sparked their curiosity.
-
-In addition to skills and qualifications, we’re always eager to find new colleagues that can come with fresh perspectives on how we do things and who could fit in Lola’s culture. 
-
-After each interview, information will be collected in a feedback form. This document helps us maintain information that was collected during interviews, and also have an overview of the arguments for which the candidate was accepted/rejected. 
-
-Following the interview we aim to get back to all of the candidates in a couple of days, though in rare cases we need a week. Once we’ve given some feedback either there will be an administrative discussion with the Managing Director or we'll stop the recruitment process.
+3. If positive, an administrative conversation with the Managing Director follows which is the last step in the interview process. 
 
 ### 🐣 On-boarding Timeline
 
