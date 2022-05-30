@@ -526,20 +526,7 @@ All disclosures should be passed to the MD (Ciprian), CEO (Inge) or Business Own
 
 If there is a complaint against you at work, the company will establish the facts surrounding this and no disciplinary action will be taken until the matter has been investigated. If it is not serious, the company will discuss the matter with you suggesting areas for improvement.
 
-If the complaint is serious, the company has the right to suspend you on full pay while they investigate. Suspension during investigation is not a disciplinary action or a prejudgement of the issue. The period of suspension shall be reasonably decided by the company. If the company considers that it is necessary to invoke a formal procedure they will supply a comprehensive written description of the full procedure that will be followed. This can be obtained from management at any time.
-
-When dealing with a performance issue, we will always strive to avoid a formal disciplinary process if possible. The company focuses on mutual feedback, growth and improvement for every member of the team. If a formal process is needed then the following steps will be followed:
-
-**Disciplinary actions**
-
-If there is a breach of company policies and disciplinary action is needed, it consists of 4 stages:
-
-* **Stage 1 - Oral warning:** if it is a minor breach you will be given a formal oral warning and informed of the consequences and, if appropriate, any improvement required from you and the time frame.
-* **Stage 2 - Written Warning:** if it is a serious breach or a repetition of a minor breach, you will be given a written warning setting out the precise nature of the offence and future consequences. If appropriate, it will specify any improvement and the time frame required from you.
-* **Stage 3 - Final Written Warning:** if you fail to improve following a written warning or if the offence, is not gross misconduct although is serious enough in the company's view to warrant a final warning, you will be given a written final warning. This will set out the precise nature of the offence, state that any recurrence may lead to dismissal and specify, if appropriate, the nature of the improvement and the time frame required from you.
-* **Stage 4 - Dismissal:** in the case of gross misconduct, or if all previous stages of the warning procedure have been exhausted, the employee will normally be dismissed. The company reserves the right, where reasonable, not to dismiss, but to impose other disciplinary action including (but without limitation) demotion, transfer to another department, loss of seniority, loss of right to a pay increment or bonus or suspension with or without pay.
-
-In relation to gross misconduct, such dismissal shall be without notice or payment in lieu of notice.
+In Romania: For all the disciplinary sanctions please refer to Internal Regulations document.
 
 **Breaches**
 
