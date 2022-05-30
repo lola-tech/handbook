@@ -202,6 +202,10 @@ The budget covers the tickets, travel, accommodation; timings are discussed with
     Please try to decide where you want to go as early as possible to benefit the early-bird prices and also book your Conference/Training time in CharlieHR so that colleagues know you are not reachable.
 It is recommended that the maximum number of people attending one conference should not be more than 5 and to be in different teams.
 
+When you know what conference do you want to attend, please speak about it with your Advocate. The Advocate will tell Ciprian about it, and he will book all the tickets (conference, transport and accommodation).
+
+Please add all the informations about the conference [here](https://docs.google.com/spreadsheets/d/1nZsjjBQlpvNDKPbboDLJ8u6Fz-r2LxmKYbfOJ5tCuGE/edit#gid=0), and in the "Conferences" sheet (if it's not listed).
+
 Attending a conference as a speaker or when manning a stand does not count towards your allowance.
 
 ### Learning
