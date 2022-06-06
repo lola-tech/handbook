@@ -202,6 +202,10 @@ The budget covers the tickets, travel, accommodation; timings are discussed with
     Please try to decide where you want to go as early as possible to benefit the early-bird prices and also book your Conference/Training time in CharlieHR so that colleagues know you are not reachable.
 It is recommended that the maximum number of people attending one conference should not be more than 5 and to be in different teams.
 
+When you know what conference do you want to attend, please speak about it with your Advocate. The Advocate will tell Ciprian about it, and he will book all the tickets (conference, transport and accommodation).
+
+Please add all the informations about the conference [here](https://docs.google.com/spreadsheets/d/1nZsjjBQlpvNDKPbboDLJ8u6Fz-r2LxmKYbfOJ5tCuGE/edit#gid=0), and in the "Conferences" sheet (if it's not listed).
+
 Attending a conference as a speaker or when manning a stand does not count towards your allowance.
 
 ### Learning
@@ -238,11 +242,36 @@ You probably already have a clear view of what you’d like to learn, but if you
 
 ### ⌛ Hiring Timeline
 
-The timeline for hiring process starts when the candidate sends us their CV. In the next 72 hours the candidate will be contacted either to be told that we're not going further or to schedule for a technical discussion. After the technical discussion a candidate should not have to wait more than 14 days (absolute maximum) on an answer on whether to proceed.
+The timeline for hiring process starts when a candidate sends us their CV. They will be contacted within 72h with an invite to the interview process, or a friendly rejection. 
 
 ### 👩‍❤️‍👩 Interview Guidelines
 
-🚧🚧🚧 *VladM to add*
+The Lola Tech selection process consists of 3 stages: a fairly short, introductory phone screening call, a face to face (in person or remote) Interview and an administrative decision call.
+
+1. The Phone screening is made by the Office Manager / Managing Director. 
+
+It's a short call to to provide the candidates detail about the company, and to assess whether their expectations are compatible with the job on offer. It helps clarify any questions the candidate might have, and inform them about the next steps of the selection process.
+
+Within 2 working days, candidates will either be called by a Scrum Master to schedule the interview or get a note explaining why we’re not continuing the process.
+
+2. The interview is held by a Scrum Master and a Technical Interviewer/Advocate.
+
+The interview should be a positive experience for everyone involved, an informal and open discussion. We want candidates to feel comfortable, and give us the chance to identify their strongest skills and personal traits. We don’t use whiteboard exercises and we don’t give assignments. 
+
+The interview lasts about 1 hour and includes several topics like background review, soft skills review and technical review:
+
+* Lola Tech employees to introduce themselves and set the agenda
+* Short company intro of Lola Tech by Scrum Master 
+* Ways of working, team set-up, mindset overview by Technical Interviewer
+* Conversation with candidates about their background, education and previous experience.
+* The technical review to explore knowledge and experience and potential fit. Candidates might be questioned about approaches they took to solve a problem in their career, or maybe how they’d try to solve a technical issue. We’re always eager to find fresh perspectives on how we do things as well as culture fit. 
+* Time for questions about Lola Tech, the position or anything else
+
+After each interview, a feedback form is filled out by the interviewers. This helps us maintain internal information that was collected during interviews, and the reasons why the candidate was accepted/rejected. 
+
+We aim to get back to all the candidates within a few of days (one week max). 
+
+3. If positive, an administrative conversation with the Managing Director follows which is the last step in the interview process. 
 
 ### 🐣 On-boarding Timeline
 
@@ -262,7 +291,7 @@ Once the start date is known, Office Manager (currently Ciprian in RO, and Tahle
 * Ensure advocate has background information about the future colleague  \
    One week before start date:  
 * If new starter is remote only, hardware is delivered to their home by the Helpdesk  
-* Connection Developer assigns [a buddy](https://lola-tech.atlassian.net/wiki/pages/viewpageattachments.action?pageId=655183&preview=/655183/1455259649/LolaTech%20-%20BuddyOnepager%20-%20v1.0.pdf) for the new starter 
+* Connection Developer assigns [](https://lola-tech.atlassian.net/wiki/pages/viewpageattachments.action?pageId=655183&preview=/655183/1455259649/LolaTech%20-%20BuddyOnepager%20-%20v1.0.pdf)a buddy for the new starter 
 * The Buddy gathers the information needed about the new joiner 
 * Connection Developer works with Advocate to ensure work plan for week one is ready  
 
@@ -361,7 +390,27 @@ What goes for the office goes for your home working environment. We encourage yo
 
 ### 🧰 Tools and Services
 
-🚧🚧 We use Slack, Zoom, CharlieHR, --> get this from intro email for new starters
+🚧🚧 We use:
+
+Onelogin - This will allow you to log into most Lola Tech systems
+
+Slack, Runn, CharlieHR, 1Password, Atlassian, G Suite --> you receive invites to join by email as a new starter.      These applications and services are integrated with our SSO solution, you need your OneLogin credentials to access your account.
+
+GitHub - as a new starter you need to provide a personal GitHub account to be added to the organisation
+
+Zoom - if you need a Zoom subscription please reach us on the #lolasupport channel.
+
+Figma -  if you need a Figma subscription please reach us on the #lolasupport channel.
+
+Jamf Now MDM - the installation process is automatically push on new devices.
+
+Cisco AMP - the installation process is automatically push via Jamf Now MDM.
+
+Cisco Umbrella - the installation process is automatically push via Jamf Now MDM
+
+Business Managed Apple IDs with @lola.tech domain - the Managed Apple ID  is integrated with our SSO solution, you need your OneLogin credentials to access your account.
+
+Microsoft Azure
 
 ### 📋 Acceptable Use Policy
 
@@ -486,20 +535,7 @@ All disclosures should be passed to the MD (Ciprian), CEO (Inge) or Business Own
 
 If there is a complaint against you at work, the company will establish the facts surrounding this and no disciplinary action will be taken until the matter has been investigated. If it is not serious, the company will discuss the matter with you suggesting areas for improvement.
 
-If the complaint is serious, the company has the right to suspend you on full pay while they investigate. Suspension during investigation is not a disciplinary action or a prejudgement of the issue. The period of suspension shall be reasonably decided by the company. If the company considers that it is necessary to invoke a formal procedure they will supply a comprehensive written description of the full procedure that will be followed. This can be obtained from management at any time.
-
-When dealing with a performance issue, we will always strive to avoid a formal disciplinary process if possible. The company focuses on mutual feedback, growth and improvement for every member of the team. If a formal process is needed then the following steps will be followed:
-
-**Disciplinary actions**
-
-If there is a breach of company policies and disciplinary action is needed, it consists of 4 stages:
-
-* **Stage 1 - Oral warning:** if it is a minor breach you will be given a formal oral warning and informed of the consequences and, if appropriate, any improvement required from you and the time frame.
-* **Stage 2 - Written Warning:** if it is a serious breach or a repetition of a minor breach, you will be given a written warning setting out the precise nature of the offence and future consequences. If appropriate, it will specify any improvement and the time frame required from you.
-* **Stage 3 - Final Written Warning:** if you fail to improve following a written warning or if the offence, is not gross misconduct although is serious enough in the company's view to warrant a final warning, you will be given a written final warning. This will set out the precise nature of the offence, state that any recurrence may lead to dismissal and specify, if appropriate, the nature of the improvement and the time frame required from you.
-* **Stage 4 - Dismissal:** in the case of gross misconduct, or if all previous stages of the warning procedure have been exhausted, the employee will normally be dismissed. The company reserves the right, where reasonable, not to dismiss, but to impose other disciplinary action including (but without limitation) demotion, transfer to another department, loss of seniority, loss of right to a pay increment or bonus or suspension with or without pay.
-
-In relation to gross misconduct, such dismissal shall be without notice or payment in lieu of notice.
+In Romania: For all the disciplinary sanctions please refer to Internal Regulations document.
 
 **Breaches**
 
