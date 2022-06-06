@@ -390,7 +390,27 @@ What goes for the office goes for your home working environment. We encourage yo
 
 ### 🧰 Tools and Services
 
-🚧🚧 We use Slack, Zoom, CharlieHR, --> get this from intro email for new starters
+🚧🚧 We use:
+
+Onelogin - This will allow you to log into most Lola Tech systems
+
+Slack, Runn, CharlieHR, 1Password, Atlassian, G Suite --> you receive invites to join by email as a new starter.      These applications and services are integrated with our SSO solution, you need your OneLogin credentials to access your account.
+
+GitHub - as a new starter you need to provide a personal GitHub account to be added to the organisation
+
+Zoom - if you need a Zoom subscription please reach us on the #lolasupport channel.
+
+Figma -  if you need a Figma subscription please reach us on the #lolasupport channel.
+
+Jamf Now MDM - the installation process is automatically push on new devices.
+
+Cisco AMP - the installation process is automatically push via Jamf Now MDM.
+
+Cisco Umbrella - the installation process is automatically push via Jamf Now MDM
+
+Business Managed Apple IDs with @lola.tech domain - the Managed Apple ID  is integrated with our SSO solution, you need your OneLogin credentials to access your account.
+
+Microsoft Azure
 
 ### 📋 Acceptable Use Policy
 
