@@ -412,6 +412,8 @@ Business Managed Apple IDs with @lola.tech domain - the Managed Apple ID  is int
 
 Microsoft Azure
 
+Miro
+
 ### 📋 Acceptable Use Policy
 
 🚧🚧 VladR
