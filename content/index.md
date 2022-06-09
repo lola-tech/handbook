@@ -394,9 +394,11 @@ What goes for the office goes for your home working environment. We encourage yo
 
 Onelogin - This will allow you to log into most Lola Tech systems
 
-Slack, Runn, CharlieHR, 1Password, Atlassian, G Suite --> you receive invites to join by email as a new starter.      These applications and services are integrated with our SSO solution, you need your OneLogin credentials to access your account.
+Slack, Runn, CharlieHR, Atlassian, G Suite --> you receive invites to join by email as a new starter.      These applications and services are integrated with our SSO solution, you need your OneLogin credentials to access your account.
 
 GitHub - as a new starter you need to provide a personal GitHub account to be added to the organisation
+
+1Password - It provides a place for users to store various passwords, software licenses, and other sensitive information in a virtual vault 
 
 Zoom - if you need a Zoom subscription please reach us on the #lolasupport channel.
 
@@ -408,7 +410,7 @@ Cisco AMP - the installation process is automatically push via Jamf Now MDM.
 
 Cisco Umbrella - the installation process is automatically push via Jamf Now MDM
 
-Business Managed Apple IDs with @lola.tech domain - the Managed Apple ID  is integrated with our SSO solution, you need your OneLogin credentials to access your account.
+Business Managed Apple IDs with @lola.tech domain - the Managed Apple ID  is integrated with our SSO solution, you need your OneLogin credentials to access your account. A user can have two types of Apple IDs: the [Managed Apple ID](https://lola-tech.atlassian.net/wiki/spaces/NT/pages/1472724995/Managed+Apple+IDs) and [personal Apple ID](https://lola-tech.atlassian.net/wiki/spaces/NT/pages/1472659465/Sign+in+with+your+Apple+ID). You can use your Managed Apple ID or your personal Apple ID on the device
 
 Microsoft Azure
 
