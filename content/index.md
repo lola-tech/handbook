@@ -567,7 +567,8 @@ Benefits vary per country because of different tax rules, number of employees an
 
 * Meal vouchers
 * Health insurance for the employee and family (partner/kids)
-* Sport package
+* Sport package - we will refund you up to 250 lei / month for any practiced sport - all you have to do is send to refunds@lola.tech the proof of payment of the subscription / entrance to the gym / park / registration for sports competitions, and the amount will be added to your salary.  \
+  The purchase of equipment is not paid, only the sport activity itself.
 * Extra holiday for each year spent in Lola (max 5)
 
 **Referrals**  
