@@ -436,6 +436,12 @@ If you leave the company we will balance your remaining holiday (positive or neg
 
 If a public holiday is not company wide and not in the locality of the customer project you are working on, and it falls on a weekday, you can decide to work that day and take the holiday on another day that calendar month.
 
+In Romania, if you are a blood donor, you have the right to receive on request, for each donation, a paid day off (on the day of donation).
+
+The day off will be granted based of the supporting documents issued by the donation center, sent to refunds@lola.tech. 
+
+Please log your absence in CharlieHR as a sick day, with the mention “blood donation”.
+
 ### 🤒 Sick Leave
 
 When you are sick, please contact your doctor, let your scrum master and office manager know asap and log your absence in [CharlieHR](https://lolatech.charliehr.com/). Let us know if you need help.
