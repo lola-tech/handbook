@@ -436,7 +436,8 @@ If you leave the company we will balance your remaining holiday (positive or neg
 
 If a public holiday is not company wide and not in the locality of the customer project you are working on, and it falls on a weekday, you can decide to work that day and take the holiday on another day that calendar month.
 
-In Romania, if you are a blood donor, you have the right to receive on request, for each donation, a paid day off (on the day of donation).
+In Romania, if you are a blood donor, you have the right to receive on request, for each donation, a paid day off (on the day of donation).\
+The minimum interval between donations is 8 weeks, but the number of donations should not exceed 3 donations / year for women and 4-5 donations / year for men.
 
 The day off will be granted based of the supporting documents issued by the donation center, sent to refunds@lola.tech. 
 
