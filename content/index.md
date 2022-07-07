@@ -159,15 +159,23 @@ How to apply to be a mentor: just post a message in \`#cop-mentoring\` indicatin
 * They acknowledge holiday requests in CharlieHR so that they can schedule and adjust project work
 * Scrum masters are usually consulted when advocates review performance
 
-### 🙋 Advocates (formerly known as line managers)
+### 🙋 Advocates & Heads of Department
 
-Everyone should have an advocate who officially looks after them. Their main areas of responsibility are:
+Everyone should have a Head of Department (HOD) and an Advocate who officially looks after them. In some instances your Advocate may also be your HOD.
+
+**Advocate areas of responsibility:**
 
 * Discuss focus and goals
 * Review feedback
+* Highlight needs
+* Run monthly 1:1 Performance & Wellbeing Check-in's
+* Run 6 month reviews (with input from HOD & ScrumMasters)
+
+**Head of Department areas of responsibility:**
+
 * Highlight needs, career progression, promotions, salary reviews
 * Identify knowledge gaps and arrange training
-* Encourage/ monitor use of the mentor system
+* Encourage & monitor use of the mentor system
 
 ### 🧑‍🤝‍🧑 Communities of Practice
 
