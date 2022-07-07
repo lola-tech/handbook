@@ -159,15 +159,23 @@ How to apply to be a mentor: just post a message in \`#cop-mentoring\` indicatin
 * They acknowledge holiday requests in CharlieHR so that they can schedule and adjust project work
 * Scrum masters are usually consulted when advocates review performance
 
-### 🙋 Advocates (formerly known as line managers)
+### 🙋 Advocates & Heads of Department
 
-Everyone should have an advocate who officially looks after them. Their main areas of responsibility are:
+Everyone should have a Head of Department (HOD) and an Advocate who officially looks after them. In some instances your Advocate may also be your HOD.
+
+**Advocate areas of responsibility:**
 
 * Discuss focus and goals
 * Review feedback
+* Highlight needs
+* Run monthly 1:1 Performance & Wellbeing Check-in's
+* Run 6 month reviews (with input from HOD & ScrumMasters)
+
+**Head of Department areas of responsibility:**
+
 * Highlight needs, career progression, promotions, salary reviews
 * Identify knowledge gaps and arrange training
-* Encourage/ monitor use of the mentor system
+* Encourage & monitor use of the mentor system
 
 ### 🧑‍🤝‍🧑 Communities of Practice
 
@@ -394,9 +402,11 @@ What goes for the office goes for your home working environment. We encourage yo
 
 Onelogin - This will allow you to log into most Lola Tech systems
 
-Slack, Runn, CharlieHR, 1Password, Atlassian, G Suite --> you receive invites to join by email as a new starter.      These applications and services are integrated with our SSO solution, you need your OneLogin credentials to access your account.
+Slack, Runn, CharlieHR, Atlassian, G Suite --> you receive invites to join by email as a new starter.      These applications and services are integrated with our SSO solution, you need your OneLogin credentials to access your account.
 
 GitHub - as a new starter you need to provide a personal GitHub account to be added to the organisation
+
+1Password - It provides a place for users to store various passwords, software licenses, and other sensitive information in a virtual vault 
 
 Zoom - if you need a Zoom subscription please reach us on the #lolasupport channel.
 
@@ -408,9 +418,11 @@ Cisco AMP - the installation process is automatically push via Jamf Now MDM.
 
 Cisco Umbrella - the installation process is automatically push via Jamf Now MDM
 
-Business Managed Apple IDs with @lola.tech domain - the Managed Apple ID  is integrated with our SSO solution, you need your OneLogin credentials to access your account.
+Business Managed Apple IDs with @lola.tech domain - the Managed Apple ID  is integrated with our SSO solution, you need your OneLogin credentials to access your account. A user can have two types of Apple IDs: the [Managed Apple ID](https://lola-tech.atlassian.net/wiki/spaces/NT/pages/1472724995/Managed+Apple+IDs) and [personal Apple ID](https://lola-tech.atlassian.net/wiki/spaces/NT/pages/1472659465/Sign+in+with+your+Apple+ID). You can use your Managed Apple ID or your personal Apple ID on the device
 
 Microsoft Azure
+
+Miro
 
 ### 📋 Acceptable Use Policy
 
@@ -431,6 +443,13 @@ You can carry over maximum 10 unused holidays on the condition it is used within
 If you leave the company we will balance your remaining holiday (positive or negative) with your final salary payment.
 
 If a public holiday is not company wide and not in the locality of the customer project you are working on, and it falls on a weekday, you can decide to work that day and take the holiday on another day that calendar month.
+
+In Romania, if you are a blood donor, you have the right to receive on request, for each donation, a paid day off (on the day of donation).\
+The minimum interval between donations is 8 weeks, but the number of donations should not exceed 3 donations / year for women and 4-5 donations / year for men.
+
+The day off will be granted based of the supporting documents issued by the donation center, sent to refunds@lola.tech. 
+
+Please log your absence in CharlieHR as a sick day, with the mention “blood donation”.
 
 ### 🤒 Sick Leave
 
@@ -563,7 +582,8 @@ Benefits vary per country because of different tax rules, number of employees an
 
 * Meal vouchers
 * Health insurance for the employee and family (partner/kids)
-* Sport package
+* Sport package - we will refund you up to 250 lei / month for any practiced sport - all you have to do is send to refunds@lola.tech the proof of payment of the subscription / entrance to the gym / park / registration for sports competitions, and the amount will be added to your salary.  \
+  The purchase of equipment is not paid, only the sport activity itself.
 * Extra holiday for each year spent in Lola (max 5)
 
 **Referrals**  
