@@ -374,7 +374,7 @@ Whilst working from home, it helps to use your Slack status to show when you are
 Wherever you're physically located while working you will be making frequent use of online tools. We've learned that it is very helpful to colleagues and collaborators if we all:
 
 * Provide a non-default avatar for services which allow it (e.g. Github, Slack, Jira).
-* Default to keeping your camera on during meetings.
+* Default to keeping your camera on during meetings. If there is a good reason why you would rather keep your camera off, please inform your meeting colleagues. 
 
 It is not the company's intention to police your appearance in any way. The avatar you provide need not be a direct representation, though consistency across platforms is helpful to all. There are many occasions when it is sensible and reasonable to keep your camera off and a break from seeing ourselves is often welcome but visibility, even when you are not the speaker, supports a communicative, welcoming and human workplace.
 
