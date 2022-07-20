@@ -42,6 +42,7 @@ const Header = () => {
             width={266}
             height={50}
             className="header-image"
+            priority
           />
           <h1 className="header-text">Staff Handbook</h1>
         </div>

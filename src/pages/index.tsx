@@ -16,7 +16,6 @@ import ToC, { ToCItem } from '../components/ToC';
 import Header from '../components/Header';
 import Favicon from '../components/Favicon';
 import Footer from '@/components/Footer';
-import Alerts from '@/components/Alerts';
 
 interface Props {
   content: MDXRemoteSerializeResult;
@@ -46,28 +45,6 @@ export default function Index({ content, toc }: Props) {
           <div className="content-wrapper">
             <div className="content-container">
               <MDXRemote {...content} components={components} />
-            </div>
-            <div className="alerts-container">
-              <Alerts
-                type="red"
-                message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, asperiores accusamus placeat vel cumque doloremque error a quod quam iste non corporis rerum pariatur ducimus soluta at excepturi suscipit! Harum."
-              />
-              <Alerts
-                type="yellow"
-                message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, asperiores accusamus placeat vel cumque doloremque error a quod quam iste non corporis rerum pariatur ducimus soluta at excepturi suscipit! Harum."
-              />
-              <Alerts
-                type="grey"
-                message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, asperiores accusamus placeat vel cumque doloremque error a quod quam iste non corporis rerum pariatur ducimus soluta at excepturi suscipit! Harum."
-              />
-              <Alerts
-                type="green"
-                message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, asperiores accusamus placeat vel cumque doloremque error a quod quam iste non corporis rerum pariatur ducimus soluta at excepturi suscipit! Harum."
-              />
-              <Alerts
-                type="blue"
-                message="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, asperiores accusamus placeat vel cumque doloremque error a quod quam iste non corporis rerum pariatur ducimus soluta at excepturi suscipit! Harum."
-              />
             </div>
           </div>
         </main>
@@ -124,5 +101,5 @@ export const getStaticProps = async () => {
 export const config = {
   // So, this is cool. Use it on any next.js page to remove all clientside js from the output.
   // Of course you only want to do this on super-static views like this one - but the page will be super-fast now.
-  // unstable_runtimeJS: false,
+  unstable_runtimeJS: false,
 };

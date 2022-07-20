@@ -286,7 +286,7 @@ h4 {
 }
 
 .dots-separator {
-  height: 400px;
+  height: 100px;
   display: flex;
   justify-content: center;
 }
