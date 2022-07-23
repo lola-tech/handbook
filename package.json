@@ -28,7 +28,7 @@
     "@openlab/vercel-netlify-cms-github": "1.1.1",
     "@picocss/pico": "1.5.3",
     "next": "12.2.2",
-    "next-mdx-remote": "3.0.8",
+    "next-mdx-remote": "4.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "rehype-img-size": "1.0.1",
