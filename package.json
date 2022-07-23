@@ -36,7 +36,7 @@
     "remark-extract-toc": "1.1.0",
     "remark-parse": "10.0.1",
     "remark-slug": "7.0.1",
-    "unified": "10.1.1"
+    "unified": "10.1.2"
   },
   "devDependencies": {
     "@babel/core": "7.18.9",
